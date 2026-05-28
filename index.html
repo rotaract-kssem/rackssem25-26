@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rotaract Club of KSSEM</title>
+    <meta name="description"
+        content="Official website of the Rotaract Club of K.S. School of Engineering and Management (KSSEM), Bengaluru. Discover our community projects, professional development programs, and join us in serving humanity under Rotary District 3191.">
+    <meta name="keywords"
+        content="Rotaract KSSEM, Rotaract Club of KSSEM, KSSEM, Rotary Bangalore Vidyapeeta, RID 3191, Rotaract Bengaluru, Community Service, Engineering College Club">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body class="dark-theme">
+
+    <!-- Floating Glassmorphic Navbar -->
+    <header class="navbar-container" id="main-header">
+        <div class="navbar-wrapper container">
+            <div class="logo-box">
+                <div class="logo-separator"></div>
+                <a href="https://kssem.edu.in/" target="_blank" class="logo-link-inline"
+                    aria-label="KSSEM College Website">
+                    <img src="assets/images/college_logo.png" alt="KSSEM Logo" class="nav-logo-img college-logo-img">
+
+                </a>
+                <a href="#home" class="logo-link-inline" aria-label="Rotaract KSSEM Home">
+                    <img src="assets/images/logo.jpg" alt="Rotaract KSSEM Logo" class="nav-logo-img">
+                </a>
+                <a href="#home" class="logo-text-link">
+                    <span class="rotaract-text">Rotaract Club of</span>
+                    <span class="club-text">KSSEM</span>
+                </a>
+            </div>
+
+            <nav class="nav-menu" id="nav-menu">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#home" class="nav-link active" id="link-home">Home</a></li>
+                    <li class="nav-item"><a href="#about" class="nav-link" id="link-about">About Us</a></li>
+                    <li class="nav-item"><a href="#avenues" class="nav-link" id="link-avenues">Avenues</a></li>
+                    <li class="nav-item"><a href="#projects" class="nav-link" id="link-projects">Projects</a></li>
+                    <li class="nav-item"><a href="#board" class="nav-link" id="link-board">Our Team</a></li>
+                    <li class="nav-item"><a href="#contact" class="nav-link contact-btn" id="link-contact">Join Us</a>
+                    </li>
+                </ul>
+            </nav>
+
+            <div class="navbar-actions">
+                <button class="theme-toggle-nav-btn" id="theme-toggle" aria-label="Toggle theme">
+                    <i class="fa-solid fa-moon"></i>
+                </button>
+                <div class="mobile-toggle" id="mobile-toggle" aria-label="Toggle navigation menu">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Floating Join Us Button -->
+    <a href="#contact" class="floating-join-btn" id="floating-join-btn" aria-label="Join Us Form">
+        <i class="fa-solid fa-user-plus"></i>
+    </a>
+
+    <main>
+
+        <!-- Hero Section -->
+        <section id="home" class="hero-section">
+            <div class="hero-bg-gradients">
+                <div class="glow-sphere glow-1"></div>
+                <div class="glow-sphere glow-2"></div>
+            </div>
+
+            <div class="container hero-vertical-wrapper">
+                <!-- Landing Hero Image at the top/center -->
+                <div class="hero-image-card">
+                    <div class="hero-card-glow"></div>
+                    <img src="assets/images/hero.jpg" alt="Rotaract KSSEM Members" class="hero-img">
+                    <!-- Buttons overlayed on the image -->
+                    <div class="hero-image-ctas">
+                        <a href="#projects" class="btn btn-secondary" id="cta-projects">Explore Projects</a>
+                    </div>
+                </div>
+
+                <!-- Text content moved down below the image -->
+                <div class="hero-content-text">
+                    <div class="badge" id="hero-badge">Rotary District 3191</div>
+                    <h1 class="hero-title" id="hero-heading">
+                        Fellowship Through <span class="highlight-text">Service</span>
+                    </h1>
+                    <p class="hero-subtitle" id="hero-lead">
+                        Welcome to the Rotaract Club of KSSEM. Sponsored by <strong>Rotary Bangalore
+                            Vidyapeeta</strong>, we empower youth, develop leaders, and create lasting positive change
+                        in our communities.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Quick Info Panel -->
+            <!-- <div class="hero-scroll-indicator">
+                <span class="scroll-mouse"><span class="scroll-wheel"></span></span>
+                <span class="scroll-text">Scroll to explore</span>
+            </div> -->
+        </section>
+
+        <!-- Stats Counter Section -->
+        <section class="stats-section" id="stats">
+            <div class="container stats-grid">
+                <div class="stat-card" id="stat-members">
+                    <div class="stat-icon"><i class="fa-solid fa-users"></i></div>
+                    <div class="stat-number" data-target="300">0</div>
+                    <div class="stat-label">Active Rotaractors</div>
+                </div>
+                <div class="stat-card" id="stat-projects">
+                    <div class="stat-icon"><i class="fa-solid fa-briefcase"></i></div>
+                    <div class="stat-number" data-target="120">0</div>
+                    <div class="stat-label">Annual Projects</div>
+                </div>
+                <div class="stat-card" id="stat-hours">
+                    <div class="stat-icon"><i class="fa-solid fa-clock"></i></div>
+                    <div class="stat-number" data-target="12000">0</div>
+                    <div class="stat-label">Volunteer Hours</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Us Section -->
+        <section id="about" class="about-section scroll-offset">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-tag">Who We Are</span>
+                    <h2 class="section-title">Serving Humanity & Growing Together</h2>
+                    <div class="header-line"></div>
+                </div>
+
+                <div class="about-grid">
+                    <div class="about-text-content">
+                        <h3>Our Legacy</h3>
+                        <p>The Rotaract Club of KSSEM (K.S. School of Engineering and Management) is a vibrant youth
+                            organisation dedicated to community advancement, professional skill enhancement, and
+                            cross-cultural friendship. Under the guidance of our parent club, <strong>Rotary Bangalore
+                                Vidyapeeta</strong>, and as part of <strong>Rotary District 3191</strong>, we translate
+                            passion into constructive social impact.</p>
+
+                        <p>We provide college students with unique opportunities to lead, organize, and execute service
+                            initiatives. By working closely with local communities, we help solve real-world problems
+                            while learning critical collaboration and execution skills that shape our futures.</p>
+
+                        <div class="about-pillars">
+                            <div class="pillar-item">
+                                <div class="pillar-icon"><i class="fa-solid fa-graduation-cap"></i></div>
+                                <div class="pillar-info">
+                                    <h4>Leadership Development</h4>
+                                    <p>Organize large-scale events, head committees, and lead teams.</p>
+                                </div>
+                            </div>
+                            <div class="pillar-item">
+                                <div class="pillar-icon"><i class="fa-solid fa-handshake-angle"></i></div>
+                                <div class="pillar-info">
+                                    <h4>Community Enrichment</h4>
+                                    <p>Conduct blood camps, plantation drives, and support underserved schools.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="about-visual-content">
+                        <div class="visual-stack">
+                            <div class="visual-card main-card">
+                                <div class="card-glow"></div>
+                                <div class="visual-card-content">
+                                    <span class="club-code">Club ID: 213238</span>
+                                    <h3>Rotaract Club of KSSEM</h3>
+                                    <p class="parent-club">Mentored by Rotary Bangalore Vidyapeeta</p>
+                                    <div class="visual-tags">
+                                        <span>#Fellowship</span>
+                                        <span>#Service</span>
+                                        <span>#RID3191</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="visual-card secondary-card">
+                                <h4>Our Vision</h4>
+                                <p>To build a generation of socially responsible engineering students who lead with
+                                    empathy and innovate for the welfare of society.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Avenues of Service Section -->
+        <section id="avenues" class="avenues-section scroll-offset">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-tag">Avenues of Service</span>
+                    <h2 class="section-title">The Four Pillars of Rotaract</h2>
+                    <div class="header-line"></div>
+                </div>
+
+                <div class="avenues-grid">
+                    <!-- Club Service -->
+                    <div class="avenue-card" id="avenue-club">
+                        <div class="avenue-icon-wrapper club-bg">
+                            <i class="fa-solid fa-house-chimney"></i>
+                        </div>
+                        <h3>Club Service</h3>
+                        <p>Focuses on strengthening fellowship, developing strong relationship bounds among members, and
+                            ensuring efficient operation of the club.</p>
+                    </div>
+
+                    <!-- Community Service -->
+                    <div class="avenue-card" id="avenue-community">
+                        <div class="avenue-icon-wrapper community-bg">
+                            <i class="fa-solid fa-earth-americas"></i>
+                        </div>
+                        <h3>Community Service</h3>
+                        <p>Covers club initiatives designed to raise the standard of living and quality of life for
+                            families in local communities.</p>
+                    </div>
+
+                    <!-- Vocational Service -->
+                    <div class="avenue-card" id="avenue-vocational">
+                        <div class="avenue-icon-wrapper vocational-bg">
+                            <i class="fa-solid fa-briefcase"></i>
+                        </div>
+                        <h3>Professional Development</h3>
+                        <p>Aims to improve career guidance, technical skills, resume mastery, public speaking, and
+                            prepare students for corporate environments.</p>
+                    </div>
+
+                    <!-- International Service -->
+                    <div class="avenue-card" id="avenue-international">
+                        <div class="avenue-icon-wrapper international-bg">
+                            <i class="fa-solid fa-globe"></i>
+                        </div>
+                        <h3>International Service</h3>
+                        <p>Promotes global understanding, goodwill, and peace by networking and collaborating with
+                            global Rotaract chapters.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Showcase Section -->
+        <section id="projects" class="projects-section scroll-offset">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-tag">Our Impact</span>
+                    <h2 class="section-title">Recent Campaigns & Initiatives</h2>
+                    <div class="header-line"></div>
+                </div>
+
+                <!-- Category Type Toggle and Search Bar -->
+                <div class="projects-control-panel">
+                    <div class="filter-type-selector">
+                        <span class="selector-label">Categorize by:</span>
+                        <div class="toggle-switch-wrapper">
+                            <button class="toggle-btn active" id="toggle-avenues" data-type="avenue">Avenue of
+                                Service</button>
+                            <button class="toggle-btn" id="toggle-areas" data-type="area">Area of Focus</button>
+                        </div>
+                    </div>
+
+                    <div class="project-search-box">
+                        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                        <input type="text" id="project-search-input" placeholder="Search 120+ projects...">
+                        <button id="project-search-clear" class="search-clear-btn"
+                            style="display: none;">&times;</button>
+                    </div>
+                </div>
+
+                <!-- Filter Tabs (Dynamically Injected) -->
+                <div class="portfolio-filters" id="portfolio-filters">
+                    <!-- Dynamically populated via JS -->
+                </div>
+
+                <!-- Active Filters Indicator -->
+                <div class="active-filters-info" id="active-filters-info" style="display: none;">
+                    <span class="results-count" id="results-count">Showing 0 projects</span>
+                    <button class="clear-filters-link" id="clear-all-filters">Reset search & filters</button>
+                </div>
+
+                <!-- Projects Grid (Dynamically Injected) -->
+                <div class="projects-grid" id="projects-grid">
+                    <!-- Dynamically populated via JS -->
+                </div>
+
+                <!-- Load More Button -->
+                <div class="load-more-container" id="load-more-container">
+                    <button class="btn btn-secondary" id="btn-load-more">
+                        <span class="btn-text">Load More Projects</span>
+                        <span class="load-spinner" id="load-spinner"><i
+                                class="fa-solid fa-circle-notch fa-spin"></i></span>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Board of Directors Section -->
+        <section id="board" class="board-section scroll-offset">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-tag">Leadership</span>
+                    <h2 class="section-title">Board of Directors 2025 - 2026</h2>
+                    <div class="header-line"></div>
+                </div>
+
+                <div class="board-grid" id="board-grid">
+                    <!-- Dynamically populated via JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Join Us / Contact Section -->
+        <section id="contact" class="contact-section scroll-offset">
+            <div class="contact-bg-glow"></div>
+            <div class="container contact-container">
+                <div class="contact-info-panel">
+                    <span class="section-tag">Get in Touch</span>
+                    <h2>Start Your Journey With Us</h2>
+                    <p class="contact-desc">Ready to develop leadership skills, find professional opportunities, and
+                        make lifelong friends while serving the community? Fill out the membership form and our team
+                        will get in touch with you shortly.</p>
+
+                    <div class="contact-details">
+                        <div class="detail-item">
+                            <div class="detail-icon"><i class="fa-solid fa-location-dot"></i></div>
+                            <div class="detail-text">
+                                <h4>Location</h4>
+                                <p>K.S. School of Engineering and Management (KSSEM)<br>Mallasandra, Kanakapura Road,
+                                    Bengaluru - 560109</p>
+                            </div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-icon"><i class="fa-solid fa-envelope"></i></div>
+                            <div class="detail-text">
+                                <h4>Email</h4>
+                                <p>rackssem@gmail.com</p>
+                            </div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-icon"><i class="fa-solid fa-shield-halved"></i></div>
+                            <div class="detail-text">
+                                <h4>Club Details</h4>
+                                <p>Club ID: 213238 | District: RID 3191</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="social-links-title">Follow our official channels:</div>
+                    <div class="contact-social-icons">
+                        <a href="https://www.instagram.com/rackssem/" target="_blank"
+                            class="social-circle instagram-circle" aria-label="Follow us on Instagram"><i
+                                class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/company/rotaract-club-of-kssem/" target="_blank"
+                            class="social-circle linkedin-circle" aria-label="Follow us on LinkedIn"><i
+                                class="fa-brands fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+
+                <div class="contact-form-panel">
+                    <div class="form-wrapper">
+                        <h3>Membership Application</h3>
+                        <p>Join the Rotaract Club of KSSEM</p>
+
+                        <form id="membership-form" novalidate>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="form-name">Full Name *</label>
+                                    <input type="text" id="form-name" name="name" required
+                                        placeholder="Enter your full name">
+                                    <span class="error-msg" id="name-error">Please enter your name</span>
+                                </div>
+                            </div>
+
+                            <div class="form-row split">
+                                <div class="form-group">
+                                    <label for="form-email">Email Address *</label>
+                                    <input type="email" id="form-email" name="email" required
+                                        placeholder="name@example.com">
+                                    <span class="error-msg" id="email-error">Please enter a valid email</span>
+                                </div>
+                                <div class="form-group">
+                                    <label for="form-phone">Phone Number *</label>
+                                    <input type="tel" id="form-phone" name="phone" required
+                                        placeholder="10-digit number">
+                                    <span class="error-msg" id="phone-error">Please enter a 10-digit phone number</span>
+                                </div>
+                            </div>
+
+                            <div class="form-row split">
+                                <div class="form-group">
+                                    <label for="form-usn">USN / College Roll *</label>
+                                    <input type="text" id="form-usn" name="usn" required placeholder="e.g. 1KG23CS001">
+                                    <span class="error-msg" id="usn-error">Please enter your USN</span>
+                                </div>
+                                <div class="form-group">
+                                    <label for="form-branch">Branch & Year *</label>
+                                    <select id="form-branch" name="branch" required>
+                                        <option value="" disabled selected>Select branch & year</option>
+                                        <option value="CSE - 1st Year">CSE - 1st Year</option>
+                                        <option value="CSE - 2nd Year">CSE - 2nd Year</option>
+                                        <option value="CSE - 3rd Year">CSE - 3rd Year</option>
+                                        <option value="CSE - 4th Year">CSE - 4th Year</option>
+                                        <option value="ECE - 1st/2nd Year">ECE</option>
+                                        <option value="ECE - 3rd/4th Year">ECE (Senior)</option>
+                                        <option value="Civil - 1-4 Year">Civil Engineering</option>
+                                        <option value="Mechanical - 1-4 Year">Mechanical Engineering</option>
+                                        <option value="AI-DS - 1-4 Year">AI & DS</option>
+                                        <option value="MBA - 1st/2nd Year">MBA</option>
+                                    </select>
+                                    <span class="error-msg" id="branch-error">Please select your branch</span>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="form-interest">Primary Avenue of Interest *</label>
+                                <select id="form-interest" name="interest" required>
+                                    <option value="" disabled selected>Select an avenue</option>
+                                    <option value="Community Service">Community Service (Social Work, Eco campaigns)
+                                    </option>
+                                    <option value="Professional Development">Professional Development (Seminars, Career
+                                        fests)</option>
+                                    <option value="International Service">International Service (Global exchange,
+                                        Networking)</option>
+                                    <option value="Club Service">Club Service (Sports, Fellowship events, Media)
+                                    </option>
+                                </select>
+                                <span class="error-msg" id="interest-error">Please select your primary interest</span>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="form-message">Why do you want to join Rotaract? (Optional)</label>
+                                <textarea id="form-message" name="message" rows="3"
+                                    placeholder="Tell us a little bit about yourself..."></textarea>
+                            </div>
+
+                            <button type="submit" class="btn btn-submit" id="btn-submit">
+                                <span class="btn-text">Submit Application</span>
+                                <span class="spinner" id="form-spinner"><i
+                                        class="fa-solid fa-circle-notch fa-spin"></i></span>
+                            </button>
+                        </form>
+
+                        <!-- Success Message Box -->
+                        <div class="form-success-box" id="form-success">
+                            <div class="success-icon"><i class="fa-regular fa-circle-check"></i></div>
+                            <h3>Application Received!</h3>
+                            <p>Thank you for your interest, <strong id="success-user-name"></strong>. Your application
+                                has been logged. Secretary Manoj B or the membership coordinator will reach out to you
+                                on WhatsApp/Email within 48 hours!</p>
+                            <button class="btn btn-secondary btn-sm" id="btn-reset-form">Submit Another Form</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Case Study / Project Details Lightbox Modal -->
+    <div class="modal-backdrop" id="project-modal">
+        <div class="modal-card">
+            <button class="modal-close-btn" id="modal-close" aria-label="Close modal">&times;</button>
+            <div class="modal-header">
+                <span class="modal-tag" id="modal-project-tag">Category</span>
+                <h2 class="modal-title" id="modal-project-title">Project Title</h2>
+                <div class="modal-meta">
+                    <span><i class="fa-regular fa-calendar"></i> <span id="modal-project-date">Date</span></span>
+                    <span><i class="fa-regular fa-user"></i> Led by: <span
+                            id="modal-project-leader">Leader</span></span>
+                </div>
+            </div>
+            <div class="modal-body" id="modal-project-body">
+                <!-- Injected via Javascript -->
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" id="modal-close-action">Close Details</button>
+                <a href="https://www.instagram.com/rackssem/" target="_blank" class="btn btn-primary">View Photos on
+                    Instagram <i class="fa-brands fa-instagram"></i></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-grid">
+            <div class="footer-col-main">
+                <div class="logo-box footer-logo">
+                    <a href="#home" class="logo-link-inline" aria-label="Rotaract KSSEM Home">
+                        <img src="assets/images/logo.jpg" alt="Rotaract KSSEM Logo" class="nav-logo-img">
+                    </a>
+                    <div class="logo-separator"></div>
+                    <a href="https://kssem.edu.in/" target="_blank" class="logo-link-inline"
+                        aria-label="KSSEM College Website">
+                        <img src="assets/images/college_logo.png" alt="KSSEM Logo"
+                            class="nav-logo-img college-logo-img">
+                    </a>
+                    <a href="#home" class="logo-text-link">
+                        <span class="rotaract-text">Rotaract</span>
+                        <span class="club-text">KSSEM</span>
+                    </a>
+                </div>
+                <p class="footer-desc">A student-run community service club of K.S. School of Engineering and
+                    Management, shaping the leaders of tomorrow through actions today.</p>
+                <p class="footer-district-meta">Rotary International District 3191 | Club ID: 213238</p>
+            </div>
+
+            <div class="footer-col-links">
+                <h4>Quick Navigation</h4>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#avenues">Avenues of Service</a></li>
+                    <li><a href="#projects">Campaigns</a></li>
+                    <li><a href="#board">Leadership Board</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col-contact">
+                <h4>Connect With Us</h4>
+                <p><i class="fa-solid fa-location-dot"></i> KSSEM Campus, Mallasandra, Off Kanakapura Road, Bengaluru
+                </p>
+                <p><i class="fa-solid fa-envelope"></i> rackssem@gmail.com</p>
+                <p><i class="fa-brands fa-instagram"></i> <a href="https://www.instagram.com/rackssem/"
+                        target="_blank">@rackssem</a></p>
+                <p><i class="fa-brands fa-linkedin"></i> <a
+                        href="https://www.linkedin.com/company/rotaract-club-of-kssem/" target="_blank">Rotaract Club of
+                        KSSEM</a></p>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <div class="container footer-bottom-flex">
+                <p>&copy; 2026 Rotaract Club of KSSEM. All Rights Reserved.</p>
+                <p>Sponsored by <strong>Rotary Bangalore Vidyapeeta</strong></p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Custom JS -->
+    <script src="assets/js/club-data.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>
