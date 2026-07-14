@@ -221,23 +221,185 @@ const boardData = [
 
 const projectsData = [
     {
-        "id": "65679336-323b-4cdc-bcff-5e8688f0f1b7",
-        "name": "Think Smart. Invest Smarter.",
-        "type": "STANDALONE_ACTIVITY",
-        "venue": "Online (Google Meet)",
-        "start_date": "21/04/2026",
-        "end_date": "21/04/2026",
-        "areas_of_focus": "",
-        "avenues_of_service": "",
-        "description": "The Rotaract Club of KSSEM, RID 3191, successfully organized an insightful and engaging financial webinar titled “Think Smart. Invest Smarter.” on 21st April 2026 from 7:00 PM to 8:30 PM via Google Meet.\nThe session featured CA Shilpa B Banakar, Chartered Accountant, Company Secretary, Entrepreneur, Speaker, and Theatre Artist, as the esteemed guest speaker. She shared her practical knowledge and real-life insights on financial planning, investing, and wealth creation, making complex financial concepts easy to understand for students and beginners.\nThe session began with an introduction to the importance of financial awareness and investing at an early stage. The speaker emphasized how small, consistent investments can lead to significant wealth creation over time through the power of compounding. Participants were encouraged to start early and stay disciplined in their financial journey.\nA key highlight of the session was understanding the importance of an emergency fund, where the speaker explained the need to be financially prepared for unexpected situations. She guided participants on maintaining at least 3–6 months of essential expenses as a safety net to ensure financial stability during emergencies.\nThe session also focused on investment options for beginners, including stocks, mutual funds, and basic financial instruments. The speaker compared different avenues such as stocks and commodities, helping participants understand risk, returns, and suitability based on individual goals.\nAnother important aspect covered was tax planning and smart financial decisions, where participants learned how to optimize their savings and plan their finances efficiently. The speaker also addressed whether students should explore investments like cryptocurrency, advising caution and informed decision-making.\nAdditionally, the session highlighted common mistakes beginners make while investing, such as lack of research, emotional decision-making, and inconsistency. The speaker encouraged participants to focus on long-term goals, continuous learning, and disciplined investing habits.\nThe session was highly interactive, with participants actively engaging through questions in the chat. Queries related to beginner-friendly platforms, modes of investment, risk management, and financial planning were effectively addressed, making the session informative and relatable.\nIn conclusion, “Think Smart. Invest Smarter.” proved to be an enriching and impactful session that empowered participants with essential financial knowledge and practical strategies. The webinar successfully encouraged young individuals to take their first steps towards financial independence with confidence and clarity.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/3c51ed01-ee60-459f-aac2-57f230c8a84f.jpeg",
+        "id": "682e63c8-0049-4056-b7f9-b2d3ab6509b1",
+        "name": "Memorandum of Understanding (MOU) Signing Ceremony",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "Hotel Ambient Turret, J.P. Nagar, Bengaluru",
+        "start_date": "11/05/2026",
+        "end_date": "11/05/2026",
+        "areas_of_focus": "Promoting Peace, Supporting Education",
+        "avenues_of_service": "Public Image, Editorial/Publication, Next Gen, Finance and Foundation, Club Service",
+        "description": "The Memorandum of Understanding (MOU) Signing Ceremony marked a significant collaboration between Rotary District 3191, Canva, and Ants Skill Varsity with the vision of empowering schools through creative learning and future-ready digital skills. The event highlighted the importance of integrating digital creativity and technology into the education sector to enhance learning opportunities for students.\n\nThe ceremony was hosted under the leadership of District Governor Rtn. Sridhar B R and brought together Rotary leaders and invited guests to witness the official signing of the partnership agreement. The session included networking interactions, discussions on educational innovation, and the future impact of digital learning initiatives in schools.\n\nRepresenting our side, Rtr. Yashwanth Gowda S attended the meeting along with Parent Rotary President Rtn. Srinivas Naidu Sir, gaining insights into Rotary’s initiatives toward educational development and digital empowerment.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/29053947-0cc7-405e-9141-d03b71ce1b41.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/122c9874-e38c-4ef7-a814-4f113dd92880.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/4d66fc1c-3272-452c-b2c3-82d5c5d302ae.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/2102c0d1-2924-4158-b1d5-eec87197023f.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/61015e66-55dd-4c40-aaba-383d1522edb5.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/18548f6e-8c5f-4bf1-bba7-5bf110371e14.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/3c51ed01-ee60-459f-aac2-57f230c8a84f.jpeg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/29053947-0cc7-405e-9141-d03b71ce1b41.jpeg"
+        ]
+    },
+    {
+        "id": "517628e6-5fa6-4a9d-a1e1-2b5514a298e4",
+        "name": "Council of Presidents and Secretaries 3.0",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "Atria Institute of Technology",
+        "start_date": "10/05/2026",
+        "end_date": "10/05/2026",
+        "areas_of_focus": "Protecting The Environment, Promoting Peace, Supporting Education, Saving Mothers and Children",
+        "avenues_of_service": "Public Image, Professional Development, Club Service",
+        "description": "The Rotaract Club of KSSEM proudly participated in the Council of Presidents and Secretaries 3.0, held at the conclusion of Quarter 3 of the Rotary Year 2025–26. The event brought together Rotaract clubs from across Rotary International District 3191 to review the accomplishments of the quarter, celebrate club achievements, and gain insights into upcoming district initiatives.\n\nThe assembly featured inspiring addresses from district leaders, who shared updates on district activities, recognized the efforts of clubs, and encouraged members to continue creating meaningful impact through service and leadership. The event also provided a valuable platform for clubs to connect, exchange ideas, and strengthen the spirit of collaboration within the district.\n\nA proud highlight of the event was the recognition received by the Rotaract Club of KSSEM. The club was awarded the Emerald Citation for Quarter 3, acknowledging its dedication, impactful projects, active participation, and consistent contributions throughout the quarter. This achievement stands as a testament to the collective efforts, commitment, and enthusiasm of the club's members.\n\nThe event concluded on a joyful note with fellowship and networking, providing members with an opportunity to celebrate achievements, build new connections, and create lasting memories with fellow Rotaractors from across the district.\n\nThe Rotaract Club of KSSEM remains committed to upholding the values of Rotaract and continuing its journey of service, leadership, and excellence in the quarters ahead.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/177c90f1-a44d-4d17-811b-bfefff395481.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/177c90f1-a44d-4d17-811b-bfefff395481.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/4c5a8681-e973-4463-8ccc-70d3196034b0.jpeg"
+        ]
+    },
+    {
+        "id": "7002916a-7bc8-4ddc-a33d-0a28816fd7f5",
+        "name": "Avishkara",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "Peninsula Beach Resort, Goa",
+        "start_date": "15/05/2026",
+        "end_date": "17/05/2026",
+        "areas_of_focus": "Growing Local Economies, Supporting Education",
+        "avenues_of_service": "Public Image, Professional Development, Club Service",
+        "description": "Avishkara – Presidents' and Secretaries' Training Assembly\n\nAvishkara, the annual Presidents' and Secretaries' Training Assembly organized by Rotaract District 3191, was a transformative learning experience for the incoming leadership team of the Rotaract Club of KSSEM. Held at Peninsula Beach Resort, Goa, the event brought together club and district leaders from across the district for an immersive overnight training and fellowship retreat.\n\nThe Rotaract Club of KSSEM was proudly represented by the incoming President, Secretary, and members of the core team, who actively participated in the sessions and activities designed to prepare leaders for the upcoming Rotary Year.\n\nThe journey to Goa itself was a memorable experience, fostering stronger bonds among the team members and creating an atmosphere of enthusiasm and collaboration even before the commencement of the event.\n\nAvishkara featured a series of insightful and interactive sessions covering essential aspects of club administration and leadership. Key topics included The Rotary Foundation (TRF) and grants, the President–Secretary partnership, treasury management, club reporting systems, district-club relations, membership development, and various other areas crucial for the successful functioning of a Rotaract club. These sessions provided participants with valuable knowledge, practical insights, and a clear understanding of their roles and responsibilities for the year ahead.\n\nThe programme was graced by distinguished Rotary leaders and trainers who shared their experiences and expertise, inspiring participants to lead with purpose and vision. The sessions on Rotary grants and project planning were particularly impactful, equipping club leaders with the tools needed to implement sustainable and meaningful community service initiatives.\n\nBeyond the training sessions, Avishkara served as an excellent platform for networking and fellowship. The opportunity to interact with leaders from various clubs across the district encouraged the exchange of ideas, best practices, and collaborative opportunities. The friendships forged and experiences shared throughout the event strengthened the spirit of Rotaract and reinforced the importance of teamwork and leadership.\n\nOverall, Avishkara was an enriching and empowering experience for the Rotaract Club of KSSEM's incoming leadership team. The knowledge gained, connections established, and memories created during the event have laid a strong foundation for a successful and impactful Rotary Year ahead.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/500f7d2b-21da-4192-b6a2-b32ad2679492.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/526657d0-1ee7-4c0e-9a30-f0c4e5f2da42.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/3acbb1fe-3fb7-45cc-9637-c00632aa7d2b.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/de3f7e98-75a4-4e22-801d-4220df598fc8.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/01a54361-8e6b-4c43-a84f-fa24ad58f627.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/500f7d2b-21da-4192-b6a2-b32ad2679492.jpeg"
+        ]
+    },
+    {
+        "id": "865f55c6-ab3c-44a9-9f02-e172c42c8b05",
+        "name": "Ekattvam: Voices of One India",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "Online (G - Meet)",
+        "start_date": "14/05/2026",
+        "end_date": "14/05/2026",
+        "areas_of_focus": "Growing Local Economies, Protecting The Environment, Promoting Peace, Supporting Education, Saving Mothers and Children",
+        "avenues_of_service": "International Service, Public Image, Professional Development, Club Service",
+        "description": "The Rotaract Club of KSSEM, RID 3191, successfully organized “Ekattvam: Voices of One India”, a national-level virtual youth confluence conducted on 14th May 2026 through Google Meet. The initiative was envisioned to celebrate India’s diversity while promoting unity, cultural understanding, and social harmony among students and young leaders from different parts of the country.\n\nThe event witnessed enthusiastic participation from Rotaract clubs across multiple states, including Chandigarh, Maharashtra, Madhya Pradesh, and Karnataka. Each participating club represented the voice of its region through engaging presentations that highlighted their culture, traditions, festivals, food, heritage, lifestyle, and linguistic identity. Participants also addressed common stereotypes and social challenges faced in their regions while sharing meaningful perspectives on unity and national integration.\n\nThe program followed a well-structured presentation format consisting of regional introductions, cultural highlights, social perspectives, unity messages, and impactful concluding statements. The sessions were informative, interactive, and insightful, enabling participants to appreciate the uniqueness and values of different cultures across India. To make the event more engaging, fun interactive activities and games were conducted between sessions, encouraging bonding and active participation among attendees.\n\n“Ekattvam” also served as a valuable networking platform, strengthening inter-club collaboration and fostering meaningful connections among Rotaractors nationwide. The event concluded on a positive and inspiring note, leaving participants with a strong message of togetherness, mutual respect, and harmony — truly reflecting the spirit of Unity in Diversity and celebrating the essence of One India, One Voice.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/2109e237-de2b-4a47-8bde-273b62f33247.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/c99def14-eac6-42f0-a12c-aa4395c9feee.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/785f6eca-02dd-438c-a104-c83c441cd5d0.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/a159267d-2464-44eb-aa8c-f951e195779c.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/9cac27f3-5c21-4f95-a0e7-1aedb947d4a5.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/8b38931b-28e2-436c-9855-d36f979c8f38.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/2109e237-de2b-4a47-8bde-273b62f33247.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/88494551-9df2-4d32-bccb-2edc7c15818e.jpeg"
+        ]
+    },
+    {
+        "id": "370d5c91-ee9d-4c01-8723-5f681c638741",
+        "name": "Prathiba Parva - District Level",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "Rotary House of Friendship",
+        "start_date": "10/05/2026",
+        "end_date": "10/05/2026",
+        "areas_of_focus": "Growing Local Economies, Promoting Peace, Supporting Education",
+        "avenues_of_service": "Public Image, Professional Development, Club Service",
+        "description": "The Rotaract Club of KSSEM is proud to celebrate remarkable achievements at Prathibha Parva, a district-level talent platform organized by Rotary District 3191.\n\nRepresenting the club with excellence and enthusiasm, our members showcased their talents across multiple categories and brought laurels to the club at the district level.\n\nRtr. Hita Srinivas secured First Prize in the Dance Competition, delivering an outstanding performance that captivated the audience and judges alike.\n\nRtr. Mahesh secured First Prize in the Impromptu Speaking Competition. After successfully advancing through the zonal round, he represented the Rotaract Club of KSSEM and Rotary Vidyapeeta at the district level. The competition tested participants on their ability to think on their feet and speak confidently on random topics with minimal preparation time. His exceptional communication skills, confidence, and presence of mind earned him the top position in the event.\n\nThese achievements reflect the diverse talents, dedication, and commitment of our members. They also highlight the club’s continuous efforts to provide opportunities for personal growth, leadership development, and the pursuit of excellence beyond academics and service.\n\nThe Rotaract Club of KSSEM extends its heartfelt congratulations to Rtr. Hita Srinivas and Rtr. Mahesh for their outstanding accomplishments. Their success serves as an inspiration to fellow Rotaractors and reinforces the spirit of learning, creativity, and self-development that our club strives to promote.\n\nWe also express our gratitude to our mentors, club leaders, and Rotary District 3191 for providing platforms that encourage members to discover, develop, and showcase their talents.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/4d43dd9c-7daa-4225-b352-befa8a0b3ef2.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/db7e135b-f39c-4d39-a6e4-d608558d4314.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/4d43dd9c-7daa-4225-b352-befa8a0b3ef2.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/778a9927-b71a-4c4f-b633-02597030c75f.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/1feda4a8-30ef-4d28-a24c-e57860ae4746.jpeg"
+        ]
+    },
+    {
+        "id": "81734f72-904a-44fb-8038-5e84b46c4454",
+        "name": "ನವೋದಯ - Navodaya",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Padmanabha Nagar Government School",
+        "start_date": "16/05/2026",
+        "end_date": "17/05/2026",
+        "areas_of_focus": "Protecting The Environment, Providing Clean Water, Sanitation and Hygiene, Promoting Peace, Supporting Education, Saving Mothers and Children",
+        "avenues_of_service": "Public Image, Community Service, Club Service",
+        "description": "Project ನವೋದಯ (Navodaya), meaning \"New Sunrise,\" was a highly successful two-day school transformation drive conducted on May 16th and 17th, 2026, at Padmanabha Nagar Government School. Organized by the Rotaract Club of KSSEM in collaboration with our Parent Rotary Club and the Swabhimaani Foundation, the project aimed to revitalize the school's infrastructure and turn plain walls into interactive learning spaces using the Building as Learning Aid (BaLA) framework. On Day 1, a dedicated team of 15 volunteers kicked off the drive at 8:30 AM by conducting intensive surface preparation, scraping weathered paint, filling wall cracks, applying a fresh base layer of primer, and sketching out large-scale educational murals. On Day 2, a focused group of 10 volunteers took over to execute the intricate painting, detailing, and color composition of the BaLA elements, including numerical tracks and literacy graphics. After completing the final aesthetic touches, the team performed a thorough cleanup to leave the campus spotless. The project successfully transformed multiple classrooms and outdoor areas into a vibrant, inspiring environment for the children while strengthening the collaborative ties between our club, the parent club, and the foundation. This meaningful initiative lived up to its name by delivering a brighter future for the school community through the dedicated physical service of our members.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/62ec07c0-58c6-4a3f-999e-2df56d335f80.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/d7fe3290-38a4-4782-a779-744f89b5cf4e.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/fbf2d95b-2297-4641-b65f-215e2b764059.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/ee78c8af-d6b9-4d62-bd21-6ac9c9061605.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/62ec07c0-58c6-4a3f-999e-2df56d335f80.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/6a9618e9-5526-4257-872e-e14040c6f570.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/73b7dbf4-7fdb-4787-a1f0-f94d0ab3e4ff.jpeg"
+        ]
+    },
+    {
+        "id": "12f07041-8f40-473b-81d5-ec190ef3880d",
+        "name": "Beyond the Bin – Crafting Change Through Creativity",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "KS School of Engineering and Management Campus",
+        "start_date": "04/05/2026",
+        "end_date": "04/05/2026",
+        "areas_of_focus": "Growing Local Economies, Protecting The Environment, Promoting Peace, Supporting Education",
+        "avenues_of_service": "Public Image, Community Service, Professional Development, Club Service",
+        "description": "The Rotaract Club of KSSEM, RID 3191, successfully organized “Beyond the Bin – Crafting Change Through Creativity” on 4th May 2026 at the KS School of Engineering and Management Campus. The initiative was conducted with the objective of promoting environmental sustainability, encouraging proper waste disposal practices, and creating awareness about the harmful effects of plastic pollution through innovative crafts made entirely from waste materials.\n\nAs part of the event, Rotaractors collected discarded materials such as newspapers, cardboard, paper scraps, plastic waste, and other recyclable items found around the college campus. Instead of allowing these materials to contribute to environmental pollution, the collected waste materials were creatively repurposed into awareness displays carrying impactful environmental messages.\n\nParticipants showcased their creativity by designing unique installations and artworks with messages such as “Say No to Plastic,” “Use Dustbins, Keep the Campus Clean,”** and the universally recognized Recycling Symbol. One of the major highlights of the event was the creation of “RACKSSEM” using rolled newspaper sheets and recycled materials, symbolizing the club’s commitment towards sustainability and environmental conservation.\n\nThe awareness installations were created to be displayed around the college premises, serving as constant reminders for students and visitors to avoid littering, reduce plastic usage, segregate waste, and make effective use of dustbins. Through these creative displays, the club aimed to encourage eco-friendly habits and inspire students to contribute towards maintaining a cleaner and greener campus environment.\n\nThe event provided an excellent platform for participants to express their creativity while understanding the importance of recycling and reusing resources. It highlighted how materials often considered waste can be transformed into meaningful creations that create positive social impact. The initiative also promoted teamwork, innovation, and environmental consciousness among the participants.\n\nThe activity witnessed enthusiastic participation from 60 Rotaractors and students, making the initiative both engaging and educational. The creative artworks not only beautified the campus but also spread strong messages about environmental responsibility and sustainable living.\n\nIn conclusion, “Beyond the Bin – Crafting Change Through Creativity” was a successful initiative by the Rotaract Club of KSSEM that effectively combined creativity with environmental awareness. By transforming waste materials into meaningful awareness installations, the event successfully promoted the importance of recycling, proper waste disposal, and reducing plastic pollution. The initiative left a lasting impact on the campus community and reinforced the message that small actions can lead to significant positive changes for a cleaner, greener, and more sustainable future.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/54a65ac0-0f54-46ac-b425-82b874411be0.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/987709a7-616c-4fde-a334-8d95caa71289.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/54a65ac0-0f54-46ac-b425-82b874411be0.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/62ee1fe8-83f3-448d-af95-5d877b7afad6.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/d478fbd7-c808-4938-94ec-cf88d9cf0028.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/95d5478d-350e-4cec-b865-595e04e2e5e0.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/8111fcc6-416e-42f5-9aa2-de2349bfaa3a.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/e93a19ee-dc9a-4f10-a3ee-952464718ea8.jpeg"
+        ]
+    },
+    {
+        "id": "88eb6e0f-14ff-4f6a-9b47-caba4e184582",
+        "name": "Eco Warriors",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "KSSEM College",
+        "start_date": "02/05/2026",
+        "end_date": "03/05/2026",
+        "areas_of_focus": "Growing Local Economies, Protecting The Environment, Providing Clean Water, Sanitation and Hygiene, Promoting Peace",
+        "avenues_of_service": "Public Image, Community Service, Club Service",
+        "description": "The event was organized with the objective of promoting cleanliness, environmental responsibility, and community involvement among students. Volunteers enthusiastically participated in the initiative and were divided into groups to carry out the cleanliness drive effectively across different areas of the campus.\n\nParticipants actively cleaned common spaces, collected waste materials, and contributed towards maintaining a cleaner and healthier environment within the college premises. The initiative encouraged teamwork, discipline, leadership, and social responsibility among the students while spreading awareness about the importance of cleanliness and sustainable practices.\n\nThe two-day event witnessed active participation from students and successfully created a positive impact on the campus environment. Through Eco Warriors, the Rotaract Club of KSSEM and NSS once again demonstrated their commitment towards community service and environmental awareness.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/8021d3f6-28d0-4c27-a3f8-7cb288bd0596.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/da6ff38b-eb83-424a-9c91-05541aae0d6a.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/8021d3f6-28d0-4c27-a3f8-7cb288bd0596.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/94836fdf-0750-41f4-b037-b0cdc95b9138.jpeg"
+        ]
+    },
+    {
+        "id": "cf7242f7-86ff-49c0-9b78-4d2704c3691d",
+        "name": "Food Donation Drive",
+        "type": "COLLABORATION_WITH_SPONSORED_CLUB",
+        "venue": "K R Market and Victoria Hospital",
+        "start_date": "04/04/2026",
+        "end_date": "04/04/2026",
+        "areas_of_focus": "Fighting Disease",
+        "avenues_of_service": "Community Service",
+        "description": "The Rotaract Club of KSSEM, in collaboration with Swabhimaani Foundation, successfully organized a Food Donation Drive on April 4th, 2026, with the aim of serving needy and underprivileged people. As a part of this humanitarian initiative, around 100 food packets were prepared and distributed to roadside needy people around K R Market and Victoria Hospital, Bengaluru.\n\nThe drive was carried out with great enthusiasm and dedication by the external volunteers. The activity mainly focused on spreading kindness, compassion, and social responsibility towards the community.\n\nThe initiative created a meaningful impact among the beneficiaries and also helped the members understand the importance of service and empathy. The collaboration with Swabhimaani Foundation added more strength and support to the event, making the drive more organized and effective.\n\nOverall, the event was successfully completed with active participation from the members of the Rotaract Club of KSSEM, reflecting the true spirit of “Service Above Self.”",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/5542fa71-3e6d-4314-b6e5-7401aaf8fcb5.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/7af7eef9-6a2b-455d-94a8-795bdb08aa93.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/7742560a-18e0-42e8-b388-0817e14360f5.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/38147576-18f0-4d5e-9abe-eb64d6fa472b.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/5542fa71-3e6d-4314-b6e5-7401aaf8fcb5.jpeg"
+        ]
+    },
+    {
+        "id": "e052ac0e-6bc4-4df3-b266-51d9fbf3c4cc",
+        "name": "Ugadi Celebration",
+        "type": "HOSTED_ACTIVITY",
+        "venue": "V Legacy, Hosakerehalli",
+        "start_date": "05/04/2026",
+        "end_date": "05/04/2026",
+        "areas_of_focus": "Growing Local Economies, Promoting Peace, Supporting Education",
+        "avenues_of_service": "Community Service, Club Service",
+        "description": "The Rotaract Club of KSSEM enthusiastically volunteered at the Ugadi Celebration organized by Kamavari Sangam. The event provided members with an opportunity to engage in community service while contributing to the successful execution of the celebration. Volunteers actively assisted in coordinating activities and ensuring the event was conducted smoothly, reflecting strong teamwork and dedication throughout the day.\nThe club expresses its sincere gratitude to the faculty coordinator, Keerthi Sir, for providing this opportunity and guiding the team throughout the event. Special appreciation is also extended to Rtr. Hemanth for efficiently coordinating with the volunteers and managing the activities seamlessly.\nThe volunteering experience was both meaningful and memorable for all the participants. As a gesture of appreciation for their efforts and contribution, the management presented goodies to the volunteers, making the experience even more special and encouraging the spirit of service among the members.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/22a80942-6074-47b7-b9ce-a36fb823ac3d.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/103f4165-0b7b-4d64-a973-7279b1877d2b.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/b3281fb9-0952-4611-a09d-756d1aa107f6.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/22a80942-6074-47b7-b9ce-a36fb823ac3d.jpeg"
         ]
     },
     {
@@ -304,38 +466,23 @@ const projectsData = [
         ]
     },
     {
-        "id": "e052ac0e-6bc4-4df3-b266-51d9fbf3c4cc",
-        "name": "Ugadi Celebration",
-        "type": "HOSTED_ACTIVITY",
-        "venue": "V Legacy, Hosakerehalli",
-        "start_date": "05/04/2026",
-        "end_date": "05/04/2026",
-        "areas_of_focus": "Growing Local Economies, Promoting Peace, Supporting Education",
-        "avenues_of_service": "Community Service, Club Service",
-        "description": "The Rotaract Club of KSSEM enthusiastically volunteered at the Ugadi Celebration organized by Kamavari Sangam. The event provided members with an opportunity to engage in community service while contributing to the successful execution of the celebration. Volunteers actively assisted in coordinating activities and ensuring the event was conducted smoothly, reflecting strong teamwork and dedication throughout the day.\nThe club expresses its sincere gratitude to the faculty coordinator, Keerthi Sir, for providing this opportunity and guiding the team throughout the event. Special appreciation is also extended to Rtr. Hemanth for efficiently coordinating with the volunteers and managing the activities seamlessly.\nThe volunteering experience was both meaningful and memorable for all the participants. As a gesture of appreciation for their efforts and contribution, the management presented goodies to the volunteers, making the experience even more special and encouraging the spirit of service among the members.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/22a80942-6074-47b7-b9ce-a36fb823ac3d.jpeg",
+        "id": "65679336-323b-4cdc-bcff-5e8688f0f1b7",
+        "name": "Think Smart. Invest Smarter.",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "Online (Google Meet)",
+        "start_date": "21/04/2026",
+        "end_date": "21/04/2026",
+        "areas_of_focus": "",
+        "avenues_of_service": "",
+        "description": "The Rotaract Club of KSSEM, RID 3191, successfully organized an insightful and engaging financial webinar titled “Think Smart. Invest Smarter.” on 21st April 2026 from 7:00 PM to 8:30 PM via Google Meet.\nThe session featured CA Shilpa B Banakar, Chartered Accountant, Company Secretary, Entrepreneur, Speaker, and Theatre Artist, as the esteemed guest speaker. She shared her practical knowledge and real-life insights on financial planning, investing, and wealth creation, making complex financial concepts easy to understand for students and beginners.\nThe session began with an introduction to the importance of financial awareness and investing at an early stage. The speaker emphasized how small, consistent investments can lead to significant wealth creation over time through the power of compounding. Participants were encouraged to start early and stay disciplined in their financial journey.\nA key highlight of the session was understanding the importance of an emergency fund, where the speaker explained the need to be financially prepared for unexpected situations. She guided participants on maintaining at least 3–6 months of essential expenses as a safety net to ensure financial stability during emergencies.\nThe session also focused on investment options for beginners, including stocks, mutual funds, and basic financial instruments. The speaker compared different avenues such as stocks and commodities, helping participants understand risk, returns, and suitability based on individual goals.\nAnother important aspect covered was tax planning and smart financial decisions, where participants learned how to optimize their savings and plan their finances efficiently. The speaker also addressed whether students should explore investments like cryptocurrency, advising caution and informed decision-making.\nAdditionally, the session highlighted common mistakes beginners make while investing, such as lack of research, emotional decision-making, and inconsistency. The speaker encouraged participants to focus on long-term goals, continuous learning, and disciplined investing habits.\nThe session was highly interactive, with participants actively engaging through questions in the chat. Queries related to beginner-friendly platforms, modes of investment, risk management, and financial planning were effectively addressed, making the session informative and relatable.\nIn conclusion, “Think Smart. Invest Smarter.” proved to be an enriching and impactful session that empowered participants with essential financial knowledge and practical strategies. The webinar successfully encouraged young individuals to take their first steps towards financial independence with confidence and clarity.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/3c51ed01-ee60-459f-aac2-57f230c8a84f.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/103f4165-0b7b-4d64-a973-7279b1877d2b.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/b3281fb9-0952-4611-a09d-756d1aa107f6.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/22a80942-6074-47b7-b9ce-a36fb823ac3d.jpeg"
-        ]
-    },
-    {
-        "id": "cf7242f7-86ff-49c0-9b78-4d2704c3691d",
-        "name": "Food Donation Drive",
-        "type": "COLLABORATION_WITH_SPONSORED_CLUB",
-        "venue": "K R Market and Victoria Hospital",
-        "start_date": "04/04/2026",
-        "end_date": "04/04/2026",
-        "areas_of_focus": "Fighting Disease",
-        "avenues_of_service": "Community Service",
-        "description": "The Rotaract Club of KSSEM, in collaboration with Swabhimaani Foundation, successfully organized a Food Donation Drive on April 4th, 2026, with the aim of serving needy and underprivileged people. As a part of this humanitarian initiative, around 100 food packets were prepared and distributed to roadside needy people around K R Market and Victoria Hospital, Bengaluru.\n\nThe drive was carried out with great enthusiasm and dedication by the external volunteers. The activity mainly focused on spreading kindness, compassion, and social responsibility towards the community.\n\nThe initiative created a meaningful impact among the beneficiaries and also helped the members understand the importance of service and empathy. The collaboration with Swabhimaani Foundation added more strength and support to the event, making the drive more organized and effective.\n\nOverall, the event was successfully completed with active participation from the members of the Rotaract Club of KSSEM, reflecting the true spirit of “Service Above Self.”",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/5542fa71-3e6d-4314-b6e5-7401aaf8fcb5.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/7af7eef9-6a2b-455d-94a8-795bdb08aa93.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/7742560a-18e0-42e8-b388-0817e14360f5.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/38147576-18f0-4d5e-9abe-eb64d6fa472b.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/5542fa71-3e6d-4314-b6e5-7401aaf8fcb5.jpeg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/122c9874-e38c-4ef7-a814-4f113dd92880.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/4d66fc1c-3272-452c-b2c3-82d5c5d302ae.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/2102c0d1-2924-4158-b1d5-eec87197023f.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/61015e66-55dd-4c40-aaba-383d1522edb5.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/18548f6e-8c5f-4bf1-bba7-5bf110371e14.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/3c51ed01-ee60-459f-aac2-57f230c8a84f.jpeg"
         ]
     },
     {
@@ -412,23 +559,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "076c19c8-3477-4871-bb2b-107bae7fa349",
-        "name": "Royal Horizons 3.0",
-        "type": "PARTICIPATORY_ACTIVITY",
-        "venue": "Online (G - Meet)",
-        "start_date": "28/03/2026",
-        "end_date": "28/03/2026",
-        "areas_of_focus": "",
-        "avenues_of_service": "",
-        "description": "The Rotaract Club of KSSEM was represented by Rtr. Mahesh N, International Service Director, at Royal Horizons 3.0, organized by the District International Service Team of RID 3191 on 28th March 2026 at 8:00 PM via Google Meet.\n\nThe event was conducted as an interactive virtual session aimed at bringing together International Service Directors and Rotaractors across the district. The session followed a “virtual travel” theme, where participants set their preferred travel destinations as virtual backgrounds, creating an engaging and informal environment for interaction.\n\nThe session included fun activities and games, which encouraged active participation and helped in building rapport among attendees. In addition to the activities, discussions were held regarding ongoing and upcoming projects across different clubs, providing insights into current initiatives and ideas for future collaborations.\n\nThe event also served as a platform for interaction with fellow International Service Directors and members of the District ISD Team, enabling exchange of ideas and perspectives related to international service initiatives.\n\nOverall, the session facilitated engagement, networking, and meaningful discussions among participants, contributing to better coordination, collaboration, and understanding of activities at the district level.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/1ec7bc3c-81e6-4c73-9ea6-2a044638facf.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/50906823-09de-47ca-bd91-cc58771dca8c.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/1ec7bc3c-81e6-4c73-9ea6-2a044638facf.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/5a766576-0ec5-43e3-89a0-17131994cb8f.jpeg"
-        ]
-    },
-    {
         "id": "00b7829d-fd27-4a06-b191-93f1461208e5",
         "name": "Rama Navami Celebration",
         "type": "JOINT_INITIATIVE",
@@ -483,6 +613,23 @@ const projectsData = [
         ]
     },
     {
+        "id": "076c19c8-3477-4871-bb2b-107bae7fa349",
+        "name": "Royal Horizons 3.0",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "Online (G - Meet)",
+        "start_date": "28/03/2026",
+        "end_date": "28/03/2026",
+        "areas_of_focus": "",
+        "avenues_of_service": "",
+        "description": "The Rotaract Club of KSSEM was represented by Rtr. Mahesh N, International Service Director, at Royal Horizons 3.0, organized by the District International Service Team of RID 3191 on 28th March 2026 at 8:00 PM via Google Meet.\n\nThe event was conducted as an interactive virtual session aimed at bringing together International Service Directors and Rotaractors across the district. The session followed a “virtual travel” theme, where participants set their preferred travel destinations as virtual backgrounds, creating an engaging and informal environment for interaction.\n\nThe session included fun activities and games, which encouraged active participation and helped in building rapport among attendees. In addition to the activities, discussions were held regarding ongoing and upcoming projects across different clubs, providing insights into current initiatives and ideas for future collaborations.\n\nThe event also served as a platform for interaction with fellow International Service Directors and members of the District ISD Team, enabling exchange of ideas and perspectives related to international service initiatives.\n\nOverall, the session facilitated engagement, networking, and meaningful discussions among participants, contributing to better coordination, collaboration, and understanding of activities at the district level.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/1ec7bc3c-81e6-4c73-9ea6-2a044638facf.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/50906823-09de-47ca-bd91-cc58771dca8c.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/1ec7bc3c-81e6-4c73-9ea6-2a044638facf.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/5a766576-0ec5-43e3-89a0-17131994cb8f.jpeg"
+        ]
+    },
+    {
         "id": "afcad297-0971-46cf-843e-bcdc92011529",
         "name": "Mahotsav 3.0: Dil Se Hyderabad",
         "type": "PARTICIPATORY_ACTIVITY",
@@ -515,6 +662,25 @@ const projectsData = [
         "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/f44698ac-6518-4677-9f19-dfb7ea745d6b.jpeg",
         "photos": [
             "https://media.3191-2525.clubstack.tixora.space/uploads/f44698ac-6518-4677-9f19-dfb7ea745d6b.jpeg"
+        ]
+    },
+    {
+        "id": "b4d5a8db-5968-48e8-a68d-28e04d437e1a",
+        "name": "Rotasia 2026",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "Esthell Village Resort, Mahabalipuram",
+        "start_date": "05/02/2026",
+        "end_date": "08/02/2026",
+        "areas_of_focus": "",
+        "avenues_of_service": "International Service, Public Image, Club Service",
+        "description": "The Rotaract Club of KSSEM was proudly represented at Rotasia 2026, one of the most prestigious gatherings of Rotaractors, held from 5th to 8th February 2026 at Esthell Village Resort, Mahabalipuram. The event brought together hundreds of Rotaractors from different districts for four days of learning, networking, leadership development, and fellowship.\n\nRepresenting the club, Mahesh N and Lohith J attended the event and actively participated in various sessions, discussions, and interactive activities organized throughout the conference. Rotasia provided an excellent platform for Rotaractors to exchange ideas, gain new perspectives on leadership, and strengthen their connection with the larger Rotaract community.\n\nThe event featured inspiring keynote sessions, engaging workshops, and vibrant fellowship moments that encouraged participants to grow both personally and professionally. It also offered opportunities to interact with district leaders, experienced Rotarians, and fellow Rotaractors from across regions.\n\nOne of the memorable highlights of the event was witnessing the dynamic Rotaract Business Session, where Rotaractors shared their experiences and reflections on their journey in Rotaract. Such moments reinforced the spirit of leadership, service, and personal growth that the organization stands for.\n\nOverall, Rotasia 2026 was a truly enriching experience for the participants from the Rotaract Club of KSSEM. The event strengthened their motivation to contribute more actively to Rotaract initiatives and brought back valuable insights, inspiration, and memories that will continue to guide their journey in service and leadership. ✨",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/Yfh55qnOphSfT5c4LuB6C.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/jE5-9UdtHo1CKCI-qLvaV.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/wVMimajSGm3_8lJE746fc.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/OVOg9GRaenRf73Ez8dQS9.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/SDi9eJ9YjkXsvZXxiZ1Ef.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/bqrh4ynJgtZd9KqqrnRAB.jpg"
         ]
     },
     {
@@ -556,44 +722,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "b1fbec81-d86b-45a8-8391-64d4f4c3e299",
-        "name": "The Silent Pandemic",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "07/02/2026",
-        "end_date": "07/02/2026",
-        "areas_of_focus": "",
-        "avenues_of_service": "Community Service, Professional Development, Club Service",
-        "description": "The Rotaract Club of Mount Carmel College, in collaboration with the Rotaract Club of Koramangala and the Rotaract Club of NMIMS, successfully organized “The Silent Pandemic”, a global awareness session on Antimicrobial Resistance (AMR) on 17th January 2026 via Google Meet.\n\nAntimicrobial Resistance is one of the most critical yet under-discussed global health threats, often referred to as a silent pandemic. This session aimed to educate participants about the growing danger of antibiotic resistance, its long-term consequences, and the role individuals play through everyday choices such as medication misuse and overconsumption of antibiotics.\n\nThe session was led by Dr. Raksha K. Bhat, Consultant Microbiologist and Infection Control Officer at Manipal Hospitals, Millers Road, Bengaluru. With her extensive clinical expertise, she provided valuable insights into how resistant microorganisms develop, the impact of AMR on modern medicine, and the urgent need for responsible antibiotic use. Real-world examples and practical guidelines helped participants better understand prevention strategies and the importance of awareness-driven action.\n\nThe interactive nature of the session encouraged questions, discussion, and reflection, making it an engaging and informative experience for all attendees. Participants gained a clearer understanding of how AMR affects global healthcare systems and why collective responsibility is essential to prevent future health crises.\n\nThe Silent Pandemic stood as a meaningful collaborative initiative, reinforcing Rotaract’s commitment to public health awareness, education, and proactive community engagement. The event concluded with a strong message—awareness today can prevent a crisis tomorrow.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/ZVdqd4P0n_w5kbob-v6ai.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/JG3Tw4cQ81FJwblPAiHvr.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/lI_bCx_h6WpASvI49QpjY.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/ODTwAYxDfs3gC2Fk0xgR8.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/lorc9CEJmLfd6E6f6yuQg.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/viiMVj9UqQnHt55_reSqn.jpeg"
-        ]
-    },
-    {
-        "id": "b4d5a8db-5968-48e8-a68d-28e04d437e1a",
-        "name": "Rotasia 2026",
-        "type": "PARTICIPATORY_ACTIVITY",
-        "venue": "Esthell Village Resort, Mahabalipuram",
-        "start_date": "05/02/2026",
-        "end_date": "08/02/2026",
-        "areas_of_focus": "",
-        "avenues_of_service": "International Service, Public Image, Club Service",
-        "description": "The Rotaract Club of KSSEM was proudly represented at Rotasia 2026, one of the most prestigious gatherings of Rotaractors, held from 5th to 8th February 2026 at Esthell Village Resort, Mahabalipuram. The event brought together hundreds of Rotaractors from different districts for four days of learning, networking, leadership development, and fellowship.\n\nRepresenting the club, Mahesh N and Lohith J attended the event and actively participated in various sessions, discussions, and interactive activities organized throughout the conference. Rotasia provided an excellent platform for Rotaractors to exchange ideas, gain new perspectives on leadership, and strengthen their connection with the larger Rotaract community.\n\nThe event featured inspiring keynote sessions, engaging workshops, and vibrant fellowship moments that encouraged participants to grow both personally and professionally. It also offered opportunities to interact with district leaders, experienced Rotarians, and fellow Rotaractors from across regions.\n\nOne of the memorable highlights of the event was witnessing the dynamic Rotaract Business Session, where Rotaractors shared their experiences and reflections on their journey in Rotaract. Such moments reinforced the spirit of leadership, service, and personal growth that the organization stands for.\n\nOverall, Rotasia 2026 was a truly enriching experience for the participants from the Rotaract Club of KSSEM. The event strengthened their motivation to contribute more actively to Rotaract initiatives and brought back valuable insights, inspiration, and memories that will continue to guide their journey in service and leadership. ✨",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/Yfh55qnOphSfT5c4LuB6C.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/jE5-9UdtHo1CKCI-qLvaV.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/wVMimajSGm3_8lJE746fc.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/OVOg9GRaenRf73Ez8dQS9.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/SDi9eJ9YjkXsvZXxiZ1Ef.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/bqrh4ynJgtZd9KqqrnRAB.jpg"
-        ]
-    },
-    {
         "id": "c3622b3e-12c1-44a3-8603-bc51a5cddc4a",
         "name": "Sparsha – District Initiative",
         "type": "JOINT_INITIATIVE",
@@ -630,118 +758,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "b6479c94-247e-4ba9-8cbe-62be14f75151",
-        "name": "Pitch Perfect – Selling Yourself to the Corporate World",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "30/01/2026",
-        "end_date": "30/01/2026",
-        "areas_of_focus": "Promoting Peace, Supporting Education",
-        "avenues_of_service": "Community Service, Professional Development, Club Service",
-        "description": "The Rotaract Club of Bangalore Prime, RID 3191, successfully organized an interactive professional development session titled “Pitch Perfect – Selling Yourself to the Corporate World” on 30th January 2025 at 7:00 PM IST via an online platform. The session was aimed at equipping students and young professionals with essential skills to confidently present themselves in corporate and professional settings.\nThe session was conducted by Dr. Harshita Singh, a seasoned corporate trainer and communication expert, who delivered an engaging and insightful session focused on self-presentation, interview readiness, and effective communication. Drawing from her industry experience, she emphasized the importance of clarity, structure, and confidence while introducing oneself in interviews and group discussions.\nDr. Harshita Singh introduced participants to a simple yet impactful framework for interview self-introductions, highlighting key elements such as identifying one’s present role, core strengths, relevant experiences, and future direction. She stressed that a self-introduction should be a concise and compelling “trailer” rather than a detailed life story, enabling candidates to make a strong first impression.\nThe session also covered practical aspects such as structuring answers, aligning personal strengths with career goals, and communicating impact through examples from internships, projects, and achievements. Interactive discussions and live participant introductions allowed attendees to apply the concepts in real time, making the session highly engaging and practical.\nParticipants from diverse academic backgrounds actively took part, gaining valuable insights into how effective self-presentation can enhance performance in interviews, corporate interactions, and leadership roles. The session received an enthusiastic response, with attendees appreciating the clarity, relatability, and actionable takeaways shared during the program.\nOverall, “Pitch Perfect – Selling Yourself to the Corporate World” proved to be a highly enriching and impactful session that empowered participants to communicate with confidence, structure their thoughts effectively, and present themselves professionally in the corporate world.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/_662N3QcWNb63OrjbMp1b.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/3pvuI67fTcsNuZDJqkAbT.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/yyN5mOd6Ys23wh0k0HHBT.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/3_dWsOQMqs158p6tABw__.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/GQZiMDGsiFiNjQgMDDvD8.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/UQ8cx0B4AV9y5VepQP3Ho.jpeg"
-        ]
-    },
-    {
-        "id": "406d8c2a-1f77-49cd-a9c9-729f5a80cd65",
-        "name": "Informative Session The Rotary Foundation & Rotary Grants",
-        "type": "PARTICIPATORY_ACTIVITY",
-        "venue": "Online (G-Meeet)",
-        "start_date": "28/01/2026",
-        "end_date": "28/01/2026",
-        "areas_of_focus": "Promoting Peace, Supporting Education",
-        "avenues_of_service": "Finance and Foundation, Club Service",
-        "description": "On 28th January 2026, the District Learning Facilitator Team of Rotaract District 3191 conducted an informative online session titled “The Rotary Foundation & Rotary Grants” via Google Meet at 8:00 PM. Members of the Rotaract Club of KSSEM actively participated in the session along with Rotaractors from across the district.  The session was led by PDRR Rtr. Rohit Ajmera (RI District 3060), who provided valuable insights into the objectives and functioning of The Rotary Foundation, along with an overview of various grant types, eligibility criteria, and application procedures. He emphasized the importance of sustainability and effective fund utilization while planning impactful service projects.  The interactive discussion helped members gain clarity on project planning and grant implementation at both local and global levels. Overall, the session was highly enriching and equipped participants with practical knowledge to design meaningful, purpose-driven initiatives aligned with Rotary’s humanitarian goals.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/OkvgWad-zjQFJjbgrKfqr.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/S1zqMervlkw5N7OqPQUlP.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/kIoT0SUG0FthmUti-Rk_W.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/nXQxY7CRIWRc6CUwXpSrW.jpeg"
-        ]
-    },
-    {
-        "id": "473ed1a7-398e-407f-b1c7-f18d24113f20",
-        "name": "Aqua Alert – Act Now to Save Our Water Future",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "28/01/2026",
-        "end_date": "28/01/2026",
-        "areas_of_focus": "Growing Local Economies, Providing Clean Water, Sanitation and Hygiene",
-        "avenues_of_service": "Community Service, Professional Development, Club Service",
-        "description": "The Rotaract Club of Meraki (RID 3011) in collaboration with the Rotaract Club of Surana College, Peenya (RID 3192) successfully organized “Aqua Alert – Act Now to Save Our Water Future”, an impactful online awareness session on 28th January 2026 via Google Meet.\n\nThe initiative was aimed at spreading awareness about the growing water crisis and emphasizing the importance of water conservation, sustainable usage, and environmental responsibility. In a world facing increasing water scarcity, Aqua Alert served as a timely reminder that water is not just a resource, but the very foundation of life.\n\nThe session featured Dr. Pankaj Grover, an Environmental Activist and Motivational Speaker, who shared valuable insights on water conservation, pollution control, waste management, and sustainable living practices. Through real-life examples and practical solutions, the speaker encouraged participants—especially the youth—to take conscious steps toward protecting natural resources and becoming responsible environmental stewards.\n\nParticipants gained a deeper understanding of the impact of daily habits on water consumption and were inspired to adopt small yet meaningful changes that contribute to long-term sustainability. The interactive nature of the session fostered engagement, reflection, and collective responsibility toward safeguarding water for future generations.\n\nAqua Alert stood as a successful collaboration between both clubs, reinforcing Rotaract’s commitment to community awareness, environmental advocacy, and collective action. The event concluded with a strong call to action—urging participants to not only learn but actively practice water conservation in their everyday lives.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/a14kEKT0xp2FvxkCfQqUB.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/g1h7IcGtw1YIWts4XP0u1.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/ZBn2U-yUaKYryGKAuUj2j.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/WXq4kT8Tm8ZvLk1m5I1Jg.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/_S_wB0IMfEynmsbwLBA7w.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/9ULxoET-LeHKlpAZ3SFIT.jpeg"
-        ]
-    },
-    {
-        "id": "0493ac6a-02e0-4db1-92b4-be0656deafbd",
-        "name": "Connecting India",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "28/01/2026",
-        "end_date": "28/01/2026",
-        "areas_of_focus": "",
-        "avenues_of_service": "International Service, Public Image, Public Relations",
-        "description": "The Rotaract Club of KSSEM was pleased to collaborate with the Rotaract Club of Chandigarh and partner clubs for a cultural exchange initiative titled “Connecting India.” The event was conducted on 28 January 2026 at 8:30 PM IST in a virtual format.\n\nThe session aimed to celebrate India’s rich cultural diversity by bringing together participants from different regions of the country. Through multilingual expressions, cultural narratives, and shared perspectives, the initiative highlighted the unity that exists beyond geographical and linguistic boundaries.\n\nParticipants were encouraged to showcase elements of their regional culture, traditions, and values, creating an engaging platform for learning, appreciation, and mutual respect. The event fostered meaningful conversations and helped participants understand how cultural diversity strengthens national identity.\n\nMembers from various Rotaract clubs actively participated and contributed to the success of the event, making it interactive and inclusive. The exchange not only promoted cultural awareness but also strengthened inter-club bonding and collaboration.\n\nOverall, “Connecting India” successfully reinforced the spirit of unity in diversity, aligning with Rotary’s vision of building connections beyond horizons while nurturing friendship, cultural pride, and national harmony.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/0tp5e1jeHhRsKW7yxr8Jw.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/kZjlPVp2eYfjf7bkGPa97.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/91JLHpItihr40OXDLlPWn.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/R9gI6xU3sdGdmP6DSfVaj.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/-uN-95hoZLzVI-Lf9NGA-.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Xxdl8hKXQV9z9zdfNVmG8.jpeg"
-        ]
-    },
-    {
-        "id": "8811fc3c-8c56-42ac-8ca6-b3d483ec7b22",
-        "name": "Project Hosla",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "27/01/2026",
-        "end_date": "27/01/2026",
-        "areas_of_focus": "Promoting Peace, Fighting Disease",
-        "avenues_of_service": "Community Service, Professional Development, Club Service",
-        "description": "The Rotaract Club of Delhi Genesis Midwest successfully organized Project Hosla, a Domestic Violence Awareness Session, on 27th January 2026 through an online platform. The initiative was aimed at spreading awareness, fostering empathy, and encouraging informed dialogue on the issue of domestic violence and its far-reaching social impact.\n\nThe session was conducted by Ms. Sonali Dahiya, Psychologist and Research Scholar at the Jindal Institute of Behavioural Sciences and Counsellor with the Delhi State Legal Services Authority (DSLSA). Drawing from her extensive professional experience, the speaker addressed the various forms of domestic violence, including physical, emotional, sexual, and verbal abuse, while highlighting the power dynamics and systemic inequalities that often sustain such violence.\n\nKey aspects of the session included recognizing early warning signs, understanding the social stigma surrounding survivors, and discussing real-life case perspectives to deepen awareness and sensitivity. The speaker also emphasized the importance of legal rights, institutional support systems, and accessible resources available to survivors, encouraging participants to become informed allies and advocates.\n\nThe session witnessed active participation and engagement, with attendees gaining valuable insights into the psychological, social, and legal dimensions of domestic violence. Project Hosla served as a meaningful platform to promote awareness, compassion, and responsible action, aligning strongly with Rotaract’s commitment to community service, social justice, and empowerment.\n\nOverall, the event stood as a powerful step toward breaking silence, reducing stigma, and reinforcing the message of support, strength, and hope for survivors.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/sAm6fTK4NBXw1j8IS7TD1.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/4DJ3Uk25bccmTtTefd8bk.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/PTHlHR2bbO0gCaAcfkedf.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/FWBfbkaFdGAa1-uXA67vy.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/82Pai_4XcVdvIVCXNaQI8.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/MUC7U9eIgeGRk4MY_5cSg.jpeg"
-        ]
-    },
-    {
-        "id": "5f7ef9c5-22ee-4c89-a660-ee26afa28a25",
-        "name": "ANISUTIDE – The Club Hopping of DRRE",
-        "type": "STANDALONE_ACTIVITY",
-        "venue": "Forum South Bengaluru",
-        "start_date": "27/01/2026",
-        "end_date": "27/01/2026",
-        "areas_of_focus": "",
-        "avenues_of_service": "Professional Development, Club Service",
-        "description": "ANISUTIDE – The Club Hopping of DRRE was a meaningful club service interaction session conducted on 27th January 2026 at Forum South Bengaluru. As part of this district initiative, the Rotaract Club of KSSEM had the privilege of hosting DRRE Rtn. Rtr. Anirudh Kulkarni, offering members an opportunity to directly engage with district leadership and gain insights into district functioning and future initiatives.\n\nThe session began with introductions by the Board of Directors, who outlined their roles and responsibilities, followed by an address by the DRRE. He provided an overview of the district structure, upcoming plans, and key initiatives for the forthcoming Rotary year, emphasizing the importance of inter-club collaboration and active member engagement. He also shared his vision of creating a common digital platform to enhance communication and coordination among clubs.\n\nKey district events, including the District Conference, and the “Dollar of Happiness” initiative were highlighted, encouraging members to participate actively. The interaction further allowed members to raise queries regarding sister club collaborations, government school permissions, social media coordination, and design support. The DRRE addressed these concerns with constructive suggestions, fostering an open and productive discussion.\n\nThe session was successfully executed through the coordinated efforts of the Core Committee and Board of Directors. Overall, ANISUTIDE strengthened the connection between the district leadership and the Rotaract Club of KSSEM, motivating members to actively contribute toward district initiatives and collaborative growth within the Rotaract fraternity.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/QZFDX6udv3i6ENIQ4u8iS.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/7hFcq9m_6PiwaJaEBfQzU.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/9Olvr19bCrp9OyuFrEH1N.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/eFct_gHpLLYO0QbzBgl3R.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/hHJ6KG-Apl7L93joSkliS.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/ktDuK3EfpKrSTjYPCviz0.jpeg"
-        ]
-    },
-    {
         "id": "89b381cd-d891-4c27-abed-5f5c78293af8",
         "name": "DEAR SOLDIER – A Letter Drive",
         "type": "JOINT_INITIATIVE",
@@ -761,6 +777,21 @@ const projectsData = [
         ]
     },
     {
+        "id": "87dc87e1-4e7f-4f0d-9842-489aa5e0ae0d",
+        "name": "Council of Presidents and Secretaries 2.0",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "Jyothi Nivas College, Bengaluru",
+        "start_date": "18/01/2026",
+        "end_date": "18/01/2026",
+        "areas_of_focus": "",
+        "avenues_of_service": "Community Service, Club Service, Public Relations",
+        "description": "On 18th January 2026, the Rotaract Club of KSSEM marked its presence at COPS 2.0 – the 2nd Council of Presidents and Secretaries, held at Jyothi Nivas College. The district-level meet brought together club leaders to review progress, share avenue-wise updates, and celebrate achievements from the first half of the Rotaract year.\n\nA key highlight of the event was the recognition segment, where the Rotaract Club of KSSEM was honoured with the Emerald Citation for Quarter 2, acknowledging the club’s consistent service, impactful initiatives, and active district participation. The recognition was received by a club representative on behalf of the entire team, symbolizing collective effort and commitment. Overall, COPS 2.0 served as a motivating platform for leadership learning, collaboration, and continued excellence.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/YxOg1sQFBopcmQUjmr_qp.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/c2b4eeb3-52fc-43d2-a0ef-b7cf62e6d6f5"
+        ]
+    },
+    {
         "id": "daf57d83-d64d-408f-9d63-d51e83849806",
         "name": "Royal Sports and Athletics Meet 2026",
         "type": "PARTICIPATORY_ACTIVITY",
@@ -776,57 +807,20 @@ const projectsData = [
         ]
     },
     {
-        "id": "963d9f1a-20a1-40c8-9055-13937d2bc7f3",
-        "name": "Parakram Pulse 2026",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (Google Forms)",
-        "start_date": "25/01/2026",
-        "end_date": "25/01/2026",
+        "id": "406d8c2a-1f77-49cd-a9c9-729f5a80cd65",
+        "name": "Informative Session The Rotary Foundation & Rotary Grants",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "Online (G-Meeet)",
+        "start_date": "28/01/2026",
+        "end_date": "28/01/2026",
         "areas_of_focus": "Promoting Peace, Supporting Education",
-        "avenues_of_service": "Professional Development, Club Service",
-        "description": "The Rotaract Club of Nagpur West Illumin8 (RID 3030) successfully organized “Parakram Pulse 2026”, an engaging online quiz initiative conducted in observance of Parakram Diwas, commemorating the birth anniversary of Netaji Subhas Chandra Bose.\n\nParakram Pulse 2026 was designed to rekindle the spirit of patriotism and deepen awareness about India’s freedom struggle, with a special focus on the life, leadership, and ideals of Netaji Subhas Chandra Bose. The initiative aimed to encourage young minds to reflect on values such as courage, discipline, sacrifice, and unwavering commitment to the nation.\n\nThrough a thoughtfully curated online quiz hosted via Google Forms, participants were challenged on historical knowledge while being inspired to connect India’s past struggles with present-day civic responsibility. The format promoted learning in an interactive and engaging manner, ensuring both accuracy and timeliness played a key role.\n\nThe event witnessed enthusiastic participation from Rotaractors and students across clubs, fostering healthy competition and collaborative learning. Certificates of collaboration were awarded to clubs with qualifying participation, while participation certificates were provided to all valid contributors, reinforcing recognition and encouragement.\n\nParakram Pulse 2026 stood as a meaningful initiative by the Rotaract Club of Nagpur West Illumin8, successfully blending education with patriotism and reinforcing the importance of remembering and carrying forward the legacy of India’s freedom fighters.\n\nThe event concluded with a strong message — Parakram is not just history; it is a responsibility to uphold the values that built our nation.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/xtOlaZ4iIQres6iJ1tB2m.jpeg",
+        "avenues_of_service": "Finance and Foundation, Club Service",
+        "description": "On 28th January 2026, the District Learning Facilitator Team of Rotaract District 3191 conducted an informative online session titled “The Rotary Foundation & Rotary Grants” via Google Meet at 8:00 PM. Members of the Rotaract Club of KSSEM actively participated in the session along with Rotaractors from across the district.  The session was led by PDRR Rtr. Rohit Ajmera (RI District 3060), who provided valuable insights into the objectives and functioning of The Rotary Foundation, along with an overview of various grant types, eligibility criteria, and application procedures. He emphasized the importance of sustainability and effective fund utilization while planning impactful service projects.  The interactive discussion helped members gain clarity on project planning and grant implementation at both local and global levels. Overall, the session was highly enriching and equipped participants with practical knowledge to design meaningful, purpose-driven initiatives aligned with Rotary’s humanitarian goals.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/OkvgWad-zjQFJjbgrKfqr.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/HoFEnX9b7UWNjvSitPwNz.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/tpV-wje2WNTlqi3Ehl0fp.jpeg"
-        ]
-    },
-    {
-        "id": "03907587-141b-4388-8bbd-b7a48bd511a6",
-        "name": "Exploring Inner Peace",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "25/01/2026",
-        "end_date": "25/01/2026",
-        "areas_of_focus": "Promoting Peace, Fighting Disease",
-        "avenues_of_service": "International Service, Community Service, Professional Development, Club Service",
-        "description": "The Rotaract Club of GHRUA successfully organized an insightful mental wellness session titled “Exploring Inner Peace” on 25th January 2026 through Google Meet. This event was organized by the Rotaract Club of GHRUA, and the Rotaract Club of KSSEM collaborated for this wonderful initiative.\n\nThe session focused on the importance of mental well-being, emotional intelligence, and self-awareness in today’s fast-paced and demanding lifestyle. It aimed to encourage participants to pause, reflect, and reconnect with their inner selves while fostering healthier mind–body balance.\n\nThe session was led by Dr. Aninnya Sarkar, Assistant Professor, Department of Humanities and Social Sciences, GH Raisoni College of Engineering and Management, Nagpur. Through an engaging and interactive approach, the speaker guided participants on understanding the concept of inner peace, exploring the question of self-identity, and aligning thoughts and actions with personal values. The discussion emphasized emotional balance, managing negativity, and cultivating clarity through mindful practices.\n\nParticipants actively engaged in reflective discussions and interactive segments, gaining practical insights into improving emotional intelligence and maintaining mental calm in everyday life. The session created a safe and encouraging space for open thought, learning, and self-discovery.\n\nThe Rotaract Club of KSSEM played a key collaborative role by supporting outreach and participation, strengthening inter-club cooperation and shared learning. The event was well-received and appreciated for its relevance, depth, and positive impact on the participants.\n\nOverall, Exploring Inner Peace stood as a meaningful initiative promoting mental wellness, self-growth, and conscious living, aligning strongly with Rotaract’s commitment to holistic development and community well-being.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/RVU-qQ3KLFgg4BUf9erXq.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Ws26wwIazcp1EhpAMusSR.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/uB22eD1w8GMzdDRL9GaFt.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/iPsy07ZCnWVmTfyxM6pi0.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/DmWDE0hpXUMBwpLETrFoL.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/6voXV7DPHUMNR1j2BUsPR.jpeg"
-        ]
-    },
-    {
-        "id": "59d5285d-00c7-4ebd-928b-24ffab58da5a",
-        "name": "Global Chapters ’25 – Phase 3",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (ZOOM)",
-        "start_date": "25/01/2026",
-        "end_date": "25/01/2026",
-        "areas_of_focus": "",
-        "avenues_of_service": "International Service, Public Image, Public Relations",
-        "description": "The Rotaract Club of KSSEM proudly participated in a cultural exchange initiative under Global Chapters ’25 – Phase 3: Threads of Culture, organized by the International Service Avenue of the Rotaract Club of University of Sri Jayewardenepura on 25 January 2026 at 8:00 PM IST.\n\nThe event brought together multiple Rotaract clubs from different regions, creating a vibrant platform for cultural interaction and global fellowship. A key highlight of the initiative was the letter exchange, through which participating clubs shared insights into their cultural heritage, traditions, values, and Rotaract experiences, fostering meaningful connections beyond geographical boundaries.\n\nThe exchange encouraged participants to appreciate diversity while recognizing the shared spirit of service and leadership. Members actively engaged in discussions, reflections, and cultural sharing, making the session interactive and enriching.\n\nThe Rotaract Club of KSSEM contributed enthusiastically to the initiative and was recognized for its valuable participation and collaboration. The event strengthened inter-club relationships and reinforced the importance of cultural understanding, communication, and international cooperation.\n\nOverall, Threads of Culture successfully celebrated unity in diversity, weaving together cultures, stories, and friendships across borders, in alignment with Rotary’s vision of global connection and service.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/8JujS4991TUogbA5T0696.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/J6mQiQXa9j8jsDULJJZeU.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/W16aFFoX4ZTCRCxSEm9hR.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/NYUALVjaV1iZl5oW2KUW9.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/xU-8PqdRRpgM-9unlqIyb.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/oIk92g1cruuOPlmASl3Mg.jpeg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/S1zqMervlkw5N7OqPQUlP.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/kIoT0SUG0FthmUti-Rk_W.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/nXQxY7CRIWRc6CUwXpSrW.jpeg"
         ]
     },
     {
@@ -849,25 +843,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "9038b9e4-c06e-4e89-8137-cecae6e66fa9",
-        "name": "ANNASANTARPANE 3.0 – THREE YEARS OF COMPASSIONATE GIVING",
-        "type": "STANDALONE_ACTIVITY",
-        "venue": "Holiday Village Road, Mallasandra & Banashankari Temple",
-        "start_date": "22/01/2026",
-        "end_date": "22/01/2026",
-        "areas_of_focus": "Growing Local Economies, Providing Clean Water, Sanitation and Hygiene",
-        "avenues_of_service": "Public Image, Community Service, Public Relations",
-        "description": "ANNASANTARPANE 3.0 – THREE YEARS OF COMPASSIONATE GIVING\n\nOn the auspicious occasion of the Ram Mandir Inauguration, the Rotaract Club of KSSEM successfully organized Annasantarpane 3.0, a flagship community service initiative that beautifully blended devotion with compassionate action. Now in its third consecutive year, Annasantarpane stands as a testament to the club’s unwavering commitment to serving humanity through the noble act of food donation.\n\nThis year’s edition was made possible through the generous support of around 30 individual sponsors and one collaborating club, with a total amount of ₹17,500 collected. The project proudly collaborated with the Rotaract Club of JP Nagar, whose support added strength and unity to this meaningful initiative. In addition, 35 individuals contributed personally, reaffirming that even small acts of kindness can create a significant impact.\n\nAs part of the initiative, nutritious Tomato Bath was carefully prepared, packed, and distributed to 500 people from families in need. Of these, 400 food packets were distributed along Holiday Village Road, Mallasandra, while the remaining 100 packets were served near the Banashankari Temple. Every step from preparation to distribution was carried out with dignity, discipline, and a deep sense of responsibility.\n\nAnnasantarpane 3.0 was not merely a food distribution drive; it was a heartfelt offering of love, hope, and respect. Each meal served symbolized the spirit of Annadaan, reminding everyone involved that true devotion finds its highest expression in selfless service.\n\nWith this third successful edition, Annasantarpane has rightfully earned its place as a Flagship Project of the Rotaract Club of KSSEM. The smiles received, the hunger eased, and the unity displayed reaffirmed the club’s belief that service, when driven by faith and compassion, has the power to transform lives.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/f2BHSFYp3OE6Ez8UKmsUK.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/JOltckC9wS2QYwNc6jMpw.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/h5vMcWXGdd1AgP_DAT7oi.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/N96sYHV3KmSvQU_3Gmc-f.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/PvhweqWC0C3ArxrSKV8Xa.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Z7qllhTgs4_EHrqYJFSuU.jpeg"
-        ]
-    },
-    {
         "id": "b6285951-e34d-4640-abe6-367917d75b2d",
         "name": "Bharat Gaurav – Honouring the Spirit of Bharat",
         "type": "JOINT_INITIATIVE",
@@ -887,18 +862,92 @@ const projectsData = [
         ]
     },
     {
-        "id": "87dc87e1-4e7f-4f0d-9842-489aa5e0ae0d",
-        "name": "Council of Presidents and Secretaries 2.0",
-        "type": "PARTICIPATORY_ACTIVITY",
-        "venue": "Jyothi Nivas College, Bengaluru",
-        "start_date": "18/01/2026",
-        "end_date": "18/01/2026",
-        "areas_of_focus": "",
-        "avenues_of_service": "Community Service, Club Service, Public Relations",
-        "description": "On 18th January 2026, the Rotaract Club of KSSEM marked its presence at COPS 2.0 – the 2nd Council of Presidents and Secretaries, held at Jyothi Nivas College. The district-level meet brought together club leaders to review progress, share avenue-wise updates, and celebrate achievements from the first half of the Rotaract year.\n\nA key highlight of the event was the recognition segment, where the Rotaract Club of KSSEM was honoured with the Emerald Citation for Quarter 2, acknowledging the club’s consistent service, impactful initiatives, and active district participation. The recognition was received by a club representative on behalf of the entire team, symbolizing collective effort and commitment. Overall, COPS 2.0 served as a motivating platform for leadership learning, collaboration, and continued excellence.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/YxOg1sQFBopcmQUjmr_qp.jpeg",
+        "id": "b6adc6d0-72cb-424c-853d-c7b2709eac0a",
+        "name": "E-Waste Awareness Webinar",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "13/01/2026",
+        "end_date": "13/01/2026",
+        "areas_of_focus": "Protecting The Environment, Promoting Peace",
+        "avenues_of_service": "Public Image, Community Service, Professional Development, Club Service",
+        "description": "The Rotaract Club of KSSEM was delighted to collaborate with the Rotaract Club of Symbiosis Skills and Professional University (RID 3131), in association with the Rotary Club of Mumbai, to organize an E-Waste Awareness Webinar on 13 January 2026, from 3:30 PM to 4:30 PM.\n\nThe session aimed to create awareness about the growing challenge of electronic waste and to educate participants on responsible e-waste management and sustainable environmental practices in daily life. The initiative highlighted the environmental, health, and economic impacts of improper e-waste disposal.\n\nThe webinar was conducted virtually and featured a CSR Trainer from Reteck Envirotech Pvt. Ltd. (India), a company actively involved in scientific recycling and sustainable e-waste management. The speaker explained the concept of e-waste and discussed how electronic items such as mobile phones, laptops, televisions, printers, refrigerators, and other household appliances become e-waste due to rapid technological advancements and shorter product life cycles.\n\nThe resource person elaborated on the environmental consequences of improper e-waste disposal, including soil and groundwater contamination, air pollution from open burning of electronic components, and increasing landfill accumulation. The session also addressed serious health hazards caused by toxic substances such as lead, mercury, and cadmium present in e-waste.\n\nAn important segment focused on the recovery of valuable materials like gold, silver, copper, aluminum, and iron, emphasizing how proper recycling conserves resources and supports a circular economy. The session also covered key Government of India initiatives, including the E-Waste (Management) Rules, 2022, Digital India, and Swachh Bharat Abhiyan.\n\nMembers of the Rotaract Club of KSSEM actively participated and gained practical insights into responsible digital practices. The collaboration strengthened inter-club bonding and reinforced a shared commitment to environmental sustainability and social responsibility.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/KOzenK8YzdjL-VfkWcf4b.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/c2b4eeb3-52fc-43d2-a0ef-b7cf62e6d6f5"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/6nFgILkdWl5GdHBgkelYX.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/sKBfYyUsAXGuDS_rP3DJG.jpeg"
+        ]
+    },
+    {
+        "id": "b6479c94-247e-4ba9-8cbe-62be14f75151",
+        "name": "Pitch Perfect – Selling Yourself to the Corporate World",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "30/01/2026",
+        "end_date": "30/01/2026",
+        "areas_of_focus": "Promoting Peace, Supporting Education",
+        "avenues_of_service": "Community Service, Professional Development, Club Service",
+        "description": "The Rotaract Club of Bangalore Prime, RID 3191, successfully organized an interactive professional development session titled “Pitch Perfect – Selling Yourself to the Corporate World” on 30th January 2025 at 7:00 PM IST via an online platform. The session was aimed at equipping students and young professionals with essential skills to confidently present themselves in corporate and professional settings.\nThe session was conducted by Dr. Harshita Singh, a seasoned corporate trainer and communication expert, who delivered an engaging and insightful session focused on self-presentation, interview readiness, and effective communication. Drawing from her industry experience, she emphasized the importance of clarity, structure, and confidence while introducing oneself in interviews and group discussions.\nDr. Harshita Singh introduced participants to a simple yet impactful framework for interview self-introductions, highlighting key elements such as identifying one’s present role, core strengths, relevant experiences, and future direction. She stressed that a self-introduction should be a concise and compelling “trailer” rather than a detailed life story, enabling candidates to make a strong first impression.\nThe session also covered practical aspects such as structuring answers, aligning personal strengths with career goals, and communicating impact through examples from internships, projects, and achievements. Interactive discussions and live participant introductions allowed attendees to apply the concepts in real time, making the session highly engaging and practical.\nParticipants from diverse academic backgrounds actively took part, gaining valuable insights into how effective self-presentation can enhance performance in interviews, corporate interactions, and leadership roles. The session received an enthusiastic response, with attendees appreciating the clarity, relatability, and actionable takeaways shared during the program.\nOverall, “Pitch Perfect – Selling Yourself to the Corporate World” proved to be a highly enriching and impactful session that empowered participants to communicate with confidence, structure their thoughts effectively, and present themselves professionally in the corporate world.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/_662N3QcWNb63OrjbMp1b.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/3pvuI67fTcsNuZDJqkAbT.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/yyN5mOd6Ys23wh0k0HHBT.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/3_dWsOQMqs158p6tABw__.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/GQZiMDGsiFiNjQgMDDvD8.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/UQ8cx0B4AV9y5VepQP3Ho.jpeg"
+        ]
+    },
+    {
+        "id": "963d9f1a-20a1-40c8-9055-13937d2bc7f3",
+        "name": "Parakram Pulse 2026",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (Google Forms)",
+        "start_date": "25/01/2026",
+        "end_date": "25/01/2026",
+        "areas_of_focus": "Promoting Peace, Supporting Education",
+        "avenues_of_service": "Professional Development, Club Service",
+        "description": "The Rotaract Club of Nagpur West Illumin8 (RID 3030) successfully organized “Parakram Pulse 2026”, an engaging online quiz initiative conducted in observance of Parakram Diwas, commemorating the birth anniversary of Netaji Subhas Chandra Bose.\n\nParakram Pulse 2026 was designed to rekindle the spirit of patriotism and deepen awareness about India’s freedom struggle, with a special focus on the life, leadership, and ideals of Netaji Subhas Chandra Bose. The initiative aimed to encourage young minds to reflect on values such as courage, discipline, sacrifice, and unwavering commitment to the nation.\n\nThrough a thoughtfully curated online quiz hosted via Google Forms, participants were challenged on historical knowledge while being inspired to connect India’s past struggles with present-day civic responsibility. The format promoted learning in an interactive and engaging manner, ensuring both accuracy and timeliness played a key role.\n\nThe event witnessed enthusiastic participation from Rotaractors and students across clubs, fostering healthy competition and collaborative learning. Certificates of collaboration were awarded to clubs with qualifying participation, while participation certificates were provided to all valid contributors, reinforcing recognition and encouragement.\n\nParakram Pulse 2026 stood as a meaningful initiative by the Rotaract Club of Nagpur West Illumin8, successfully blending education with patriotism and reinforcing the importance of remembering and carrying forward the legacy of India’s freedom fighters.\n\nThe event concluded with a strong message — Parakram is not just history; it is a responsibility to uphold the values that built our nation.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/xtOlaZ4iIQres6iJ1tB2m.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/HoFEnX9b7UWNjvSitPwNz.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/tpV-wje2WNTlqi3Ehl0fp.jpeg"
+        ]
+    },
+    {
+        "id": "b1fbec81-d86b-45a8-8391-64d4f4c3e299",
+        "name": "The Silent Pandemic",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "07/02/2026",
+        "end_date": "07/02/2026",
+        "areas_of_focus": "",
+        "avenues_of_service": "Community Service, Professional Development, Club Service",
+        "description": "The Rotaract Club of Mount Carmel College, in collaboration with the Rotaract Club of Koramangala and the Rotaract Club of NMIMS, successfully organized “The Silent Pandemic”, a global awareness session on Antimicrobial Resistance (AMR) on 17th January 2026 via Google Meet.\n\nAntimicrobial Resistance is one of the most critical yet under-discussed global health threats, often referred to as a silent pandemic. This session aimed to educate participants about the growing danger of antibiotic resistance, its long-term consequences, and the role individuals play through everyday choices such as medication misuse and overconsumption of antibiotics.\n\nThe session was led by Dr. Raksha K. Bhat, Consultant Microbiologist and Infection Control Officer at Manipal Hospitals, Millers Road, Bengaluru. With her extensive clinical expertise, she provided valuable insights into how resistant microorganisms develop, the impact of AMR on modern medicine, and the urgent need for responsible antibiotic use. Real-world examples and practical guidelines helped participants better understand prevention strategies and the importance of awareness-driven action.\n\nThe interactive nature of the session encouraged questions, discussion, and reflection, making it an engaging and informative experience for all attendees. Participants gained a clearer understanding of how AMR affects global healthcare systems and why collective responsibility is essential to prevent future health crises.\n\nThe Silent Pandemic stood as a meaningful collaborative initiative, reinforcing Rotaract’s commitment to public health awareness, education, and proactive community engagement. The event concluded with a strong message—awareness today can prevent a crisis tomorrow.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/ZVdqd4P0n_w5kbob-v6ai.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/JG3Tw4cQ81FJwblPAiHvr.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/lI_bCx_h6WpASvI49QpjY.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/ODTwAYxDfs3gC2Fk0xgR8.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/lorc9CEJmLfd6E6f6yuQg.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/viiMVj9UqQnHt55_reSqn.jpeg"
+        ]
+    },
+    {
+        "id": "473ed1a7-398e-407f-b1c7-f18d24113f20",
+        "name": "Aqua Alert – Act Now to Save Our Water Future",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "28/01/2026",
+        "end_date": "28/01/2026",
+        "areas_of_focus": "Growing Local Economies, Providing Clean Water, Sanitation and Hygiene",
+        "avenues_of_service": "Community Service, Professional Development, Club Service",
+        "description": "The Rotaract Club of Meraki (RID 3011) in collaboration with the Rotaract Club of Surana College, Peenya (RID 3192) successfully organized “Aqua Alert – Act Now to Save Our Water Future”, an impactful online awareness session on 28th January 2026 via Google Meet.\n\nThe initiative was aimed at spreading awareness about the growing water crisis and emphasizing the importance of water conservation, sustainable usage, and environmental responsibility. In a world facing increasing water scarcity, Aqua Alert served as a timely reminder that water is not just a resource, but the very foundation of life.\n\nThe session featured Dr. Pankaj Grover, an Environmental Activist and Motivational Speaker, who shared valuable insights on water conservation, pollution control, waste management, and sustainable living practices. Through real-life examples and practical solutions, the speaker encouraged participants—especially the youth—to take conscious steps toward protecting natural resources and becoming responsible environmental stewards.\n\nParticipants gained a deeper understanding of the impact of daily habits on water consumption and were inspired to adopt small yet meaningful changes that contribute to long-term sustainability. The interactive nature of the session fostered engagement, reflection, and collective responsibility toward safeguarding water for future generations.\n\nAqua Alert stood as a successful collaboration between both clubs, reinforcing Rotaract’s commitment to community awareness, environmental advocacy, and collective action. The event concluded with a strong call to action—urging participants to not only learn but actively practice water conservation in their everyday lives.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/a14kEKT0xp2FvxkCfQqUB.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/g1h7IcGtw1YIWts4XP0u1.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/ZBn2U-yUaKYryGKAuUj2j.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/WXq4kT8Tm8ZvLk1m5I1Jg.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/_S_wB0IMfEynmsbwLBA7w.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/9ULxoET-LeHKlpAZ3SFIT.jpeg"
         ]
     },
     {
@@ -921,19 +970,60 @@ const projectsData = [
         ]
     },
     {
-        "id": "b6adc6d0-72cb-424c-853d-c7b2709eac0a",
-        "name": "E-Waste Awareness Webinar",
+        "id": "8811fc3c-8c56-42ac-8ca6-b3d483ec7b22",
+        "name": "Project Hosla",
         "type": "JOINT_INITIATIVE",
         "venue": "Online (G-Meet)",
-        "start_date": "13/01/2026",
-        "end_date": "13/01/2026",
-        "areas_of_focus": "Protecting The Environment, Promoting Peace",
-        "avenues_of_service": "Public Image, Community Service, Professional Development, Club Service",
-        "description": "The Rotaract Club of KSSEM was delighted to collaborate with the Rotaract Club of Symbiosis Skills and Professional University (RID 3131), in association with the Rotary Club of Mumbai, to organize an E-Waste Awareness Webinar on 13 January 2026, from 3:30 PM to 4:30 PM.\n\nThe session aimed to create awareness about the growing challenge of electronic waste and to educate participants on responsible e-waste management and sustainable environmental practices in daily life. The initiative highlighted the environmental, health, and economic impacts of improper e-waste disposal.\n\nThe webinar was conducted virtually and featured a CSR Trainer from Reteck Envirotech Pvt. Ltd. (India), a company actively involved in scientific recycling and sustainable e-waste management. The speaker explained the concept of e-waste and discussed how electronic items such as mobile phones, laptops, televisions, printers, refrigerators, and other household appliances become e-waste due to rapid technological advancements and shorter product life cycles.\n\nThe resource person elaborated on the environmental consequences of improper e-waste disposal, including soil and groundwater contamination, air pollution from open burning of electronic components, and increasing landfill accumulation. The session also addressed serious health hazards caused by toxic substances such as lead, mercury, and cadmium present in e-waste.\n\nAn important segment focused on the recovery of valuable materials like gold, silver, copper, aluminum, and iron, emphasizing how proper recycling conserves resources and supports a circular economy. The session also covered key Government of India initiatives, including the E-Waste (Management) Rules, 2022, Digital India, and Swachh Bharat Abhiyan.\n\nMembers of the Rotaract Club of KSSEM actively participated and gained practical insights into responsible digital practices. The collaboration strengthened inter-club bonding and reinforced a shared commitment to environmental sustainability and social responsibility.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/KOzenK8YzdjL-VfkWcf4b.jpeg",
+        "start_date": "27/01/2026",
+        "end_date": "27/01/2026",
+        "areas_of_focus": "Promoting Peace, Fighting Disease",
+        "avenues_of_service": "Community Service, Professional Development, Club Service",
+        "description": "The Rotaract Club of Delhi Genesis Midwest successfully organized Project Hosla, a Domestic Violence Awareness Session, on 27th January 2026 through an online platform. The initiative was aimed at spreading awareness, fostering empathy, and encouraging informed dialogue on the issue of domestic violence and its far-reaching social impact.\n\nThe session was conducted by Ms. Sonali Dahiya, Psychologist and Research Scholar at the Jindal Institute of Behavioural Sciences and Counsellor with the Delhi State Legal Services Authority (DSLSA). Drawing from her extensive professional experience, the speaker addressed the various forms of domestic violence, including physical, emotional, sexual, and verbal abuse, while highlighting the power dynamics and systemic inequalities that often sustain such violence.\n\nKey aspects of the session included recognizing early warning signs, understanding the social stigma surrounding survivors, and discussing real-life case perspectives to deepen awareness and sensitivity. The speaker also emphasized the importance of legal rights, institutional support systems, and accessible resources available to survivors, encouraging participants to become informed allies and advocates.\n\nThe session witnessed active participation and engagement, with attendees gaining valuable insights into the psychological, social, and legal dimensions of domestic violence. Project Hosla served as a meaningful platform to promote awareness, compassion, and responsible action, aligning strongly with Rotaract’s commitment to community service, social justice, and empowerment.\n\nOverall, the event stood as a powerful step toward breaking silence, reducing stigma, and reinforcing the message of support, strength, and hope for survivors.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/sAm6fTK4NBXw1j8IS7TD1.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/6nFgILkdWl5GdHBgkelYX.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/sKBfYyUsAXGuDS_rP3DJG.jpeg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/4DJ3Uk25bccmTtTefd8bk.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/PTHlHR2bbO0gCaAcfkedf.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/FWBfbkaFdGAa1-uXA67vy.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/82Pai_4XcVdvIVCXNaQI8.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/MUC7U9eIgeGRk4MY_5cSg.jpeg"
+        ]
+    },
+    {
+        "id": "03907587-141b-4388-8bbd-b7a48bd511a6",
+        "name": "Exploring Inner Peace",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "25/01/2026",
+        "end_date": "25/01/2026",
+        "areas_of_focus": "Promoting Peace, Fighting Disease",
+        "avenues_of_service": "International Service, Community Service, Professional Development, Club Service",
+        "description": "The Rotaract Club of GHRUA successfully organized an insightful mental wellness session titled “Exploring Inner Peace” on 25th January 2026 through Google Meet. This event was organized by the Rotaract Club of GHRUA, and the Rotaract Club of KSSEM collaborated for this wonderful initiative.\n\nThe session focused on the importance of mental well-being, emotional intelligence, and self-awareness in today’s fast-paced and demanding lifestyle. It aimed to encourage participants to pause, reflect, and reconnect with their inner selves while fostering healthier mind–body balance.\n\nThe session was led by Dr. Aninnya Sarkar, Assistant Professor, Department of Humanities and Social Sciences, GH Raisoni College of Engineering and Management, Nagpur. Through an engaging and interactive approach, the speaker guided participants on understanding the concept of inner peace, exploring the question of self-identity, and aligning thoughts and actions with personal values. The discussion emphasized emotional balance, managing negativity, and cultivating clarity through mindful practices.\n\nParticipants actively engaged in reflective discussions and interactive segments, gaining practical insights into improving emotional intelligence and maintaining mental calm in everyday life. The session created a safe and encouraging space for open thought, learning, and self-discovery.\n\nThe Rotaract Club of KSSEM played a key collaborative role by supporting outreach and participation, strengthening inter-club cooperation and shared learning. The event was well-received and appreciated for its relevance, depth, and positive impact on the participants.\n\nOverall, Exploring Inner Peace stood as a meaningful initiative promoting mental wellness, self-growth, and conscious living, aligning strongly with Rotaract’s commitment to holistic development and community well-being.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/RVU-qQ3KLFgg4BUf9erXq.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Ws26wwIazcp1EhpAMusSR.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/uB22eD1w8GMzdDRL9GaFt.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/iPsy07ZCnWVmTfyxM6pi0.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/DmWDE0hpXUMBwpLETrFoL.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/6voXV7DPHUMNR1j2BUsPR.jpeg"
+        ]
+    },
+    {
+        "id": "3eb652ed-7b7a-4c68-8df7-9ca6639b487e",
+        "name": "Dopamine Detox – Reset Your Mind, Rebuild Real Connections",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "03/01/2026",
+        "end_date": "03/01/2026",
+        "areas_of_focus": "Fighting Disease",
+        "avenues_of_service": "Community Service, Professional Development, Club Service",
+        "description": "The Rotaract Club of Jyoti Nivas College, RID 3191 successfully organized an insightful professional development webinar titled “Dopamine Detox – Reset Your Mind, Rebuild Real Connections” on 3rd January 2026 via Google Meet. This event was organized by the Rotaract Club of Jyoti Nivas College, and the Rotaract Club of KSSEM collaborated for this wonderful initiative.\n\nThe session was designed to create awareness about the increasing dependence on digital devices and its impact on mental focus, productivity, and real-life connections. With the growing influence of screens in everyday life, the webinar aimed to help participants understand dopamine-driven habits and explore practical ways to reduce screen time and regain mental clarity.\n\nThe session was led by Mr. Nilesh Verma, a corporate trainer and the 48th President of JCI Orange City, who has also represented at the Asia Pacific Conference, Jakarta. Through real-life examples and interactive discussions, he explained how constant digital stimulation affects the human brain and emphasized the importance of mindful usage of gadgets. He introduced simple yet effective strategies to improve focus, build discipline, and develop healthier digital habits.\n\nParticipants actively engaged throughout the session and gained valuable insights into managing distractions, improving concentration, and rebuilding meaningful real-world connections. The webinar encouraged self-reflection and motivated attendees to take conscious steps toward a balanced digital lifestyle.\n\nThe Rotaract Club of KSSEM played a supportive role in the successful execution of the event by promoting participation and strengthening inter-club collaboration. Overall, Dopamine Detox proved to be a meaningful and impactful initiative, aligning with Rotaract’s vision of holistic personal development and community well-being.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/f0oLYdMGBh4-d9BMGm6xz.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/uuKFqE3pv5bq4MwV-ytjw.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/HsdhB2FDQUFZqV3Dtwm8Q.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/MUfTwgdH-TIxr3yluz7Lr.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/_l5o1QKnMEWn5owyBYGfs.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/YKiIarE9Rmek7hbu9kZuS.jpeg"
         ]
     },
     {
@@ -953,6 +1043,22 @@ const projectsData = [
             "https://media.3191-2525.clubstack.tixora.space/uploads/RrWOd53eRi_WSiyyNSGK0.jpeg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/GfSQN9TW3qo-lOY9BkAsC.jpeg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/jcgl1dRh5MeCWyLl8Edlg.jpeg"
+        ]
+    },
+    {
+        "id": "cd425aca-2d93-45d9-a0f1-50a028014454",
+        "name": "Mental Health Matters",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (Google Forms)",
+        "start_date": "01/01/2026",
+        "end_date": "11/01/2026",
+        "areas_of_focus": "Supporting Education",
+        "avenues_of_service": "Community Service, Professional Development, Club Service",
+        "description": "The Rotaract Club of Meraki (RID 3011) and the Rotaract Club of SVVV (RID 3040) jointly organized a meaningful awareness initiative titled “Mental Health Matters”, an online mental health awareness quiz aimed at promoting empathy, understanding, and open conversations around mental well-being. This event was organized by the Rotaract Club of Meraki and the Rotaract Club of SVVV, and the Rotaract Club of KSSEM collaborated for this wonderful initiative.\n\nThe quiz was conducted through Google Forms, with participation open until 10th January, allowing individuals to engage at their convenience. The initiative focused on breaking the stigma surrounding mental health and encouraging participants to acknowledge emotional well-being as an essential part of overall health. Through thoughtfully framed questions, the quiz highlighted the importance of self-care, awareness, and seeking support when needed.\n\n“Mental Health Matters” created a safe and inclusive space for learning, reminding participants that mental health is a journey and that it is okay to talk and seek help. The digital format enabled wide participation across clubs, fostering collective responsibility toward mental health advocacy. \n\nCollaboration was encouraged with a minimum participation requirement of five members per club, and collaboration certificates were provided to participating clubs.\n\nThe Rotaract Club of KSSEM actively supported the initiative by encouraging participation and contributing to the spread of awareness among its members. The event successfully reinforced the message that no one is alone and that conversations around mental well-being are both necessary and empowering.\n\nOverall, Mental Health Matters stood as a thoughtful and impactful initiative that reflected the Rotaract spirit of service, awareness, and unity while prioritizing mental well-being within the community.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/eQMyHnI4YJy3xwNKT2U6v.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/IYwZuDaEid_46ko1SJEb_.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/xSXZRRSoAe9HzOyUqHyfQ.jpeg"
         ]
     },
     {
@@ -990,41 +1096,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "3eb652ed-7b7a-4c68-8df7-9ca6639b487e",
-        "name": "Dopamine Detox – Reset Your Mind, Rebuild Real Connections",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "03/01/2026",
-        "end_date": "03/01/2026",
-        "areas_of_focus": "Fighting Disease",
-        "avenues_of_service": "Community Service, Professional Development, Club Service",
-        "description": "The Rotaract Club of Jyoti Nivas College, RID 3191 successfully organized an insightful professional development webinar titled “Dopamine Detox – Reset Your Mind, Rebuild Real Connections” on 3rd January 2026 via Google Meet. This event was organized by the Rotaract Club of Jyoti Nivas College, and the Rotaract Club of KSSEM collaborated for this wonderful initiative.\n\nThe session was designed to create awareness about the increasing dependence on digital devices and its impact on mental focus, productivity, and real-life connections. With the growing influence of screens in everyday life, the webinar aimed to help participants understand dopamine-driven habits and explore practical ways to reduce screen time and regain mental clarity.\n\nThe session was led by Mr. Nilesh Verma, a corporate trainer and the 48th President of JCI Orange City, who has also represented at the Asia Pacific Conference, Jakarta. Through real-life examples and interactive discussions, he explained how constant digital stimulation affects the human brain and emphasized the importance of mindful usage of gadgets. He introduced simple yet effective strategies to improve focus, build discipline, and develop healthier digital habits.\n\nParticipants actively engaged throughout the session and gained valuable insights into managing distractions, improving concentration, and rebuilding meaningful real-world connections. The webinar encouraged self-reflection and motivated attendees to take conscious steps toward a balanced digital lifestyle.\n\nThe Rotaract Club of KSSEM played a supportive role in the successful execution of the event by promoting participation and strengthening inter-club collaboration. Overall, Dopamine Detox proved to be a meaningful and impactful initiative, aligning with Rotaract’s vision of holistic personal development and community well-being.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/f0oLYdMGBh4-d9BMGm6xz.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/uuKFqE3pv5bq4MwV-ytjw.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/HsdhB2FDQUFZqV3Dtwm8Q.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/MUfTwgdH-TIxr3yluz7Lr.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/_l5o1QKnMEWn5owyBYGfs.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/YKiIarE9Rmek7hbu9kZuS.jpeg"
-        ]
-    },
-    {
-        "id": "cd425aca-2d93-45d9-a0f1-50a028014454",
-        "name": "Mental Health Matters",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (Google Forms)",
-        "start_date": "01/01/2026",
-        "end_date": "11/01/2026",
-        "areas_of_focus": "Supporting Education",
-        "avenues_of_service": "Community Service, Professional Development, Club Service",
-        "description": "The Rotaract Club of Meraki (RID 3011) and the Rotaract Club of SVVV (RID 3040) jointly organized a meaningful awareness initiative titled “Mental Health Matters”, an online mental health awareness quiz aimed at promoting empathy, understanding, and open conversations around mental well-being. This event was organized by the Rotaract Club of Meraki and the Rotaract Club of SVVV, and the Rotaract Club of KSSEM collaborated for this wonderful initiative.\n\nThe quiz was conducted through Google Forms, with participation open until 10th January, allowing individuals to engage at their convenience. The initiative focused on breaking the stigma surrounding mental health and encouraging participants to acknowledge emotional well-being as an essential part of overall health. Through thoughtfully framed questions, the quiz highlighted the importance of self-care, awareness, and seeking support when needed.\n\n“Mental Health Matters” created a safe and inclusive space for learning, reminding participants that mental health is a journey and that it is okay to talk and seek help. The digital format enabled wide participation across clubs, fostering collective responsibility toward mental health advocacy. \n\nCollaboration was encouraged with a minimum participation requirement of five members per club, and collaboration certificates were provided to participating clubs.\n\nThe Rotaract Club of KSSEM actively supported the initiative by encouraging participation and contributing to the spread of awareness among its members. The event successfully reinforced the message that no one is alone and that conversations around mental well-being are both necessary and empowering.\n\nOverall, Mental Health Matters stood as a thoughtful and impactful initiative that reflected the Rotaract spirit of service, awareness, and unity while prioritizing mental well-being within the community.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/eQMyHnI4YJy3xwNKT2U6v.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/IYwZuDaEid_46ko1SJEb_.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/xSXZRRSoAe9HzOyUqHyfQ.jpeg"
-        ]
-    },
-    {
         "id": "b26707f1-ce90-4e3a-b7c1-f8ce3331f087",
         "name": "Unity in Action",
         "type": "JOINT_INITIATIVE",
@@ -1042,41 +1113,130 @@ const projectsData = [
         ]
     },
     {
-        "id": "50104129-d1c3-40aa-8a82-c6d2561f0a98",
-        "name": "Science of Meditation – Where Science Meets Inner Calm",
-        "type": "HOSTED_ACTIVITY",
-        "venue": "Online (G-Meet)",
-        "start_date": "30/12/2025",
-        "end_date": "30/12/2025",
-        "areas_of_focus": "Promoting Peace",
-        "avenues_of_service": "Community Service, Club Service",
-        "description": "The Rotaract Club of KSSEM, RID 3191, successfully conducted an enriching online session titled “Science of Meditation – Where Science Meets Inner Calm” on 30th December 2025 via Zoom Workspace. The session witnessed remarkable global participation, with 41 collaborating Rotaract clubs and over 100 participants joining from different parts of the world, making it a truly impactful international initiative.\n\nThe session was led by Ms. Divya Buddha, a Meditation Coach and an inspiring practitioner who began her meditation journey at the young age of eight. She shared her personal experiences and spoke about how meditation introduced natural happiness, inner joy, and mental clarity into her life from an early stage. Her journey resonated deeply with the audience, especially the youth, as she highlighted how consistent meditation practice can bring balance and peace even in demanding environments.\n\nDuring the session, Ms. Divya Buddha explained the benefits of meditation, including improved concentration, emotional stability, enhanced memory, and overall mental well-being. A key highlight of the session was her powerful message on how meditation can transform youth from blunders to wonders, helping individuals achieve clarity, discipline, and self-awareness. To provide a practical experience, she guided the participants through a live Anapanasati meditation, allowing everyone to experience mindfulness and calmness firsthand.\n\nThe session was interactive, insightful, and deeply calming, leaving participants with a sense of inner peace and renewed perspective. Overall, the event was a grand success, reflecting the club’s commitment to promoting mental well-being, mindfulness, and holistic growth through meaningful global collaborations.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/FrjntWxxxp2Rkya58gQQf.jpeg",
+        "id": "59d5285d-00c7-4ebd-928b-24ffab58da5a",
+        "name": "Global Chapters ’25 – Phase 3",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (ZOOM)",
+        "start_date": "25/01/2026",
+        "end_date": "25/01/2026",
+        "areas_of_focus": "",
+        "avenues_of_service": "International Service, Public Image, Public Relations",
+        "description": "The Rotaract Club of KSSEM proudly participated in a cultural exchange initiative under Global Chapters ’25 – Phase 3: Threads of Culture, organized by the International Service Avenue of the Rotaract Club of University of Sri Jayewardenepura on 25 January 2026 at 8:00 PM IST.\n\nThe event brought together multiple Rotaract clubs from different regions, creating a vibrant platform for cultural interaction and global fellowship. A key highlight of the initiative was the letter exchange, through which participating clubs shared insights into their cultural heritage, traditions, values, and Rotaract experiences, fostering meaningful connections beyond geographical boundaries.\n\nThe exchange encouraged participants to appreciate diversity while recognizing the shared spirit of service and leadership. Members actively engaged in discussions, reflections, and cultural sharing, making the session interactive and enriching.\n\nThe Rotaract Club of KSSEM contributed enthusiastically to the initiative and was recognized for its valuable participation and collaboration. The event strengthened inter-club relationships and reinforced the importance of cultural understanding, communication, and international cooperation.\n\nOverall, Threads of Culture successfully celebrated unity in diversity, weaving together cultures, stories, and friendships across borders, in alignment with Rotary’s vision of global connection and service.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/8JujS4991TUogbA5T0696.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/PNgXBE-VXdnkTCmLlqGWQ.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/FV-gRQJ09KmdJzjD5fFkh.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/NJdCPdbdeaTBwWUvq6bVY.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/_vSq-2YBIL8AjKi0GwV_j.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/ZhsGVxq1Mmcqjv6pC5lUd.jpeg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/J6mQiQXa9j8jsDULJJZeU.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/W16aFFoX4ZTCRCxSEm9hR.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/NYUALVjaV1iZl5oW2KUW9.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/xU-8PqdRRpgM-9unlqIyb.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/oIk92g1cruuOPlmASl3Mg.jpeg"
         ]
     },
     {
-        "id": "a276f2bd-c09d-4c20-9302-37d42a93c956",
-        "name": "Art of Public Speaking – Speak Like a Leader",
+        "id": "0493ac6a-02e0-4db1-92b4-be0656deafbd",
+        "name": "Connecting India",
         "type": "JOINT_INITIATIVE",
         "venue": "Online (G-Meet)",
-        "start_date": "29/12/2025",
-        "end_date": "29/12/2025",
-        "areas_of_focus": "Supporting Education",
-        "avenues_of_service": "Professional Development, Club Service",
-        "description": "The Rotaract Club of Acropolis Professionals RID 3040, in co host with the Rotaract Club of Karpagam Academy of Higher Education RID 3206, successfully organized an impactful leadership session titled “Art of Public Speaking – Speak Like a Leader” on 29th December 2025 at 8:00 PM IST via Google Meet. The session was designed to enhance communication skills and build confidence among participants, empowering them to express ideas with clarity and leadership presence.\n\nThe session was led by Rtr. Yatharth Golchha, Chairman of Rotaract India and MDIO Chief Advisor of RI District 3040. With his vast leadership experience, he delivered an engaging and insightful session that focused on the core elements of effective public speaking. He spoke about overcoming stage fear, structuring impactful speeches, and understanding the importance of preparation and practice. The speaker emphasized how voice modulation, body language, and storytelling play a crucial role in influencing audiences and communicating with confidence.\n\nRtr. Yatharth Golchha shared practical techniques and real life examples, making the session highly relatable and easy to understand. Participants gained valuable insights into how strong communication skills contribute to leadership effectiveness in both personal and professional spaces. The interactive nature of the session kept the audience engaged and motivated throughout.\n\nThe event was conducted as a collaborative initiative, with a minimum requirement of five members per participating club. The session received an enthusiastic response from Rotaractors across districts, reflecting its relevance and importance.\n\nOverall, Art of Public Speaking – Speak Like a Leader was a highly enriching experience that inspired participants to speak with confidence, connect with audiences, and lead with impact through effective communication.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/KofFwsKpN2qA0CJlIBaSJ.jpeg",
+        "start_date": "28/01/2026",
+        "end_date": "28/01/2026",
+        "areas_of_focus": "",
+        "avenues_of_service": "International Service, Public Image, Public Relations",
+        "description": "The Rotaract Club of KSSEM was pleased to collaborate with the Rotaract Club of Chandigarh and partner clubs for a cultural exchange initiative titled “Connecting India.” The event was conducted on 28 January 2026 at 8:30 PM IST in a virtual format.\n\nThe session aimed to celebrate India’s rich cultural diversity by bringing together participants from different regions of the country. Through multilingual expressions, cultural narratives, and shared perspectives, the initiative highlighted the unity that exists beyond geographical and linguistic boundaries.\n\nParticipants were encouraged to showcase elements of their regional culture, traditions, and values, creating an engaging platform for learning, appreciation, and mutual respect. The event fostered meaningful conversations and helped participants understand how cultural diversity strengthens national identity.\n\nMembers from various Rotaract clubs actively participated and contributed to the success of the event, making it interactive and inclusive. The exchange not only promoted cultural awareness but also strengthened inter-club bonding and collaboration.\n\nOverall, “Connecting India” successfully reinforced the spirit of unity in diversity, aligning with Rotary’s vision of building connections beyond horizons while nurturing friendship, cultural pride, and national harmony.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/0tp5e1jeHhRsKW7yxr8Jw.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Kcsa3ic_d4qsV2z_veYQG.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/UgEreSUWrxn3UfxvVT0Df.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/dNMpPZ2NgKE86GEU0OJO4.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/yCLwB6dRcv2cAyaINjswI.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/l0zCAHzZwQXtxoI9ZZXwf.jpeg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/kZjlPVp2eYfjf7bkGPa97.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/91JLHpItihr40OXDLlPWn.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/R9gI6xU3sdGdmP6DSfVaj.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/-uN-95hoZLzVI-Lf9NGA-.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Xxdl8hKXQV9z9zdfNVmG8.jpeg"
+        ]
+    },
+    {
+        "id": "5f7ef9c5-22ee-4c89-a660-ee26afa28a25",
+        "name": "ANISUTIDE – The Club Hopping of DRRE",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "Forum South Bengaluru",
+        "start_date": "27/01/2026",
+        "end_date": "27/01/2026",
+        "areas_of_focus": "",
+        "avenues_of_service": "Professional Development, Club Service",
+        "description": "ANISUTIDE – The Club Hopping of DRRE was a meaningful club service interaction session conducted on 27th January 2026 at Forum South Bengaluru. As part of this district initiative, the Rotaract Club of KSSEM had the privilege of hosting DRRE Rtn. Rtr. Anirudh Kulkarni, offering members an opportunity to directly engage with district leadership and gain insights into district functioning and future initiatives.\n\nThe session began with introductions by the Board of Directors, who outlined their roles and responsibilities, followed by an address by the DRRE. He provided an overview of the district structure, upcoming plans, and key initiatives for the forthcoming Rotary year, emphasizing the importance of inter-club collaboration and active member engagement. He also shared his vision of creating a common digital platform to enhance communication and coordination among clubs.\n\nKey district events, including the District Conference, and the “Dollar of Happiness” initiative were highlighted, encouraging members to participate actively. The interaction further allowed members to raise queries regarding sister club collaborations, government school permissions, social media coordination, and design support. The DRRE addressed these concerns with constructive suggestions, fostering an open and productive discussion.\n\nThe session was successfully executed through the coordinated efforts of the Core Committee and Board of Directors. Overall, ANISUTIDE strengthened the connection between the district leadership and the Rotaract Club of KSSEM, motivating members to actively contribute toward district initiatives and collaborative growth within the Rotaract fraternity.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/QZFDX6udv3i6ENIQ4u8iS.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/7hFcq9m_6PiwaJaEBfQzU.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/9Olvr19bCrp9OyuFrEH1N.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/eFct_gHpLLYO0QbzBgl3R.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/hHJ6KG-Apl7L93joSkliS.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/ktDuK3EfpKrSTjYPCviz0.jpeg"
+        ]
+    },
+    {
+        "id": "9038b9e4-c06e-4e89-8137-cecae6e66fa9",
+        "name": "ANNASANTARPANE 3.0 – THREE YEARS OF COMPASSIONATE GIVING",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "Holiday Village Road, Mallasandra & Banashankari Temple",
+        "start_date": "22/01/2026",
+        "end_date": "22/01/2026",
+        "areas_of_focus": "Growing Local Economies, Providing Clean Water, Sanitation and Hygiene",
+        "avenues_of_service": "Public Image, Community Service, Public Relations",
+        "description": "ANNASANTARPANE 3.0 – THREE YEARS OF COMPASSIONATE GIVING\n\nOn the auspicious occasion of the Ram Mandir Inauguration, the Rotaract Club of KSSEM successfully organized Annasantarpane 3.0, a flagship community service initiative that beautifully blended devotion with compassionate action. Now in its third consecutive year, Annasantarpane stands as a testament to the club’s unwavering commitment to serving humanity through the noble act of food donation.\n\nThis year’s edition was made possible through the generous support of around 30 individual sponsors and one collaborating club, with a total amount of ₹17,500 collected. The project proudly collaborated with the Rotaract Club of JP Nagar, whose support added strength and unity to this meaningful initiative. In addition, 35 individuals contributed personally, reaffirming that even small acts of kindness can create a significant impact.\n\nAs part of the initiative, nutritious Tomato Bath was carefully prepared, packed, and distributed to 500 people from families in need. Of these, 400 food packets were distributed along Holiday Village Road, Mallasandra, while the remaining 100 packets were served near the Banashankari Temple. Every step from preparation to distribution was carried out with dignity, discipline, and a deep sense of responsibility.\n\nAnnasantarpane 3.0 was not merely a food distribution drive; it was a heartfelt offering of love, hope, and respect. Each meal served symbolized the spirit of Annadaan, reminding everyone involved that true devotion finds its highest expression in selfless service.\n\nWith this third successful edition, Annasantarpane has rightfully earned its place as a Flagship Project of the Rotaract Club of KSSEM. The smiles received, the hunger eased, and the unity displayed reaffirmed the club’s belief that service, when driven by faith and compassion, has the power to transform lives.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/f2BHSFYp3OE6Ez8UKmsUK.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/JOltckC9wS2QYwNc6jMpw.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/h5vMcWXGdd1AgP_DAT7oi.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/N96sYHV3KmSvQU_3Gmc-f.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/PvhweqWC0C3ArxrSKV8Xa.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Z7qllhTgs4_EHrqYJFSuU.jpeg"
+        ]
+    },
+    {
+        "id": "0d61e8b2-2c60-49ad-9c40-ddbaa442dfc9",
+        "name": "District Learning Program (DLP) of RID 3080",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "Chandigarh",
+        "start_date": "16/11/2025",
+        "end_date": "16/11/2025",
+        "areas_of_focus": "",
+        "avenues_of_service": "International Service",
+        "description": "The Rotaract Club of KSSEM had the privilege of being represented at a district-level engagement with Rotaract District 3080 during a visit to Chandigarh. Representing the club were Rtr. Mahesh N, International Service Director, and Rtr. Thanushree N, Resource Manager.\n\nThe visit coincided with the District Learning Program (DLP) of RID 3080, providing an excellent opportunity for the club representatives to interact with the district leadership team, including the District Rotaract Representative Rtr. Ritik Nagpal and other district officials.\n\nDuring the program, the representatives had the opportunity to engage with members of various district avenues, understand ongoing projects, and observe best practices followed by the district. The interaction also facilitated meaningful discussions, inter-district networking, and exchange of ideas, strengthening bonds between the two districts.\n\nThis exposure proved to be a highly enriching experience, enhancing the club’s understanding of structured leadership, collaboration, and large-scale Rotaract operations. The visit reaffirmed the Rotaract Club of KSSEM’s commitment to learning, growth, and building strong connections beyond district boundaries, contributing positively to the club’s overall development and international service outlook.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/Fog8NIi3LhMBiup2qZ-ZU.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/DewiTq_S-_CiXvN0RfXfN.jpeg"
+        ]
+    },
+    {
+        "id": "8d9717ed-275c-461d-ae6a-9fdd22b9cdfc",
+        "name": "Investment Insights",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "21/12/2025",
+        "end_date": "21/12/2025",
+        "areas_of_focus": "Growing Local Economies",
+        "avenues_of_service": "Finance and Foundation, Professional Development",
+        "description": "The “Investment Insights” online learning session, organized by the Rotaract Club of Bengaluru United, RID:3191, in collaboration with The Rotaract Club of KSSEM, RID:3191, was successfully conducted on 21st December 2025 at 7:00 PM IST via Google Meet.\n\nThe session was designed to simplify the world of finance and equip participants with essential knowledge on investment basics, risk management, diversification and current market trends, enabling them to make informed and confident financial decisions.\n\nThe event featured Rtr. Shubhakruth, an MCom graduate and active investment and securities trader, as the resource person. He delivered an engaging and insightful session, breaking down complex financial concepts into simple, relatable explanations. His analytical approach, calm communication style and practical examples helped participants gain clarity and confidence in understanding investments and market behavior.\n\nThe session witnessed active participation from members across various Rotaract clubs, fulfilling the collaboration requirements and encouraging meaningful interaction and learning. Participants appreciated the speaker’s balanced perspective and practical insights, especially on managing risks and building a disciplined investment mindset.\n\nThe event concluded on a successful and positive note, with appreciation extended to the organizing team from both clubs for their effective coordination and execution. The initiative successfully promoted financial literacy, professional development, and inter-club collaboration, making Investment Insights a valuable learning experience for all attendees.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/CoNRdsPiu8VL-Mdv3_gwT.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/WHjeqaNsDn3bADexjfnJ-.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/0EVKA8I7JUYvBD2cTOLCD.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/tDcdFRERN7KrNNzVzCupx.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/CqReRpAYixQi6Eqt-wfTN.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/mYDNwk-NT-rkBOrYeDJny.jpeg"
+        ]
+    },
+    {
+        "id": "4a40a9fd-ed5a-4f4c-b610-368d20824a51",
+        "name": "ISD Meet",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "SSMRV College, Jayanagar 4th T Block, Bengaluru",
+        "start_date": "14/12/2025",
+        "end_date": "14/12/2025",
+        "areas_of_focus": "",
+        "avenues_of_service": "International Service",
+        "description": "The District International Service Team, RID 3191, organized Royal Horizons 2.0, a district-level meet-up for International Service Directors (ISDs) of various Rotaract clubs, on 14th December 2025 at 12:30 PM at SSMRV Degree College, Jayanagar. Our Club ISD, Rtr. Mahesh N, participated in the meeting along with ISDs from different clubs across the district.\n\nThe session provided an open platform for all ISDs to come together and share updates regarding their respective club activities. During the interaction, each club, including ours, presented details about the international service events conducted so far, the experiences gained, and the plans for upcoming initiatives. This exchange helped in understanding the diverse approaches followed by clubs and encouraged idea sharing.\n\nThe meeting also allowed ISDs to raise queries and concerns related to planning, collaboration, and reporting of international service projects. These queries were addressed by the district team through clarifications and guidance, ensuring better clarity and alignment for future activities.\n\nOverall, the meet-up created a supportive environment for discussion, learning, and coordination among ISDs. It strengthened inter-club communication and helped in building a clear roadmap for effective international service execution across the district.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/_ONSPpjNnpPkwuwMPb9d4.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/0FvoIYvWnhF6DGcS_t9aK.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/gndu3vJ4iCHYqgyvWyzvQ.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/W76dddis6Uqt47X97n0iu.jpeg"
         ]
     },
     {
@@ -1099,22 +1259,96 @@ const projectsData = [
         ]
     },
     {
-        "id": "b683f405-cab5-462e-a224-772a227f5ad5",
-        "name": "From Potential to Performance",
+        "id": "c8d9f887-e417-4903-b581-b1feb2f81688",
+        "name": "Party in Pink 4.0",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "SSMRV College, Jayanagar 4th T Block, Bengaluru",
+        "start_date": "14/12/2025",
+        "end_date": "14/12/2025",
+        "areas_of_focus": "Promoting Peace, Fighting Disease",
+        "avenues_of_service": "International Service, Public Image, Community Service",
+        "description": "The Rotaract Club of KSSEM actively participated in Party in Pink 4.0, a vibrant Zumba-based awareness and fundraising initiative organized by the Rotaract Club of Bangalore JP Nagar on 14th December 2025 at SSMRV College, Jayanagar. The event was conducted with the objective of creating awareness about breast cancer and raising funds to support women battling the disease.\n\nMembers of the Rotaract Club of KSSEM enthusiastically joined the programme and took part in the Zumba session, contributing to the energetic and supportive atmosphere of the event. Through active participation, our club stood in solidarity with the cause, promoting the importance of early detection, awareness, and community support in the collective fight against breast cancer.\n\nThe event witnessed participation from Rotaractors, students, and members of the public, all coming together in shades of pink to symbolize hope, strength, and resilience. Along with physical fitness and fun, the programme successfully delivered a powerful message on women’s health and the need for continuous awareness and advocacy.\n\nBy participating in Party in Pink 4.0, the Rotaract Club of KSSEM reaffirmed its commitment to community service, health awareness, and collaborative initiatives within the Rotaract fraternity. The event served as a meaningful platform to contribute toward a social cause while fostering unity and shared responsibility among clubs.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/mqjPRmkDien62issdMs7y.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/WL3relZCZQayPgHDPJjwT.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/h33lrBEuyemx6rc-nvqY2.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Gxh8DQtFwuXp218M5Y0ie.jpeg"
+        ]
+    },
+    {
+        "id": "a5b721e1-a379-43e6-87a5-091c2ce29569",
+        "name": "Plates of Hope 🍛",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "Uttarahalli",
+        "start_date": "20/12/2025",
+        "end_date": "20/12/2025",
+        "areas_of_focus": "Growing Local Economies, Providing Clean Water, Sanitation and Hygiene",
+        "avenues_of_service": "Community Service, Public Relations",
+        "description": "As part of its ongoing commitment to community welfare and social responsibility, the Rotaract Club of KSSEM successfully conducted a Food Distribution Drive on 20th December 2025 in Uttarahalli, Bengaluru. The initiative aimed to support underprivileged and needy individuals by providing them with freshly prepared, nutritious meals and spreading warmth and compassion during the winter season.\n\nThe drive was organized with the intention of addressing food insecurity among daily wage workers, homeless individuals, and economically disadvantaged families in the area. Members of the club actively participated in the planning and execution of the programme, ensuring that the distribution was carried out in a respectful, organized, and dignified manner.\n\nOn the day of the event, Rotaractors gathered at the distribution site and efficiently coordinated the process of serving food to the beneficiaries. Care was taken to maintain hygiene standards while distributing the meals. The food packets were prepared to be wholesome and filling, keeping in mind the nutritional needs of the recipients. Each beneficiary was served with empathy and kindness, reinforcing the spirit of service that Rotaract stands for.\n\nThe response from the beneficiaries was heartwarming. Many expressed their gratitude and appreciation for the timely support, as the meals provided relief and comfort to those struggling to meet their daily needs. The smiles on their faces served as a powerful reminder of the positive impact that collective effort and compassion can create in the community.\n\nThis food distribution drive was not just an act of charity but a meaningful step toward building a more caring and inclusive society. It strengthened the bond between the club and the local community while giving members an opportunity to actively engage in hands-on service. Through this initiative, the Rotaract Club of KSSEM reaffirmed its commitment to serving humanity, addressing social challenges, and making a difference through sustained community service efforts.\n\nThe club looks forward to organizing more such initiatives in the future, continuing its mission to uplift and support those in need.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/Y4fst3zp4shfAQNP6FmWv.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/PgEhoz35_OEnOT90dR-BV.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/zFvuzbSbhSj2r_-CALSjg.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/6Vc3jRtxLBAzsPdAFGcsM.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/4OGiwgvNEhOC7x6tJ9p9L.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/yg_1forhNJkz343wpFArP.jpeg"
+        ]
+    },
+    {
+        "id": "7b0f641d-a310-4e1b-ab2c-765c3b85445f",
+        "name": "Volunteering Service – Turahalli Government School Annual Day",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "Turahalli Government School, Bengaluru",
+        "start_date": "13/12/2025",
+        "end_date": "13/12/2025",
+        "areas_of_focus": "Supporting Education, Saving Mothers and Children",
+        "avenues_of_service": "Public Image, Community Service, Public Relations",
+        "description": "The Rotaract Club of KSSEM actively volunteered for the Annual Day celebration of Turahalli Government School on 13th December 2025. This meaningful community service initiative was undertaken with the objective of supporting the school in successfully organizing their annual celebration and ensuring smooth execution of the entire program.\n\nA total of seven Rotaractors from our club contributed both directly at the venue and through backend coordination. Our members were involved in stage arrangement, student coordination, program scheduling support, seating arrangements, and overall event management. Backend volunteers handled communication, material arrangements, and coordination with school authorities to ensure that all requirements were met on time.\n\nThe team worked closely with the school staff and Parent Rotary members to maintain proper flow of the program and provide necessary assistance throughout the event. Their dedication and teamwork played a vital role in making the Annual Day celebration organized, disciplined, and memorable for the students, teachers, and parents.\n\nThis volunteering activity reflected the club’s commitment towards community development, educational support, and responsible citizenship. It also strengthened the bond between our club and the school while giving our members an opportunity to serve society through active participation.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/p13PFKlLRDx_xzRweiZJt.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/wWSi9WqRwEuyeKJCeeDb8.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/SgJrlB-SqMot9gmfqZ-FR.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/YOcBaF2OPbGWw0p2tIBQi.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/oXdxBjFVbRdB5fRTAqvu1.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/5op7GQ9aXtUNW2TpjOGQi.jpeg"
+        ]
+    },
+    {
+        "id": "afa3cb6e-0250-4fd9-aca2-aac0e8883987",
+        "name": "Pulse polio",
+        "type": "COLLABORATION_WITH_SPONSORED_CLUB",
+        "venue": "Primary Health Centre, Uttarahalli",
+        "start_date": "21/12/2025",
+        "end_date": "21/12/2025",
+        "areas_of_focus": "Providing Clean Water, Sanitation and Hygiene, Promoting Peace, Fighting Disease",
+        "avenues_of_service": "Community Service, Club Service",
+        "description": "On the occasion of Polio National Immunisation Day (NID) 2025), we, the Rotaract Club of KSSEM, actively took part in the immunisation drive by volunteering at the inaugural ceremony held at the Primary Health Centre, Uttarahalli, Bengaluru. The initiative reflected our Club’s commitment to community health, service, and social responsibility.\n\nThe inaugural programme was graced by the presence of President Rtn. Srinivas Naidu R, Secretary Rtn. Karthikraj G, PP Dr. K. S. Naidu, PP Rtn. Sandeep V. Nijagal, along with enthusiastic Rotaractors from KSSEM, Yeshwanth, and other members. Several local dignitaries, including Mr. Ramesh Raju, Ex-Corporator, were also present and extended their support to the cause.\n\nAs part of our volunteering efforts, members of the Rotaract Club of KSSEM actively assisted health workers and volunteers involved in the immunisation process. We also supported the smooth conduct of the programme by helping coordinate breakfast and lunch for nearly 120 volunteers, who worked tirelessly to ensure the successful implementation of the immunisation drive.\n\nOur participation in Polio NID 2025 highlighted the importance of collective action in safeguarding children’s health and strengthening public health initiatives. Through this volunteering effort, the Rotaract Club of KSSEM reaffirmed its dedication to preventive healthcare, community engagement, and meaningful service.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/iELsbONO4_TjdsAC6oamH.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/16LgVCr_G8WBewkfrdChA.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/cwW1PvUrspN0SIMD64h6s.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/U82_It-y3SVdDgHI6bVhX.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/mLmy-QXLYTqsnO05MVOEV.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/CqsvbvfO1ELFDMbUgHbgb.jpg"
+        ]
+    },
+    {
+        "id": "a276f2bd-c09d-4c20-9302-37d42a93c956",
+        "name": "Art of Public Speaking – Speak Like a Leader",
         "type": "JOINT_INITIATIVE",
         "venue": "Online (G-Meet)",
-        "start_date": "27/12/2025",
-        "end_date": "27/12/2025",
-        "areas_of_focus": "Growing Local Economies, Supporting Education",
+        "start_date": "29/12/2025",
+        "end_date": "29/12/2025",
+        "areas_of_focus": "Supporting Education",
         "avenues_of_service": "Professional Development, Club Service",
-        "description": "The Rotaract Club of Mount Carmel College successfully organized a personal development session titled “From Potential to Performance” on 27th December, conducted virtually via Google Meet from 6:15 PM to 7:30 PM. The session was designed to help participants understand how to recognize their inner potential and effectively convert it into consistent personal and professional performance.\n\nThe speaker for the session was Ms. Sonali Punj Singh, who delivered an engaging and insightful talk focused on mindset development, self-awareness, and confidence building. She explained the importance of understanding one’s strengths and limitations and emphasized how clarity of purpose plays a key role in achieving sustained growth. Through simple examples and practical strategies, she guided participants on improving productivity, building resilience, and maintaining confidence in challenging situations.\n\nThe session highlighted key takeaways such as self-awareness for personal growth, performance-enhancing strategies, and the development of confidence and emotional resilience. Participants found the discussion relatable and useful, as the concepts were easy to understand and applicable to both academic and professional life.\n\nThe event was conducted as a collaborative initiative, with a minimum participation requirement of four members per club. E-certificates were provided to all registered participants. Overall, the session was informative, motivating, and impactful, helping attendees gain valuable insights into transforming potential into measurable performance and encouraging continuous self-improvement.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/5Xi8fzl_MwYL6uTZKXS_3.jpeg",
+        "description": "The Rotaract Club of Acropolis Professionals RID 3040, in co host with the Rotaract Club of Karpagam Academy of Higher Education RID 3206, successfully organized an impactful leadership session titled “Art of Public Speaking – Speak Like a Leader” on 29th December 2025 at 8:00 PM IST via Google Meet. The session was designed to enhance communication skills and build confidence among participants, empowering them to express ideas with clarity and leadership presence.\n\nThe session was led by Rtr. Yatharth Golchha, Chairman of Rotaract India and MDIO Chief Advisor of RI District 3040. With his vast leadership experience, he delivered an engaging and insightful session that focused on the core elements of effective public speaking. He spoke about overcoming stage fear, structuring impactful speeches, and understanding the importance of preparation and practice. The speaker emphasized how voice modulation, body language, and storytelling play a crucial role in influencing audiences and communicating with confidence.\n\nRtr. Yatharth Golchha shared practical techniques and real life examples, making the session highly relatable and easy to understand. Participants gained valuable insights into how strong communication skills contribute to leadership effectiveness in both personal and professional spaces. The interactive nature of the session kept the audience engaged and motivated throughout.\n\nThe event was conducted as a collaborative initiative, with a minimum requirement of five members per participating club. The session received an enthusiastic response from Rotaractors across districts, reflecting its relevance and importance.\n\nOverall, Art of Public Speaking – Speak Like a Leader was a highly enriching experience that inspired participants to speak with confidence, connect with audiences, and lead with impact through effective communication.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/KofFwsKpN2qA0CJlIBaSJ.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/f5kPyiK3bHtXSuIPvjrbm.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/LeeEmKilMu05qT9tCK0Fy.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/rL4JrLtyLGri9xhpcAFn7.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/bVdoWEvJkpc2ff3a2LGX8.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/BQFj9p3_qzWumPBkOHy5C.jpeg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Kcsa3ic_d4qsV2z_veYQG.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/UgEreSUWrxn3UfxvVT0Df.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/dNMpPZ2NgKE86GEU0OJO4.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/yCLwB6dRcv2cAyaINjswI.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/l0zCAHzZwQXtxoI9ZZXwf.jpeg"
         ]
     },
     {
@@ -1156,41 +1390,22 @@ const projectsData = [
         ]
     },
     {
-        "id": "8d9717ed-275c-461d-ae6a-9fdd22b9cdfc",
-        "name": "Investment Insights",
+        "id": "b683f405-cab5-462e-a224-772a227f5ad5",
+        "name": "From Potential to Performance",
         "type": "JOINT_INITIATIVE",
         "venue": "Online (G-Meet)",
-        "start_date": "21/12/2025",
-        "end_date": "21/12/2025",
-        "areas_of_focus": "Growing Local Economies",
-        "avenues_of_service": "Finance and Foundation, Professional Development",
-        "description": "The “Investment Insights” online learning session, organized by the Rotaract Club of Bengaluru United, RID:3191, in collaboration with The Rotaract Club of KSSEM, RID:3191, was successfully conducted on 21st December 2025 at 7:00 PM IST via Google Meet.\n\nThe session was designed to simplify the world of finance and equip participants with essential knowledge on investment basics, risk management, diversification and current market trends, enabling them to make informed and confident financial decisions.\n\nThe event featured Rtr. Shubhakruth, an MCom graduate and active investment and securities trader, as the resource person. He delivered an engaging and insightful session, breaking down complex financial concepts into simple, relatable explanations. His analytical approach, calm communication style and practical examples helped participants gain clarity and confidence in understanding investments and market behavior.\n\nThe session witnessed active participation from members across various Rotaract clubs, fulfilling the collaboration requirements and encouraging meaningful interaction and learning. Participants appreciated the speaker’s balanced perspective and practical insights, especially on managing risks and building a disciplined investment mindset.\n\nThe event concluded on a successful and positive note, with appreciation extended to the organizing team from both clubs for their effective coordination and execution. The initiative successfully promoted financial literacy, professional development, and inter-club collaboration, making Investment Insights a valuable learning experience for all attendees.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/CoNRdsPiu8VL-Mdv3_gwT.jpeg",
+        "start_date": "27/12/2025",
+        "end_date": "27/12/2025",
+        "areas_of_focus": "Growing Local Economies, Supporting Education",
+        "avenues_of_service": "Professional Development, Club Service",
+        "description": "The Rotaract Club of Mount Carmel College successfully organized a personal development session titled “From Potential to Performance” on 27th December, conducted virtually via Google Meet from 6:15 PM to 7:30 PM. The session was designed to help participants understand how to recognize their inner potential and effectively convert it into consistent personal and professional performance.\n\nThe speaker for the session was Ms. Sonali Punj Singh, who delivered an engaging and insightful talk focused on mindset development, self-awareness, and confidence building. She explained the importance of understanding one’s strengths and limitations and emphasized how clarity of purpose plays a key role in achieving sustained growth. Through simple examples and practical strategies, she guided participants on improving productivity, building resilience, and maintaining confidence in challenging situations.\n\nThe session highlighted key takeaways such as self-awareness for personal growth, performance-enhancing strategies, and the development of confidence and emotional resilience. Participants found the discussion relatable and useful, as the concepts were easy to understand and applicable to both academic and professional life.\n\nThe event was conducted as a collaborative initiative, with a minimum participation requirement of four members per club. E-certificates were provided to all registered participants. Overall, the session was informative, motivating, and impactful, helping attendees gain valuable insights into transforming potential into measurable performance and encouraging continuous self-improvement.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/5Xi8fzl_MwYL6uTZKXS_3.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/WHjeqaNsDn3bADexjfnJ-.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/0EVKA8I7JUYvBD2cTOLCD.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/tDcdFRERN7KrNNzVzCupx.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/CqReRpAYixQi6Eqt-wfTN.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/mYDNwk-NT-rkBOrYeDJny.jpeg"
-        ]
-    },
-    {
-        "id": "afa3cb6e-0250-4fd9-aca2-aac0e8883987",
-        "name": "Pulse polio",
-        "type": "COLLABORATION_WITH_SPONSORED_CLUB",
-        "venue": "Primary Health Centre, Uttarahalli",
-        "start_date": "21/12/2025",
-        "end_date": "21/12/2025",
-        "areas_of_focus": "Providing Clean Water, Sanitation and Hygiene, Promoting Peace, Fighting Disease",
-        "avenues_of_service": "Community Service, Club Service",
-        "description": "On the occasion of Polio National Immunisation Day (NID) 2025), we, the Rotaract Club of KSSEM, actively took part in the immunisation drive by volunteering at the inaugural ceremony held at the Primary Health Centre, Uttarahalli, Bengaluru. The initiative reflected our Club’s commitment to community health, service, and social responsibility.\n\nThe inaugural programme was graced by the presence of President Rtn. Srinivas Naidu R, Secretary Rtn. Karthikraj G, PP Dr. K. S. Naidu, PP Rtn. Sandeep V. Nijagal, along with enthusiastic Rotaractors from KSSEM, Yeshwanth, and other members. Several local dignitaries, including Mr. Ramesh Raju, Ex-Corporator, were also present and extended their support to the cause.\n\nAs part of our volunteering efforts, members of the Rotaract Club of KSSEM actively assisted health workers and volunteers involved in the immunisation process. We also supported the smooth conduct of the programme by helping coordinate breakfast and lunch for nearly 120 volunteers, who worked tirelessly to ensure the successful implementation of the immunisation drive.\n\nOur participation in Polio NID 2025 highlighted the importance of collective action in safeguarding children’s health and strengthening public health initiatives. Through this volunteering effort, the Rotaract Club of KSSEM reaffirmed its dedication to preventive healthcare, community engagement, and meaningful service.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/iELsbONO4_TjdsAC6oamH.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/16LgVCr_G8WBewkfrdChA.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/cwW1PvUrspN0SIMD64h6s.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/U82_It-y3SVdDgHI6bVhX.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/mLmy-QXLYTqsnO05MVOEV.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/CqsvbvfO1ELFDMbUgHbgb.jpg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/f5kPyiK3bHtXSuIPvjrbm.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/LeeEmKilMu05qT9tCK0Fy.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/rL4JrLtyLGri9xhpcAFn7.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/bVdoWEvJkpc2ff3a2LGX8.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/BQFj9p3_qzWumPBkOHy5C.jpeg"
         ]
     },
     {
@@ -1213,75 +1428,40 @@ const projectsData = [
         ]
     },
     {
-        "id": "a5b721e1-a379-43e6-87a5-091c2ce29569",
-        "name": "Plates of Hope 🍛",
-        "type": "STANDALONE_ACTIVITY",
-        "venue": "Uttarahalli",
-        "start_date": "20/12/2025",
-        "end_date": "20/12/2025",
-        "areas_of_focus": "Growing Local Economies, Providing Clean Water, Sanitation and Hygiene",
-        "avenues_of_service": "Community Service, Public Relations",
-        "description": "As part of its ongoing commitment to community welfare and social responsibility, the Rotaract Club of KSSEM successfully conducted a Food Distribution Drive on 20th December 2025 in Uttarahalli, Bengaluru. The initiative aimed to support underprivileged and needy individuals by providing them with freshly prepared, nutritious meals and spreading warmth and compassion during the winter season.\n\nThe drive was organized with the intention of addressing food insecurity among daily wage workers, homeless individuals, and economically disadvantaged families in the area. Members of the club actively participated in the planning and execution of the programme, ensuring that the distribution was carried out in a respectful, organized, and dignified manner.\n\nOn the day of the event, Rotaractors gathered at the distribution site and efficiently coordinated the process of serving food to the beneficiaries. Care was taken to maintain hygiene standards while distributing the meals. The food packets were prepared to be wholesome and filling, keeping in mind the nutritional needs of the recipients. Each beneficiary was served with empathy and kindness, reinforcing the spirit of service that Rotaract stands for.\n\nThe response from the beneficiaries was heartwarming. Many expressed their gratitude and appreciation for the timely support, as the meals provided relief and comfort to those struggling to meet their daily needs. The smiles on their faces served as a powerful reminder of the positive impact that collective effort and compassion can create in the community.\n\nThis food distribution drive was not just an act of charity but a meaningful step toward building a more caring and inclusive society. It strengthened the bond between the club and the local community while giving members an opportunity to actively engage in hands-on service. Through this initiative, the Rotaract Club of KSSEM reaffirmed its commitment to serving humanity, addressing social challenges, and making a difference through sustained community service efforts.\n\nThe club looks forward to organizing more such initiatives in the future, continuing its mission to uplift and support those in need.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/Y4fst3zp4shfAQNP6FmWv.jpeg",
+        "id": "50104129-d1c3-40aa-8a82-c6d2561f0a98",
+        "name": "Science of Meditation – Where Science Meets Inner Calm",
+        "type": "HOSTED_ACTIVITY",
+        "venue": "Online (G-Meet)",
+        "start_date": "30/12/2025",
+        "end_date": "30/12/2025",
+        "areas_of_focus": "Promoting Peace",
+        "avenues_of_service": "Community Service, Club Service",
+        "description": "The Rotaract Club of KSSEM, RID 3191, successfully conducted an enriching online session titled “Science of Meditation – Where Science Meets Inner Calm” on 30th December 2025 via Zoom Workspace. The session witnessed remarkable global participation, with 41 collaborating Rotaract clubs and over 100 participants joining from different parts of the world, making it a truly impactful international initiative.\n\nThe session was led by Ms. Divya Buddha, a Meditation Coach and an inspiring practitioner who began her meditation journey at the young age of eight. She shared her personal experiences and spoke about how meditation introduced natural happiness, inner joy, and mental clarity into her life from an early stage. Her journey resonated deeply with the audience, especially the youth, as she highlighted how consistent meditation practice can bring balance and peace even in demanding environments.\n\nDuring the session, Ms. Divya Buddha explained the benefits of meditation, including improved concentration, emotional stability, enhanced memory, and overall mental well-being. A key highlight of the session was her powerful message on how meditation can transform youth from blunders to wonders, helping individuals achieve clarity, discipline, and self-awareness. To provide a practical experience, she guided the participants through a live Anapanasati meditation, allowing everyone to experience mindfulness and calmness firsthand.\n\nThe session was interactive, insightful, and deeply calming, leaving participants with a sense of inner peace and renewed perspective. Overall, the event was a grand success, reflecting the club’s commitment to promoting mental well-being, mindfulness, and holistic growth through meaningful global collaborations.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/FrjntWxxxp2Rkya58gQQf.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/PgEhoz35_OEnOT90dR-BV.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/zFvuzbSbhSj2r_-CALSjg.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/6Vc3jRtxLBAzsPdAFGcsM.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/4OGiwgvNEhOC7x6tJ9p9L.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/yg_1forhNJkz343wpFArP.jpeg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/PNgXBE-VXdnkTCmLlqGWQ.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/FV-gRQJ09KmdJzjD5fFkh.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/NJdCPdbdeaTBwWUvq6bVY.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/_vSq-2YBIL8AjKi0GwV_j.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/ZhsGVxq1Mmcqjv6pC5lUd.jpeg"
         ]
     },
     {
-        "id": "4a40a9fd-ed5a-4f4c-b610-368d20824a51",
-        "name": "ISD Meet",
-        "type": "PARTICIPATORY_ACTIVITY",
-        "venue": "SSMRV College, Jayanagar 4th T Block, Bengaluru",
-        "start_date": "14/12/2025",
-        "end_date": "14/12/2025",
-        "areas_of_focus": "",
-        "avenues_of_service": "International Service",
-        "description": "The District International Service Team, RID 3191, organized Royal Horizons 2.0, a district-level meet-up for International Service Directors (ISDs) of various Rotaract clubs, on 14th December 2025 at 12:30 PM at SSMRV Degree College, Jayanagar. Our Club ISD, Rtr. Mahesh N, participated in the meeting along with ISDs from different clubs across the district.\n\nThe session provided an open platform for all ISDs to come together and share updates regarding their respective club activities. During the interaction, each club, including ours, presented details about the international service events conducted so far, the experiences gained, and the plans for upcoming initiatives. This exchange helped in understanding the diverse approaches followed by clubs and encouraged idea sharing.\n\nThe meeting also allowed ISDs to raise queries and concerns related to planning, collaboration, and reporting of international service projects. These queries were addressed by the district team through clarifications and guidance, ensuring better clarity and alignment for future activities.\n\nOverall, the meet-up created a supportive environment for discussion, learning, and coordination among ISDs. It strengthened inter-club communication and helped in building a clear roadmap for effective international service execution across the district.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/_ONSPpjNnpPkwuwMPb9d4.jpeg",
+        "id": "be534f76-45c1-45d5-82b2-9caa8e4bbfc6",
+        "name": "Eye Checkup Camp",
+        "type": "COLLABORATION_WITH_SPONSORED_CLUB",
+        "venue": "KSIT",
+        "start_date": "07/11/2025",
+        "end_date": "07/11/2025",
+        "areas_of_focus": "Providing Clean Water, Sanitation and Hygiene",
+        "avenues_of_service": "Community Service, Club Service",
+        "description": "The Eye Checkup Camp was successfully organized at KSIT by the Rotaract Club of KSSEM in partnership with Rotary Bangalore Vidyapeeth on 22 November. The primary objective of the camp was to promote eye health awareness and provide free, accessible eye screening services to students, faculty, and staff.\n\nThe camp began with the presence of Rotarians, faculty coordinators, medical professionals, and Rotaract volunteers who ensured efficient arrangements and smooth flow of activities. A team of certified optometrists conducted comprehensive examinations including vision testing, refractive error detection, and basic consultation. Participants also received guidance on eye care practices, preventive measures, and the importance of regular checkups.\n\nThe event witnessed an excellent response, with beneficiaries availing the screening services. Several participants were advised on corrective lenses or required follow-up consultations, helping identify potential vision concerns at an early stage.\n\nThe members of the Rotaract Club of KSSEM actively contributed to registration, crowd management, coordination with doctors, and assisting participants. Their teamwork and dedication played a vital role in the smooth execution of the camp, reflecting the club’s commitment to community welfare and health initiatives.\n\nThe Eye Checkup Camp concluded successfully, creating awareness on the importance of eye health while providing valuable medical support to the KSIT community. The collaboration with Rotary strengthened the impact of the initiative and highlighted the collective spirit of service.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/aXJqL0keMCf4kvKqZx2Zl.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/0FvoIYvWnhF6DGcS_t9aK.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/gndu3vJ4iCHYqgyvWyzvQ.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/W76dddis6Uqt47X97n0iu.jpeg"
-        ]
-    },
-    {
-        "id": "c8d9f887-e417-4903-b581-b1feb2f81688",
-        "name": "Party in Pink 4.0",
-        "type": "PARTICIPATORY_ACTIVITY",
-        "venue": "SSMRV College, Jayanagar 4th T Block, Bengaluru",
-        "start_date": "14/12/2025",
-        "end_date": "14/12/2025",
-        "areas_of_focus": "Promoting Peace, Fighting Disease",
-        "avenues_of_service": "International Service, Public Image, Community Service",
-        "description": "The Rotaract Club of KSSEM actively participated in Party in Pink 4.0, a vibrant Zumba-based awareness and fundraising initiative organized by the Rotaract Club of Bangalore JP Nagar on 14th December 2025 at SSMRV College, Jayanagar. The event was conducted with the objective of creating awareness about breast cancer and raising funds to support women battling the disease.\n\nMembers of the Rotaract Club of KSSEM enthusiastically joined the programme and took part in the Zumba session, contributing to the energetic and supportive atmosphere of the event. Through active participation, our club stood in solidarity with the cause, promoting the importance of early detection, awareness, and community support in the collective fight against breast cancer.\n\nThe event witnessed participation from Rotaractors, students, and members of the public, all coming together in shades of pink to symbolize hope, strength, and resilience. Along with physical fitness and fun, the programme successfully delivered a powerful message on women’s health and the need for continuous awareness and advocacy.\n\nBy participating in Party in Pink 4.0, the Rotaract Club of KSSEM reaffirmed its commitment to community service, health awareness, and collaborative initiatives within the Rotaract fraternity. The event served as a meaningful platform to contribute toward a social cause while fostering unity and shared responsibility among clubs.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/mqjPRmkDien62issdMs7y.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/WL3relZCZQayPgHDPJjwT.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/h33lrBEuyemx6rc-nvqY2.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Gxh8DQtFwuXp218M5Y0ie.jpeg"
-        ]
-    },
-    {
-        "id": "7b0f641d-a310-4e1b-ab2c-765c3b85445f",
-        "name": "Volunteering Service – Turahalli Government School Annual Day",
-        "type": "STANDALONE_ACTIVITY",
-        "venue": "Turahalli Government School, Bengaluru",
-        "start_date": "13/12/2025",
-        "end_date": "13/12/2025",
-        "areas_of_focus": "Supporting Education, Saving Mothers and Children",
-        "avenues_of_service": "Public Image, Community Service, Public Relations",
-        "description": "The Rotaract Club of KSSEM actively volunteered for the Annual Day celebration of Turahalli Government School on 13th December 2025. This meaningful community service initiative was undertaken with the objective of supporting the school in successfully organizing their annual celebration and ensuring smooth execution of the entire program.\n\nA total of seven Rotaractors from our club contributed both directly at the venue and through backend coordination. Our members were involved in stage arrangement, student coordination, program scheduling support, seating arrangements, and overall event management. Backend volunteers handled communication, material arrangements, and coordination with school authorities to ensure that all requirements were met on time.\n\nThe team worked closely with the school staff and Parent Rotary members to maintain proper flow of the program and provide necessary assistance throughout the event. Their dedication and teamwork played a vital role in making the Annual Day celebration organized, disciplined, and memorable for the students, teachers, and parents.\n\nThis volunteering activity reflected the club’s commitment towards community development, educational support, and responsible citizenship. It also strengthened the bond between our club and the school while giving our members an opportunity to serve society through active participation.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/p13PFKlLRDx_xzRweiZJt.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/wWSi9WqRwEuyeKJCeeDb8.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/SgJrlB-SqMot9gmfqZ-FR.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/YOcBaF2OPbGWw0p2tIBQi.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/oXdxBjFVbRdB5fRTAqvu1.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/5op7GQ9aXtUNW2TpjOGQi.jpeg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/YMkr5ApWN1OByu4jMDGf0.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/9SFbjNlVmWc0qGdm0fKK6.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/I5ZjJy6w-2rrOJVJ4WW_I.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/i4guHRpwgfrH2hvuiv2Z-.jpeg"
         ]
     },
     {
@@ -1304,56 +1484,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "78fa2f06-983e-4c31-8d99-327bc9d9d3ac",
-        "name": "Your Network is Your Net-worth",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "22/11/2025",
-        "end_date": "22/11/2025",
-        "areas_of_focus": "Growing Local Economies, Supporting Education",
-        "avenues_of_service": "Professional Development, Club Service",
-        "description": "The Rotaract Club of JIMS Vasant Kunj organized an online professional development session under Project Elevate titled “Your Network is Your Net-worth: The Power of Professional Networking.” The event was held on 22nd November 2025 at 7:00 PM on Google Meet. The purpose of the session was to help participants understand how building the right connections can support their future growth and open new opportunities.\n\nThe session featured Mr. Aditya Raj as the guest speaker. He is a TEDx Speaker, an MBA graduate from the Great Lakes Institute of Management, and currently works as the Community Manager at Great Learning. He also hosts The MBA Playbook, a YouTube series that offers practical guidance for MBA aspirants. During the session, he spoke about the importance of networking in today’s professional world. He explained how authentic relationships can lead to personal development, better career chances, and long-term success. He also shared simple methods to build and maintain meaningful connections.\n\nThe event was conducted in collaboration with multiple Rotaract clubs, with each club required to have a minimum of five participants. Collaboration certificates were provided to the clubs that participated. Overall, the session was informative and helped members understand the real value of professional networking.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/VaXi2Iy28_rUKOkzmLd0V.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/-hJaLN029Fgf1EAkPUDfZ.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/G7UdM_oYxRyef0-gJTPee.jpg"
-        ]
-    },
-    {
-        "id": "0d61e8b2-2c60-49ad-9c40-ddbaa442dfc9",
-        "name": "District Learning Program (DLP) of RID 3080",
-        "type": "PARTICIPATORY_ACTIVITY",
-        "venue": "Chandigarh",
-        "start_date": "16/11/2025",
-        "end_date": "16/11/2025",
-        "areas_of_focus": "",
-        "avenues_of_service": "International Service",
-        "description": "The Rotaract Club of KSSEM had the privilege of being represented at a district-level engagement with Rotaract District 3080 during a visit to Chandigarh. Representing the club were Rtr. Mahesh N, International Service Director, and Rtr. Thanushree N, Resource Manager.\n\nThe visit coincided with the District Learning Program (DLP) of RID 3080, providing an excellent opportunity for the club representatives to interact with the district leadership team, including the District Rotaract Representative Rtr. Ritik Nagpal and other district officials.\n\nDuring the program, the representatives had the opportunity to engage with members of various district avenues, understand ongoing projects, and observe best practices followed by the district. The interaction also facilitated meaningful discussions, inter-district networking, and exchange of ideas, strengthening bonds between the two districts.\n\nThis exposure proved to be a highly enriching experience, enhancing the club’s understanding of structured leadership, collaboration, and large-scale Rotaract operations. The visit reaffirmed the Rotaract Club of KSSEM’s commitment to learning, growth, and building strong connections beyond district boundaries, contributing positively to the club’s overall development and international service outlook.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/Fog8NIi3LhMBiup2qZ-ZU.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/DewiTq_S-_CiXvN0RfXfN.jpeg"
-        ]
-    },
-    {
-        "id": "dca86420-80f4-41b5-88bb-b00d6ce2ef7b",
-        "name": "Breast Cancer Awareness Talk",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "16/11/2025",
-        "end_date": "16/11/2025",
-        "areas_of_focus": "Fighting Disease",
-        "avenues_of_service": "Community Service, Club Service",
-        "description": "The Breast Cancer Awareness Webinar, organized by the Rotaract Club of Delhi Rajdhani, RID 3011, was held on 16th November 2025 at 7:00 PM via Google Meet. This impactful and educational session aimed to promote early detection, dispel common myths, and encourage open conversations around breast cancer — a crucial health concern affecting women worldwide.\n\nThe event featured Dr. Avneet Kaur, a respected medical professional and health educator, as the guest speaker. She offered clear and compassionate insights into breast cancer, explaining its causes, symptoms, and risk factors. Dr. Avneet emphasized the life-saving importance of early detection, regular screenings, and monthly self-breast examinations. She also addressed common misconceptions surrounding the disease and shared motivating stories of courage and survival that inspired participants to prioritize their health.\n\nThe webinar included an interactive Q&A segment, allowing attendees to seek clarity on doubts and concerns. The participation from various Rotaract clubs met the collaboration criteria, ensuring strong engagement and collective learning across districts.\n\nSpearheaded by Rtr. Yash Raj (Community Service Director), Rtr. Sudarshan Pandish (Secretary), and Rtr. Radhika Agarwal (President), the session concluded as a meaningful initiative that promoted awareness, emotional support, and the message that early action saves lives. This event successfully strengthened the importance of health education and community awareness within the Rotaract network.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/cOznD_k9TGxx0uU5VTNCM.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/F6AMv7N9Nk_a-Ngfid6iu.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/z-xWVsrNpGM3C7VX1xK7m.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/T-khAJAfrYzqcv5TY0zsy.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/85kNkySDQT3CDaxAA9DVw.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/gbmH07d2lq2fkABwMRlFs.jpeg"
-        ]
-    },
-    {
         "id": "a68921ca-44d7-4924-9a76-2cdfbdf4d19b",
         "name": "Kannada Rajyotsava 2025",
         "type": "HOSTED_ACTIVITY",
@@ -1369,6 +1499,92 @@ const projectsData = [
             "https://media.3191-2525.clubstack.tixora.space/uploads/JY-hkOvd_2vUPgFB-B7-q.jpg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/BgfJibVjdVG-_4PCvALdr.jpg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/4f61QzTZ3yf1fkGT9fI1n.jpg"
+        ]
+    },
+    {
+        "id": "ffea4f67-a2f6-4642-b4d8-a923d98b8615",
+        "name": "ನಮ್ಮ ಕನ್ನಡ ನಮ್ಮ ಹೆಮ್ಮೆ",
+        "type": "HOSTED_ACTIVITY",
+        "venue": "Bengaluru",
+        "start_date": "01/11/2025",
+        "end_date": "01/11/2025",
+        "areas_of_focus": "Growing Local Economies, Protecting The Environment",
+        "avenues_of_service": "Public Image, Community Service, Public Relations",
+        "description": "ನಮ್ಮ ಕನ್ನಡ ನಮ್ಮ ಹೆಮ್ಮೆ\n\nThe Rotaract Club of KSSEM proudly celebrated Kannada Rajyotsava through a heartfelt community service event titled ನಮ್ಮ ಕನ್ನಡ ನಮ್ಮ ಹೆಮ್ಮೆ. This initiative was created to honour the spirit of Kannada and to share the warmth of our culture with the people who work quietly every day to keep our city running. Our team visited the metro staff and the BMTC workers at Banashankari TTMC with the intention of expressing gratitude and spreading joy.\n\nCarrying Karnataka flag badges, sweets and greeting cards, we approached each worker with respect and appreciation. These small yet meaningful offerings created beautiful moments of connection. The smiles we received and the conversations we shared reflected the pride and affection that Kannada evokes in all of us. It reminded us that celebration becomes complete only when it reaches the hearts of the community.\n\nThe event ನಮ್ಮ ಕನ್ನಡ ನಮ್ಮ ಹೆಮ್ಮೆ stood as a graceful expression of cultural pride and human kindness. It reflected the belief that Kannada is not just a language but an emotion that binds people together. By acknowledging the efforts of metro and BMTC staff, we honoured their daily contribution which often remains unnoticed yet plays an important role in the rhythm of our city.\n\nAs the colours of the Kannada flag brightened the atmosphere and the greetings filled the air, the event became a beautiful memory for everyone involved. It was a simple initiative that carried a powerful message of unity, respect and heartfelt pride for our land and language.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/o2de3sVs6DtFXtsBCrO9c.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/eaQ9Lf6dnXxnn85S8WK8I.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/IvQlZ71PVZ8Ao7Atz5Zln.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/QZmO-UDlpPckg3W-Um9ej.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/0q4CEjYrcYK_M_tlKi8PT.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/WgwElRWCZVEOhROnD7Cv1.jpg"
+        ]
+    },
+    {
+        "id": "96cae929-d577-473a-b7ba-08b22ecad28a",
+        "name": "Nada Habba",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "Janapada loka",
+        "start_date": "02/11/2025",
+        "end_date": "02/11/2025",
+        "areas_of_focus": "Promoting Peace",
+        "avenues_of_service": "Club Service",
+        "description": "ನಾಡ ಹಬ್ಬ - Rotaract Kannada Rajyotsava was a vibrant and meaningful celebration held at Janapada Loka, Ramanagara, bringing Rotaractors together in honour of Karnataka’s rich cultural heritage. The day began with members gathering at Pattanagere Metro Station and traveling to the venue, building a sense of unity and shared excitement for the festivities ahead .\n\nThe event commenced with an energetic procession, followed by the dignified flag hoisting ceremony, setting a patriotic tone for the celebration. The MC’s opening remarks and the formal calling of the meeting to order were followed by the lighting of the lamp, symbolising positivity and the beginning of a culturally immersive experience.\n\nAn expressive inaugural dance beautifully captured the spirit of Karnataka. The President then delivered a warm welcome address, after which the DRR and District Youth Service Director shared their remarks, adding meaning and encouragement to the occasion. Their presence enriched the cultural significance of ನಾಡ ಹಬ್ಬ without extending beyond the planned agenda.\n\nThe introduction and address by the Chief Guest added value to the event, followed by the felicitation of the Guest of Honour, acknowledging their contribution. The stage then came alive with a graceful dance by the Rotaract Club of Shantiniketan, leading into a vibrant series of cultural dance performances that showcased the beauty of Karnataka’s traditions.\n\nThe celebration concluded with sponsor recognitions, a heartfelt vote of thanks, the national anthem, and a joyful lunch accompanied by music, creating a memorable and culturally rich ending to ನಾಡ ಹಬ್ಬ .",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/imp2o6ZlLAOlXlv-nFYBs.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/gcHnsE27wvy4p7i0DEVo9.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/UJzasLQ3OUUtQ4bd48ah0.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/__EVK4FWvEvhDhZVg7PMw.jpg"
+        ]
+    },
+    {
+        "id": "5a4a35ee-8c44-4bf8-b75c-aed21e9de364",
+        "name": "Nodii Nama Uru 2.0",
+        "type": "HOSTED_ACTIVITY",
+        "venue": "Bengaluru",
+        "start_date": "01/11/2025",
+        "end_date": "09/11/2025",
+        "areas_of_focus": "",
+        "avenues_of_service": "International Service, Club Service",
+        "description": "Nodi Namma Ooru 2.0 was a special cultural and fellowship initiative where members of Rotaract District 3141 visited Bengaluru and were warmly hosted by our club. The purpose of this experience was to give our guests a meaningful glimpse into the heritage, culture, and vibrant spirit of our city. Throughout their visit, our club ensured a smooth and welcoming hospitality experience, making the journey memorable for every participant.\n\nThe tour began with visits to iconic historical landmarks such as Bangalore Fort and Tipu Sultan’s Summer Palace, where the guests explored the city’s rich past and architectural elegance. They were then taken to the lively surroundings of KR Market, one of Bengaluru’s oldest and most colourful marketplaces, offering a taste of local life. The group also visited the majestic Vidhana Soudha, a symbol of Karnataka’s governance and grandeur.\n\nTo showcase Bengaluru’s unique blend of spirituality and serenity, the guests were guided to ISKCON Vaikunta Hill, where the peaceful atmosphere and scenic views added a refreshing touch to the day. Later, the energetic ambience of Church Street offered a modern and vibrant city experience.\n\nAs a part of celebrating Karnataka’s culture, our club proudly involved the guests in Rotary Kannada Rajyotsava and Namma Nada Habba – Rotaract Kannada Rajyotsava, allowing them to witness traditional performances, local flavours, and the cultural pride of the state.\n\nOverall, Nodi Namma Ooru 2.0 was a beautifully curated blend of heritage, fellowship, and cultural exchange, strengthening bonds between districts and creating unforgettable memories for everyone involved.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/ZTQbSQpwlqFIue3PXxzdD.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/XWdN-nAsxk7NJ9D35RAoO.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/CVr6yLVMdGCRAK5nzxKUb.jpg"
+        ]
+    },
+    {
+        "id": "32f7ded9-f2ae-456e-8396-c4f1a62646b4",
+        "name": "Crack the Code: Resume to Interview",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "09/11/2025",
+        "end_date": "09/11/2025",
+        "areas_of_focus": "Supporting Education",
+        "avenues_of_service": "Professional Development, Club Service",
+        "description": "The Rotaract Club of Banashankari ,RID 3191 successfully hosted the online professional development session, “Crack the Code: Resume to Interview,” on 9th November 2025, at 6:00 PM on Google Meet. The event featured Ms. Sandhya Satyan, Former Vice President of Operations – India at Goldman Sachs and currently Head of People Transactions at Novotech, as the esteemed speaker. The session focused on career development, resume building, and interview skills. The event was well-attended and played a significant role in empowering participants with practical, career-transforming knowledge.\n\nWe were delighted by the strong support from the Rotaract Club of KSSEM, which actively participated in our event, sending 10 members from their Board of Directors (BODs) and successfully fulfilling the collaboration criteria.\n\nUnder the leadership of Rtr. Prajwal D(Professional Service Director) and Rtr. Sarath S (Professional Service Co Director),Rtr. Sahana BM (President,Rac Banashankari) the event concluded as a significant success, empowering attendees with practical, actionable strategies for career.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/biBaQHY8UHKvAlAbrxK3m.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/BFEmMhuOmQig3K8QwR9D6.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/bq9UrDXIrmdhSFW-FHD3_.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/l6tKBb-UoEPsyPehQQ8Zw.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/aRTOVku8RsEFr3r3WkbxS.jpg"
+        ]
+    },
+    {
+        "id": "78fa2f06-983e-4c31-8d99-327bc9d9d3ac",
+        "name": "Your Network is Your Net-worth",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "22/11/2025",
+        "end_date": "22/11/2025",
+        "areas_of_focus": "Growing Local Economies, Supporting Education",
+        "avenues_of_service": "Professional Development, Club Service",
+        "description": "The Rotaract Club of JIMS Vasant Kunj organized an online professional development session under Project Elevate titled “Your Network is Your Net-worth: The Power of Professional Networking.” The event was held on 22nd November 2025 at 7:00 PM on Google Meet. The purpose of the session was to help participants understand how building the right connections can support their future growth and open new opportunities.\n\nThe session featured Mr. Aditya Raj as the guest speaker. He is a TEDx Speaker, an MBA graduate from the Great Lakes Institute of Management, and currently works as the Community Manager at Great Learning. He also hosts The MBA Playbook, a YouTube series that offers practical guidance for MBA aspirants. During the session, he spoke about the importance of networking in today’s professional world. He explained how authentic relationships can lead to personal development, better career chances, and long-term success. He also shared simple methods to build and maintain meaningful connections.\n\nThe event was conducted in collaboration with multiple Rotaract clubs, with each club required to have a minimum of five participants. Collaboration certificates were provided to the clubs that participated. Overall, the session was informative and helped members understand the real value of professional networking.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/VaXi2Iy28_rUKOkzmLd0V.jpeg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/-hJaLN029Fgf1EAkPUDfZ.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/G7UdM_oYxRyef0-gJTPee.jpg"
         ]
     },
     {
@@ -1391,37 +1607,22 @@ const projectsData = [
         ]
     },
     {
-        "id": "07039c39-069a-4c2c-944a-96b503ca80aa",
-        "name": "Stress Management",
+        "id": "dca86420-80f4-41b5-88bb-b00d6ce2ef7b",
+        "name": "Breast Cancer Awareness Talk",
         "type": "JOINT_INITIATIVE",
         "venue": "Online (G-Meet)",
-        "start_date": "10/11/2025",
-        "end_date": "10/11/2025",
-        "areas_of_focus": "Promoting Peace",
-        "avenues_of_service": "Professional Development, Club Service",
-        "description": "The Stress Management online session, organized by the Rotaract Club of Delhi Pegasus, RID 3012, was successfully conducted on 10th November 2025 from 8:00 PM to 9:00 PM via Google Meet. The session aimed to help participants understand the roots of stress, recognize its impact, and learn simple yet effective strategies to manage it in daily life.\n\nThe resource person for the event, Ms. Dhruvi Shah, a Counselling Psychologist, delivered an insightful and relatable talk on how stress affects both the mind and body. She discussed practical methods such as mindful breathing, grounding exercises, time management, healthy routine building, and the importance of emotional awareness. The session also highlighted how small lifestyle adjustments can significantly help in reducing anxiety and creating a balanced mindset.\n\nParticipants actively engaged with questions and reflections, making the session interactive and thought-provoking. Clubs fulfilled the collaboration requirement of a minimum of five members, ensuring strong participation and involvement throughout the session.\n\nThe event concluded as an enriching and rejuvenating experience, thanks to the efforts of Rtr. Anushka Kishwar (Project Chair), Rtr. Krishnav Goel (Director, Professional Development), Rtr. Mohd Asif (Secretary), and Rtr. Ayush Raj (President). The session successfully encouraged members to prioritize mental well-being and embrace healthier ways of coping with stress.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/hmg2Cy55-LhT87Z3zaGFg.jpeg",
+        "start_date": "16/11/2025",
+        "end_date": "16/11/2025",
+        "areas_of_focus": "Fighting Disease",
+        "avenues_of_service": "Community Service, Club Service",
+        "description": "The Breast Cancer Awareness Webinar, organized by the Rotaract Club of Delhi Rajdhani, RID 3011, was held on 16th November 2025 at 7:00 PM via Google Meet. This impactful and educational session aimed to promote early detection, dispel common myths, and encourage open conversations around breast cancer — a crucial health concern affecting women worldwide.\n\nThe event featured Dr. Avneet Kaur, a respected medical professional and health educator, as the guest speaker. She offered clear and compassionate insights into breast cancer, explaining its causes, symptoms, and risk factors. Dr. Avneet emphasized the life-saving importance of early detection, regular screenings, and monthly self-breast examinations. She also addressed common misconceptions surrounding the disease and shared motivating stories of courage and survival that inspired participants to prioritize their health.\n\nThe webinar included an interactive Q&A segment, allowing attendees to seek clarity on doubts and concerns. The participation from various Rotaract clubs met the collaboration criteria, ensuring strong engagement and collective learning across districts.\n\nSpearheaded by Rtr. Yash Raj (Community Service Director), Rtr. Sudarshan Pandish (Secretary), and Rtr. Radhika Agarwal (President), the session concluded as a meaningful initiative that promoted awareness, emotional support, and the message that early action saves lives. This event successfully strengthened the importance of health education and community awareness within the Rotaract network.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/cOznD_k9TGxx0uU5VTNCM.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/rLVmC0mUp2LUnHELMT77L.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/H9VaGKHKiz9KN7NANnuH-.jpeg"
-        ]
-    },
-    {
-        "id": "32f7ded9-f2ae-456e-8396-c4f1a62646b4",
-        "name": "Crack the Code: Resume to Interview",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "09/11/2025",
-        "end_date": "09/11/2025",
-        "areas_of_focus": "Supporting Education",
-        "avenues_of_service": "Professional Development, Club Service",
-        "description": "The Rotaract Club of Banashankari ,RID 3191 successfully hosted the online professional development session, “Crack the Code: Resume to Interview,” on 9th November 2025, at 6:00 PM on Google Meet. The event featured Ms. Sandhya Satyan, Former Vice President of Operations – India at Goldman Sachs and currently Head of People Transactions at Novotech, as the esteemed speaker. The session focused on career development, resume building, and interview skills. The event was well-attended and played a significant role in empowering participants with practical, career-transforming knowledge.\n\nWe were delighted by the strong support from the Rotaract Club of KSSEM, which actively participated in our event, sending 10 members from their Board of Directors (BODs) and successfully fulfilling the collaboration criteria.\n\nUnder the leadership of Rtr. Prajwal D(Professional Service Director) and Rtr. Sarath S (Professional Service Co Director),Rtr. Sahana BM (President,Rac Banashankari) the event concluded as a significant success, empowering attendees with practical, actionable strategies for career.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/biBaQHY8UHKvAlAbrxK3m.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/BFEmMhuOmQig3K8QwR9D6.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/bq9UrDXIrmdhSFW-FHD3_.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/l6tKBb-UoEPsyPehQQ8Zw.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/aRTOVku8RsEFr3r3WkbxS.jpg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/F6AMv7N9Nk_a-Ngfid6iu.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/z-xWVsrNpGM3C7VX1xK7m.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/T-khAJAfrYzqcv5TY0zsy.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/85kNkySDQT3CDaxAA9DVw.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/gbmH07d2lq2fkABwMRlFs.jpeg"
         ]
     },
     {
@@ -1441,24 +1642,6 @@ const projectsData = [
             "https://media.3191-2525.clubstack.tixora.space/uploads/JA88ULwLlbhSmHMWqVIUg.jpeg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/hqTaFp7IuCb7CFyVTue2A.jpeg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/D0HJGKmeXuO_XWNfnzDDM.jpeg"
-        ]
-    },
-    {
-        "id": "be534f76-45c1-45d5-82b2-9caa8e4bbfc6",
-        "name": "Eye Checkup Camp",
-        "type": "COLLABORATION_WITH_SPONSORED_CLUB",
-        "venue": "KSIT",
-        "start_date": "07/11/2025",
-        "end_date": "07/11/2025",
-        "areas_of_focus": "Providing Clean Water, Sanitation and Hygiene",
-        "avenues_of_service": "Community Service, Club Service",
-        "description": "The Eye Checkup Camp was successfully organized at KSIT by the Rotaract Club of KSSEM in partnership with Rotary Bangalore Vidyapeeth on 22 November. The primary objective of the camp was to promote eye health awareness and provide free, accessible eye screening services to students, faculty, and staff.\n\nThe camp began with the presence of Rotarians, faculty coordinators, medical professionals, and Rotaract volunteers who ensured efficient arrangements and smooth flow of activities. A team of certified optometrists conducted comprehensive examinations including vision testing, refractive error detection, and basic consultation. Participants also received guidance on eye care practices, preventive measures, and the importance of regular checkups.\n\nThe event witnessed an excellent response, with beneficiaries availing the screening services. Several participants were advised on corrective lenses or required follow-up consultations, helping identify potential vision concerns at an early stage.\n\nThe members of the Rotaract Club of KSSEM actively contributed to registration, crowd management, coordination with doctors, and assisting participants. Their teamwork and dedication played a vital role in the smooth execution of the camp, reflecting the club’s commitment to community welfare and health initiatives.\n\nThe Eye Checkup Camp concluded successfully, creating awareness on the importance of eye health while providing valuable medical support to the KSIT community. The collaboration with Rotary strengthened the impact of the initiative and highlighted the collective spirit of service.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/aXJqL0keMCf4kvKqZx2Zl.jpeg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/YMkr5ApWN1OByu4jMDGf0.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/9SFbjNlVmWc0qGdm0fKK6.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/I5ZjJy6w-2rrOJVJ4WW_I.jpeg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/i4guHRpwgfrH2hvuiv2Z-.jpeg"
         ]
     },
     {
@@ -1497,89 +1680,38 @@ const projectsData = [
         ]
     },
     {
-        "id": "96cae929-d577-473a-b7ba-08b22ecad28a",
-        "name": "Nada Habba",
-        "type": "PARTICIPATORY_ACTIVITY",
-        "venue": "Janapada loka",
-        "start_date": "02/11/2025",
-        "end_date": "02/11/2025",
-        "areas_of_focus": "Promoting Peace",
-        "avenues_of_service": "Club Service",
-        "description": "ನಾಡ ಹಬ್ಬ - Rotaract Kannada Rajyotsava was a vibrant and meaningful celebration held at Janapada Loka, Ramanagara, bringing Rotaractors together in honour of Karnataka’s rich cultural heritage. The day began with members gathering at Pattanagere Metro Station and traveling to the venue, building a sense of unity and shared excitement for the festivities ahead .\n\nThe event commenced with an energetic procession, followed by the dignified flag hoisting ceremony, setting a patriotic tone for the celebration. The MC’s opening remarks and the formal calling of the meeting to order were followed by the lighting of the lamp, symbolising positivity and the beginning of a culturally immersive experience.\n\nAn expressive inaugural dance beautifully captured the spirit of Karnataka. The President then delivered a warm welcome address, after which the DRR and District Youth Service Director shared their remarks, adding meaning and encouragement to the occasion. Their presence enriched the cultural significance of ನಾಡ ಹಬ್ಬ without extending beyond the planned agenda.\n\nThe introduction and address by the Chief Guest added value to the event, followed by the felicitation of the Guest of Honour, acknowledging their contribution. The stage then came alive with a graceful dance by the Rotaract Club of Shantiniketan, leading into a vibrant series of cultural dance performances that showcased the beauty of Karnataka’s traditions.\n\nThe celebration concluded with sponsor recognitions, a heartfelt vote of thanks, the national anthem, and a joyful lunch accompanied by music, creating a memorable and culturally rich ending to ನಾಡ ಹಬ್ಬ .",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/imp2o6ZlLAOlXlv-nFYBs.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/gcHnsE27wvy4p7i0DEVo9.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/UJzasLQ3OUUtQ4bd48ah0.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/__EVK4FWvEvhDhZVg7PMw.jpg"
-        ]
-    },
-    {
-        "id": "ffea4f67-a2f6-4642-b4d8-a923d98b8615",
-        "name": "ನಮ್ಮ ಕನ್ನಡ ನಮ್ಮ ಹೆಮ್ಮೆ",
-        "type": "HOSTED_ACTIVITY",
-        "venue": "Bengaluru",
-        "start_date": "01/11/2025",
-        "end_date": "01/11/2025",
-        "areas_of_focus": "Growing Local Economies, Protecting The Environment",
-        "avenues_of_service": "Public Image, Community Service, Public Relations",
-        "description": "ನಮ್ಮ ಕನ್ನಡ ನಮ್ಮ ಹೆಮ್ಮೆ\n\nThe Rotaract Club of KSSEM proudly celebrated Kannada Rajyotsava through a heartfelt community service event titled ನಮ್ಮ ಕನ್ನಡ ನಮ್ಮ ಹೆಮ್ಮೆ. This initiative was created to honour the spirit of Kannada and to share the warmth of our culture with the people who work quietly every day to keep our city running. Our team visited the metro staff and the BMTC workers at Banashankari TTMC with the intention of expressing gratitude and spreading joy.\n\nCarrying Karnataka flag badges, sweets and greeting cards, we approached each worker with respect and appreciation. These small yet meaningful offerings created beautiful moments of connection. The smiles we received and the conversations we shared reflected the pride and affection that Kannada evokes in all of us. It reminded us that celebration becomes complete only when it reaches the hearts of the community.\n\nThe event ನಮ್ಮ ಕನ್ನಡ ನಮ್ಮ ಹೆಮ್ಮೆ stood as a graceful expression of cultural pride and human kindness. It reflected the belief that Kannada is not just a language but an emotion that binds people together. By acknowledging the efforts of metro and BMTC staff, we honoured their daily contribution which often remains unnoticed yet plays an important role in the rhythm of our city.\n\nAs the colours of the Kannada flag brightened the atmosphere and the greetings filled the air, the event became a beautiful memory for everyone involved. It was a simple initiative that carried a powerful message of unity, respect and heartfelt pride for our land and language.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/o2de3sVs6DtFXtsBCrO9c.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/eaQ9Lf6dnXxnn85S8WK8I.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/IvQlZ71PVZ8Ao7Atz5Zln.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/QZmO-UDlpPckg3W-Um9ej.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/0q4CEjYrcYK_M_tlKi8PT.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/WgwElRWCZVEOhROnD7Cv1.jpg"
-        ]
-    },
-    {
-        "id": "5a4a35ee-8c44-4bf8-b75c-aed21e9de364",
-        "name": "Nodii Nama Uru 2.0",
-        "type": "HOSTED_ACTIVITY",
-        "venue": "Bengaluru",
-        "start_date": "01/11/2025",
-        "end_date": "09/11/2025",
-        "areas_of_focus": "",
-        "avenues_of_service": "International Service, Club Service",
-        "description": "Nodi Namma Ooru 2.0 was a special cultural and fellowship initiative where members of Rotaract District 3141 visited Bengaluru and were warmly hosted by our club. The purpose of this experience was to give our guests a meaningful glimpse into the heritage, culture, and vibrant spirit of our city. Throughout their visit, our club ensured a smooth and welcoming hospitality experience, making the journey memorable for every participant.\n\nThe tour began with visits to iconic historical landmarks such as Bangalore Fort and Tipu Sultan’s Summer Palace, where the guests explored the city’s rich past and architectural elegance. They were then taken to the lively surroundings of KR Market, one of Bengaluru’s oldest and most colourful marketplaces, offering a taste of local life. The group also visited the majestic Vidhana Soudha, a symbol of Karnataka’s governance and grandeur.\n\nTo showcase Bengaluru’s unique blend of spirituality and serenity, the guests were guided to ISKCON Vaikunta Hill, where the peaceful atmosphere and scenic views added a refreshing touch to the day. Later, the energetic ambience of Church Street offered a modern and vibrant city experience.\n\nAs a part of celebrating Karnataka’s culture, our club proudly involved the guests in Rotary Kannada Rajyotsava and Namma Nada Habba – Rotaract Kannada Rajyotsava, allowing them to witness traditional performances, local flavours, and the cultural pride of the state.\n\nOverall, Nodi Namma Ooru 2.0 was a beautifully curated blend of heritage, fellowship, and cultural exchange, strengthening bonds between districts and creating unforgettable memories for everyone involved.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/ZTQbSQpwlqFIue3PXxzdD.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/XWdN-nAsxk7NJ9D35RAoO.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/CVr6yLVMdGCRAK5nzxKUb.jpg"
-        ]
-    },
-    {
-        "id": "653fd1d9-9844-4c10-8f8c-e23008ddde12",
-        "name": "Learning the Languages of Emotions",
-        "type": "STANDALONE_ACTIVITY",
-        "venue": "Online (G-Meet)",
-        "start_date": "30/10/2025",
-        "end_date": "30/10/2025",
-        "areas_of_focus": "Supporting Education",
-        "avenues_of_service": "Community Service, Professional Development",
-        "description": "The Rotaract Club of KSSEM cordially invites you to an insightful and transformative webinar titled “Learning the Languages of Emotions.” This session is designed to help individuals understand the depth of their emotions, decode the reasons behind their feelings, and explore how emotional intelligence shapes the way we think, act, and connect with others.\n\nIn a world where emotions often take a backseat to logic, this event offers a refreshing opportunity to pause and reflect. Guided by Hemalatha, an accomplished Teacher, Soft Skills Trainer, and Public Speaker, participants will embark on a journey of emotional discovery and self-awareness. The session will delve into understanding emotions, mastering emotional responses, building stronger interpersonal connections, and growing through emotional intelligence.\n\nBy the end of this one-hour experience, you will not only gain clarity about your inner emotional world but also learn how to apply emotional intelligence in real-life situations to lead with empathy, resilience, and balance.\n\nJoin us on 30th October 2025, from 7:00 PM to 8:00 PM, on Google Meet, for an evening that promises to inspire growth and introspection.\n\nThis event is proudly organized under the leadership of Rtr. Lohith J, Community Service Director, and Rtr. Sahana, Professional Development Director. Together, they aim to create a space where learning meets emotion, and knowledge meets heart.\n\nBecause understanding emotions is the first step toward understanding ourselves and those around us.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/DuNLkEIHH1dde0nTxeErt.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/NJ5QDuTS4K93wWDElXtEc.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/W77tF87bTkoCtuWQ_Xe2Z.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/BVvMMXULIJhxnt3h4LVn2.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/OfgO7RndDmTK5CzWVgCoE.jpg"
-        ]
-    },
-    {
-        "id": "6509ddf0-e32f-496a-bd60-48ba15b701f0",
-        "name": "Animal Feeding Drive",
+        "id": "07039c39-069a-4c2c-944a-96b503ca80aa",
+        "name": "Stress Management",
         "type": "JOINT_INITIATIVE",
-        "venue": "Online",
-        "start_date": "29/10/2025",
-        "end_date": "29/10/2025",
-        "areas_of_focus": "Protecting The Environment, Providing Clean Water, Sanitation and Hygiene",
-        "avenues_of_service": "Community Service",
-        "description": "The Animal Feeding Drive, organized under the Flagship Project REVIVE by the Rotaract Club of Dyal Singh College, RID 3012, was a compassionate initiative aimed at promoting kindness, empathy, and love towards animals. Conducted with the belief that “kindness to animals is kindness to ourselves,” the drive encouraged Rotaractors to actively contribute to the welfare of stray animals and birds.\n\nParticipants from various clubs joined hands to feed stray dogs, cats, and birds, capturing photos and videos of their acts of care and sharing them through the designated drive link. The initiative emphasized that small gestures of compassion, such as providing food or water, can create a ripple effect of positivity and awareness within the community.\n\nThe collaboration criteria required each participating club to submit a minimum of four photos or videos, earning them a Certificate of Collaboration as recognition for their contribution. The drive witnessed enthusiastic participation across multiple clubs, reflecting unity in service and a collective commitment to animal welfare.\n\nThe event successfully concluded on 29th October 2025, under the leadership of Rtr. N V Aruna Devi (President) and Rtr. Anushka (Secretary), leaving a lasting message of empathy, compassion, and the importance of coexisting harmoniously with all living beings.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/D20H2yIkMz_3xn06iwI9A.jpg",
+        "venue": "Online (G-Meet)",
+        "start_date": "10/11/2025",
+        "end_date": "10/11/2025",
+        "areas_of_focus": "Promoting Peace",
+        "avenues_of_service": "Professional Development, Club Service",
+        "description": "The Stress Management online session, organized by the Rotaract Club of Delhi Pegasus, RID 3012, was successfully conducted on 10th November 2025 from 8:00 PM to 9:00 PM via Google Meet. The session aimed to help participants understand the roots of stress, recognize its impact, and learn simple yet effective strategies to manage it in daily life.\n\nThe resource person for the event, Ms. Dhruvi Shah, a Counselling Psychologist, delivered an insightful and relatable talk on how stress affects both the mind and body. She discussed practical methods such as mindful breathing, grounding exercises, time management, healthy routine building, and the importance of emotional awareness. The session also highlighted how small lifestyle adjustments can significantly help in reducing anxiety and creating a balanced mindset.\n\nParticipants actively engaged with questions and reflections, making the session interactive and thought-provoking. Clubs fulfilled the collaboration requirement of a minimum of five members, ensuring strong participation and involvement throughout the session.\n\nThe event concluded as an enriching and rejuvenating experience, thanks to the efforts of Rtr. Anushka Kishwar (Project Chair), Rtr. Krishnav Goel (Director, Professional Development), Rtr. Mohd Asif (Secretary), and Rtr. Ayush Raj (President). The session successfully encouraged members to prioritize mental well-being and embrace healthier ways of coping with stress.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/hmg2Cy55-LhT87Z3zaGFg.jpeg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/FIuB2O6HIbv6MXLR6eYH3.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/WJoGbxl14ldYjFFBtZ2J3.jpg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/rLVmC0mUp2LUnHELMT77L.jpeg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/H9VaGKHKiz9KN7NANnuH-.jpeg"
+        ]
+    },
+    {
+        "id": "0d863985-7586-408d-87c9-222431180ea7",
+        "name": "Rotaractor’s Odyssey",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "05/10/2025",
+        "end_date": "05/10/2025",
+        "areas_of_focus": "Supporting Education",
+        "avenues_of_service": "Professional Development, Club Service",
+        "description": "The Rotaractor’s Odyssey was an enriching online session organized by the Rotaract Club of Bangalore Spandana in collaboration with the Rotaract Clubs of KLE Law College, KSSEM, Bishop Cotton Women’s Christian College, Vijayanagar, Bengaluru HSR, and Jain Evening College on 5th October 2025. The event aimed to help Rotaractors rediscover the deeper purpose of being part of the movement — the “why” behind Rotaract. Featuring Rtr. Syed Aejaz Ahamed, President of the Rotaract Club of Dubai Downtown, as the resource person, the session offered valuable insights into how Rotaract shapes individuals through leadership, service, and meaningful connections. Drawing from his own experiences, Rtr. Syed shared inspiring anecdotes and practical wisdom that highlighted the power of service and fellowship in personal and professional growth. The session’s interactive nature encouraged participants to reflect on their individual Rotaract journeys, understand their roles in creating impact, and find renewed motivation to contribute more meaningfully to their clubs and communities. Beyond learning, the event fostered inter-club bonding and strengthened ties among Rotaractors from different institutions, promoting collaboration and the exchange of ideas across the district. The Rotaractor’s Odyssey concluded on a highly positive note, leaving every attendee inspired to not just be a member of Rotaract, but to truly live its essence — “Fellowship Through Service.” The session successfully rekindled enthusiasm, reinforced purpose, and celebrated the unifying spirit that defines the Rotaract movement.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/9WnguG6jU58-eVbEwwsS7.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/KiAL_onVqi0c3biM7NWue.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Se0H89P8DGo16Y6TFDtnO.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/8vvSzq8UOMvRE3UE6B8Mi.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/mITQefDNlvOgtsmJ0k04K.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/vOQfzHkmMDNDjt9b4QrNZ.jpg"
         ]
     },
     {
@@ -1602,6 +1734,24 @@ const projectsData = [
         ]
     },
     {
+        "id": "653fd1d9-9844-4c10-8f8c-e23008ddde12",
+        "name": "Learning the Languages of Emotions",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "Online (G-Meet)",
+        "start_date": "30/10/2025",
+        "end_date": "30/10/2025",
+        "areas_of_focus": "Supporting Education",
+        "avenues_of_service": "Community Service, Professional Development",
+        "description": "The Rotaract Club of KSSEM cordially invites you to an insightful and transformative webinar titled “Learning the Languages of Emotions.” This session is designed to help individuals understand the depth of their emotions, decode the reasons behind their feelings, and explore how emotional intelligence shapes the way we think, act, and connect with others.\n\nIn a world where emotions often take a backseat to logic, this event offers a refreshing opportunity to pause and reflect. Guided by Hemalatha, an accomplished Teacher, Soft Skills Trainer, and Public Speaker, participants will embark on a journey of emotional discovery and self-awareness. The session will delve into understanding emotions, mastering emotional responses, building stronger interpersonal connections, and growing through emotional intelligence.\n\nBy the end of this one-hour experience, you will not only gain clarity about your inner emotional world but also learn how to apply emotional intelligence in real-life situations to lead with empathy, resilience, and balance.\n\nJoin us on 30th October 2025, from 7:00 PM to 8:00 PM, on Google Meet, for an evening that promises to inspire growth and introspection.\n\nThis event is proudly organized under the leadership of Rtr. Lohith J, Community Service Director, and Rtr. Sahana, Professional Development Director. Together, they aim to create a space where learning meets emotion, and knowledge meets heart.\n\nBecause understanding emotions is the first step toward understanding ourselves and those around us.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/DuNLkEIHH1dde0nTxeErt.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/NJ5QDuTS4K93wWDElXtEc.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/W77tF87bTkoCtuWQ_Xe2Z.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/BVvMMXULIJhxnt3h4LVn2.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/OfgO7RndDmTK5CzWVgCoE.jpg"
+        ]
+    },
+    {
         "id": "7d309a24-d8d4-44bc-8624-6a1b51511a29",
         "name": "Royal Assembly 1.0",
         "type": "PARTICIPATORY_ACTIVITY",
@@ -1620,96 +1770,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "47975610-e6e8-44f2-b326-a79bf0f8e7f1",
-        "name": "Beyond Calories (Nutrition & Wellness)",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "26/10/2025",
-        "end_date": "26/10/2025",
-        "areas_of_focus": "Fighting Disease",
-        "avenues_of_service": "Club Service",
-        "description": "The International Professional Session titled “Beyond Calories (Nutrition & Wellness)” was successfully conducted on 26th October 2025 at 7:00 PM IST via Google Meet, under the International Service Avenue. The event was collaboratively organized by the Rotaract Club of SVVV, RID 3040 (India), and the Rotaract Club of San Juanico, RID 3860 (Philippines).\n\nThe session was graced by Ms. Dhwani Parekh, a Clinical Nutritionist with experience alongside prominent wellness experts. She delivered an insightful talk focusing on practical nutrition knowledge, wellness optimization, and sugar control. The session highlighted how mindful eating and balanced nutrition can significantly enhance one’s lifestyle and overall well-being.\n\nThe interactive webinar drew participation from several Rotaract clubs across different districts, encouraging cross-border learning and cultural exchange. Members actively engaged through Q&A sessions, gaining valuable insights into sustainable wellness practices.\n\nAll collaborating clubs fulfilling the participation criteria received E-certificates of collaboration, symbolizing their contribution to fostering international understanding and health awareness.\n\nThe initiative, coordinated by Rtr. Harsh Saxena (International Service Director, Rotaract Club of SVVV), was appreciated for promoting global fellowship and practical learning on health and nutrition — aligning perfectly with the Rotaract spirit of “Fellowship Through Service.”",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/1qzalnCwk3pjRKEG2GWzq.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/YTgajc1JPaHNODc2-0ULA.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/KMuf777IGnl747MUm1zdr.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/1FkzLYZFoMb1Yre8reM0t.jpg"
-        ]
-    },
-    {
-        "id": "4aa360aa-03c4-4162-a046-5e3542766c1d",
-        "name": "Rendezvous 9.0",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "25/10/2025",
-        "end_date": "25/10/2025",
-        "areas_of_focus": "",
-        "avenues_of_service": "International Service",
-        "description": "The Rotaract Club of KSSEM proudly collaborated and actively participated in Rendezvous 9.0, organized by the Rotaract Club of Pune Mideast, RID 3131, on 25th October 2025 at 6:30 PM. The event brought together Rotaractors from various districts across India to celebrate the spirit of Diwali through culture, collaboration, and fellowship.\n\nThe session began with an engaging introduction, followed by participants from different clubs sharing how Diwali is celebrated in their respective regions — from traditional rituals and local delicacies to vibrant decorations and community gatherings. Each club’s sharing about their Diwali traditions beautifully reflected India’s cultural diversity and the essence of unity in celebration.\n\nAs part of the event, our club actively participated in the Letterhead Exchange Ceremony, symbolizing friendship and long-term partnership among Rotaract Clubs. The collaborative atmosphere encouraged cultural learning, inter-district bonding, and mutual appreciation.\n\nRendezvous 9.0 served as a meaningful platform to connect clubs across boundaries, exchange ideas, and celebrate India’s most cherished festival with joy and harmony. The event truly embodied the Rotaract spirit of togetherness and the Diwali message of spreading light, happiness, and hope. ✨🪔",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/V-C1lNWpA88Omt9sJE7Zv.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/cwgIkVpwvbv-Xx4NSBKGx.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Ly4bVR0WRP9pb22IdUjpS.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Glo8Yw837NR7uYwGttlSf.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/bZAoyLXKjlIXIG9x5IFlo.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/k8n-7AhhhZgCpkSUR7fsR.jpg"
-        ]
-    },
-    {
-        "id": "863a8a5d-9b0a-4805-a627-1385d7f11c63",
-        "name": "METROTHON: World Polio Day Special Initiative",
-        "type": "PARTICIPATORY_ACTIVITY",
-        "venue": "MLR Convention Centre, Whitefield",
-        "start_date": "24/10/2025",
-        "end_date": "24/10/2025",
-        "areas_of_focus": "Promoting Peace, Fighting Disease",
-        "avenues_of_service": "Public Image, Community Service, Club Service",
-        "description": "The Rotaract Club of KSSEM proudly participated in METROTHON, a remarkable initiative organized by Rotary and Rotaract District 3191 on 24th October 2025 to commemorate World Polio Day. The event aimed to raise awareness and strengthen the global commitment towards a Polio-Free World.\n\nThe event began with participants gathering at Garudacharpalya Metro Station, where Rotaractors and Rotarians united to commute together via Namma Metro, symbolizing the spirit of connectivity, progress, and community action. The walk and rally culminated at the MLR Convention Centre, Whitefield, where impactful sessions were held on polio eradication, public health, and the ongoing efforts of Rotary International.\n\nOver 30 enthusiastic members from our club actively joined the METROTHON, showcasing our dedication to service and advocacy. Participants proudly wore exclusive event T-shirts, networked with fellow Rotaractors and Rotarians, and spread the message of hope and health through engaging interactions.\n\nThe initiative not only promoted awareness but also inspired young leaders to continue supporting humanitarian causes. The Rotaract Club of KSSEM remains committed to #EndPolioNow and to creating a world free from preventable diseases. 💪🌍",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/qJP6TWPD8Pig8cWgTaS_O.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/zh_3X_IUL-QicUcb9kDdR.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/GWJiYqyVcgL7KrEx1JOw3.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/QSRzRLQqW-eHObFLPlmdb.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/9HlLj44sNXhtongpDvBfs.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/YVdkaFIOXgF-9HH5EjcwX.jpg"
-        ]
-    },
-    {
-        "id": "43e12344-67a7-4aaf-8d30-b387bb51cdf5",
-        "name": "World’s Largest Lesson",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "22/10/2025",
-        "end_date": "22/10/2025",
-        "areas_of_focus": "Supporting Education",
-        "avenues_of_service": "Public Image, Professional Development",
-        "description": "The World’s Largest Lesson – Learning from Legacy, Leading with Purpose was an inspiring and impactful online session organized by the Rotaract Club of Rever on 22nd October 2025 from 7:00 PM to 8:00 PM via Google Meet. The event featured an esteemed keynote speaker, Mr. Sameep Shastri, Grandson of India’s 2nd Prime Minister, Shri Lal Bahadur Shastri Ji, Chairman of the Indian Institute of Governance & Leadership, President of CYL International, and Global Youth Leader at BRICS CCI.\n\nThe session offered participants a once-in-a-lifetime opportunity to learn from a leader carrying forward a remarkable legacy of integrity, leadership, and service. Mr. Shastri shared valuable insights on governance, youth empowerment, and the importance of purposeful leadership in today’s dynamic world. He emphasized the role of young minds in nation-building and encouraged Rotaractors to lead with values, vision, and responsibility.\n\nThe event witnessed active participation from multiple clubs across districts, fulfilling the collaboration criteria of a minimum of seven members per club. Attendees found the session deeply motivating, gaining perspectives on how legacy and leadership go hand in hand in creating lasting impact.\n\nUnder the leadership of Rtr. Vanshika Kapoor (President), Rtr. Kinjal Goyal (Secretary), Rtr. Christie Grover (Vice President), and Rtr. Bhumi Gulati (Vocational Services Director), the event concluded successfully, leaving participants inspired to lead with purpose and uphold the values of true leadership.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/TSgRCi2mf72dYacShR0Hx.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/o4z-8nJWkigByjKcxJAWs.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/4FiFxY401Re4xHt2JRKSg.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/7z55h9KtRwQBkmEnhtwrG.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/n-ABZnc0e2VlMfRONsyP6.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/AEZLSh4JrWjHRaKBmNLy3.jpg"
-        ]
-    },
-    {
-        "id": "aa3c0ab9-f88b-405b-9f72-f2fec2a6120c",
-        "name": "The Canvas Gallery",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online",
-        "start_date": "21/10/2025",
-        "end_date": "21/10/2025",
-        "areas_of_focus": "Supporting Education",
-        "avenues_of_service": "Editorial/Publication, Professional Development",
-        "description": "The Canvas Gallery, organized by the Rotaract Club of Jain Evening College, RID 3191, was a beautifully curated creative initiative that celebrated imagination, art, and expression. Conducted under the theme “Where creativity meets connection,” the event invited participants to showcase their talents through writing and visual art, fostering collaboration and artistic dialogue among Rotaractors.\n\nParticipants could select from three meaningful themes — Echoes of Youth, Chapters of Change, and The Art of Becoming — each encouraging reflection on personal growth, transformation, and self-discovery. They also chose one mode of expression per member, including short stories (150–200 words), poems, photographs, or posters.\n\nThe event followed a unique collaboration model where two members represented each club — one contributing a written piece and the other a visual — along with three additional participants from their or other clubs. The initiative successfully attracted enthusiastic participation, resulting in a rich blend of creativity and emotion across entries.\n\nAll submissions were compiled into a Digital Anthology & Gallery Showcase, giving participants recognition and a platform to share their art with a wider audience.\n\nSpearheaded by Rtr. Lavishka Jain (ISD), The Canvas Gallery stood out as an inspiring celebration of artistic expression, unity, and storytelling within the Rotaract community.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/NsF4jy1M5RUjU9KEgj34l.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/wil56wO-mBJmCuDfokxFQ.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/CDapDg6XDshVRB8qdK87A.jpg"
-        ]
-    },
-    {
         "id": "3edf29bf-2752-48e9-96f1-03ee34f6a50d",
         "name": "Deepavali Donation Drive",
         "type": "STANDALONE_ACTIVITY",
@@ -1724,6 +1784,22 @@ const projectsData = [
             "https://media.3191-2525.clubstack.tixora.space/uploads/glKWnyafjkM5VP-D3GBWt.jpg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/iHRocPu6i0fQpZZCpGZZT.jpg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/aPRisL8h8RD6tLdN56raK.jpg"
+        ]
+    },
+    {
+        "id": "26420d20-f946-4525-b7cf-d157c1335c50",
+        "name": "Naivedyam 4.0",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Across Bangalore City",
+        "start_date": "18/10/2025",
+        "end_date": "18/10/2025",
+        "areas_of_focus": "Providing Clean Water, Sanitation and Hygiene, Promoting Peace",
+        "avenues_of_service": "Public Image, Community Service",
+        "description": "Event Name: Naivedyam 4.0\nConducted by: Rotaract Club of R.V.C.E. (RID 3190)\nDate: 18th October 2025\nVenue: Across Bangalore City\n\nThe Rotaract Club of KSSEM had the privilege of collaborating in Naivedyam 4.0, the flagship international service initiative organized by the Rotaract Club of R.V.C.E. The initiative aimed to spread the message that even the smallest act of kindness—like sharing a meal—can create a profound impact in society.\n\nThrough this noble effort, Rotaractors came together with the shared vision of ensuring that no one sleeps hungry. Our club contributed ₹1000 towards the initiative, joining hands in supporting the mission to provide nourishing meals to the underprivileged across Bangalore city.\n\nThe collaboration reflected the true spirit of service and compassion, symbolizing unity beyond club and district boundaries. As part of the partnership, our club also promoted the event through social media platforms to encourage awareness and participation in such impactful causes.\n\nBy being a part of Naivedyam 4.0, our club strengthened its commitment to community service and global goodwill, reaffirming the belief that small contributions, when united, can lead to significant change.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/7Ip3CXGDE2rSiU7dhNjRj.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/KMx1WHoxK6R5rSH_lRY3n.JPG",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/GIoazU5fcjSbds_gbuiR9.jpg"
         ]
     },
     {
@@ -1746,19 +1822,133 @@ const projectsData = [
         ]
     },
     {
-        "id": "26420d20-f946-4525-b7cf-d157c1335c50",
-        "name": "Naivedyam 4.0",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Across Bangalore City",
-        "start_date": "18/10/2025",
-        "end_date": "18/10/2025",
-        "areas_of_focus": "Providing Clean Water, Sanitation and Hygiene, Promoting Peace",
-        "avenues_of_service": "Public Image, Community Service",
-        "description": "Event Name: Naivedyam 4.0\nConducted by: Rotaract Club of R.V.C.E. (RID 3190)\nDate: 18th October 2025\nVenue: Across Bangalore City\n\nThe Rotaract Club of KSSEM had the privilege of collaborating in Naivedyam 4.0, the flagship international service initiative organized by the Rotaract Club of R.V.C.E. The initiative aimed to spread the message that even the smallest act of kindness—like sharing a meal—can create a profound impact in society.\n\nThrough this noble effort, Rotaractors came together with the shared vision of ensuring that no one sleeps hungry. Our club contributed ₹1000 towards the initiative, joining hands in supporting the mission to provide nourishing meals to the underprivileged across Bangalore city.\n\nThe collaboration reflected the true spirit of service and compassion, symbolizing unity beyond club and district boundaries. As part of the partnership, our club also promoted the event through social media platforms to encourage awareness and participation in such impactful causes.\n\nBy being a part of Naivedyam 4.0, our club strengthened its commitment to community service and global goodwill, reaffirming the belief that small contributions, when united, can lead to significant change.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/7Ip3CXGDE2rSiU7dhNjRj.jpg",
+        "id": "c18865b1-0eac-4aa6-a988-1fed7110cd6d",
+        "name": "Samskruthi Sangama 2.0",
+        "type": "HOSTED_ACTIVITY",
+        "venue": "Online (G-Meet)",
+        "start_date": "15/10/2025",
+        "end_date": "15/10/2025",
+        "areas_of_focus": "Promoting Peace",
+        "avenues_of_service": "International Service, Club Service",
+        "description": "The Rotaract Club of KSSEM, in collaboration with the Rotaract Club of Mapusa, proudly hosted Samskruthi Sangama 2.0 on 15th October 2025 at 8:30 PM. This virtual cultural exchange program was a delightful celebration of India’s unity in diversity, bringing together Rotaractors from Karnataka and Goa to share, learn, and cherish each other’s rich cultural heritage.\n\nThe evening unfolded with vibrant presentations, where the Rotaract Club of KSSEM beautifully showcased the cultural grandeur of Karnataka—its historic architecture, royal dynasties, classical art forms, literature, cuisine, and colorful festivities that reflect the state’s timeless legacy. On the other hand, the Rotaract Club of Mapusa offered a captivating glimpse into the Goan culture, highlighting its spirited traditions, music, festivals, architecture, and unique blend of Indian and Portuguese influences that define its charm.\n\nConducted in an interactive and engaging online format, the session blended creativity, storytelling, and tradition, offering participants a memorable experience of cultural exchange and fellowship.\n\nSamskruthi Sangama 2.0 successfully built bridges of understanding, strengthened inter-club relations, and celebrated the essence of cultural unity—reminding everyone that beyond languages and borders, it is the shared spirit of respect, joy, and togetherness that truly defines India. 🇮🇳✨",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/BvZRRvj9zQuJqFQ5jQjwY.jpg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/KMx1WHoxK6R5rSH_lRY3n.JPG",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/GIoazU5fcjSbds_gbuiR9.jpg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/wiYRMkhuY1Xrj0i4lBscp.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/e2qQVmnZQ87U49lwBxpTD.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/50UilMCCDhHcztGF-ax6t.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Oyy404lHcrMsiik50sbxE.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/8tV-qOGyefOdleNvvyeO7.jpg"
+        ]
+    },
+    {
+        "id": "a6f8a7d9-9b19-4976-bca5-81c4816d345a",
+        "name": "Dandiya",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "KSSEM Badminton Court",
+        "start_date": "11/10/2025",
+        "end_date": "11/10/2025",
+        "areas_of_focus": "",
+        "avenues_of_service": "Public Image, Club Service, Public Relations",
+        "description": "Date: 11th October 2025\nTime: 1:00 PM – 4:00 PM\nVenue: KSSEM Badminton Court\nProject Chairs: Rtr. Sakthi V Maheswari & Rtr. G. Pavan Kumar\nFunds Utilized: ₹16,868\nGuest of Honour: Rtn. Srinivas Naidu R., President, Rotary Club of Bangalore Vidyapeeta\nDJ: DJ Madhan\n\nThe Rotaract Club of KSSEM lit up the campus with vibrant colours, rhythmic beats, and festive energy as it hosted the college’s first-ever Dandiya Celebration on 11th October 2025. The event marked a joyful fusion of culture, unity, and community spirit, bringing together students, faculty, and Rotaractors for an afternoon filled with music, dance, and laughter.\n\nThe badminton court was transformed into a dazzling dance floor, adorned with colourful decorations and traditional flair. With DJ Madhan setting the perfect beats, the crowd swayed to the rhythm of Dandiya, celebrating the festival of Navratri in true style. Energizing snacks and refreshments ensured that the enthusiasm never dipped throughout the event.\n\nA team of 14 dedicated volunteers worked tirelessly behind the scenes—handling decorations, logistics, and participant engagement—to ensure flawless execution. The presence of Rtn. Srinivas Naidu R., our esteemed guest and sponsor, added immense value to the occasion. His words of encouragement and generous support elevated the morale of every Rotaractor involved.\n\nFor the organizing team, the event was more than just a festivity; it was a dream realized. Witnessing the badminton court transform into a vibrant hub of joy and togetherness symbolized what Rotaract stands for — leadership through celebration and unity through service.\n\nThe Dandiya 2025 celebration will forever remain one of KSSEM’s most cherished and spirited moments!",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/9n1SWo22tSSUsQVNG_puc.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/w6ynWN2MLEipVJbqElInp.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/QDA5Ehyi2SQLSOUsexT7m.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/oaQtu-T4rfUlJN8VRAxxI.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/xf3K_vpAmc8v7NALXJXjP.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/kHiwmv3f-r_YoL25FK70b.jpg"
+        ]
+    },
+    {
+        "id": "863a8a5d-9b0a-4805-a627-1385d7f11c63",
+        "name": "METROTHON: World Polio Day Special Initiative",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "MLR Convention Centre, Whitefield",
+        "start_date": "24/10/2025",
+        "end_date": "24/10/2025",
+        "areas_of_focus": "Promoting Peace, Fighting Disease",
+        "avenues_of_service": "Public Image, Community Service, Club Service",
+        "description": "The Rotaract Club of KSSEM proudly participated in METROTHON, a remarkable initiative organized by Rotary and Rotaract District 3191 on 24th October 2025 to commemorate World Polio Day. The event aimed to raise awareness and strengthen the global commitment towards a Polio-Free World.\n\nThe event began with participants gathering at Garudacharpalya Metro Station, where Rotaractors and Rotarians united to commute together via Namma Metro, symbolizing the spirit of connectivity, progress, and community action. The walk and rally culminated at the MLR Convention Centre, Whitefield, where impactful sessions were held on polio eradication, public health, and the ongoing efforts of Rotary International.\n\nOver 30 enthusiastic members from our club actively joined the METROTHON, showcasing our dedication to service and advocacy. Participants proudly wore exclusive event T-shirts, networked with fellow Rotaractors and Rotarians, and spread the message of hope and health through engaging interactions.\n\nThe initiative not only promoted awareness but also inspired young leaders to continue supporting humanitarian causes. The Rotaract Club of KSSEM remains committed to #EndPolioNow and to creating a world free from preventable diseases. 💪🌍",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/qJP6TWPD8Pig8cWgTaS_O.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/zh_3X_IUL-QicUcb9kDdR.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/GWJiYqyVcgL7KrEx1JOw3.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/QSRzRLQqW-eHObFLPlmdb.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/9HlLj44sNXhtongpDvBfs.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/YVdkaFIOXgF-9HH5EjcwX.jpg"
+        ]
+    },
+    {
+        "id": "b69f6765-a6f0-4f9d-a651-e17db59951b6",
+        "name": "71st Wildlife Week Walkathon for Conservation",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "Vidhana Soudha",
+        "start_date": "02/10/2025",
+        "end_date": "02/10/2025",
+        "areas_of_focus": "Protecting The Environment, Promoting Peace",
+        "avenues_of_service": "Community Service, Club Service",
+        "description": "The Rotaract Club of KSSEM actively participated in the 71st Wildlife Conservation Walk organized by Rotaract District 3191 in collaboration with the Government of Karnataka, Karnataka Forest Department, Bannerghatta Biological Park, Rotary Bangalore Southend, and Mysore Sandal on 2nd October 2025.\n\nThe event commenced at Vidhana Soudha and concluded at Lalbagh, covering a symbolic route that emphasized the importance of Human–Wildlife Coexistence and environmental sustainability. Over 100 enthusiastic members from our club joined the walk, proudly representing KSSEM and contributing to this meaningful initiative.\n\nThe walkathon brought together Rotaractors, Rotarians, students, and citizens, creating a strong collective voice for wildlife protection and conservation. Participants carried banners and slogans promoting harmony between humans and nature, highlighting the urgent need to safeguard our forests and biodiversity.\n\nThis large-scale awareness event served as an inspiring platform for youth engagement, encouraging participants to adopt eco-friendly practices and spread the message of coexistence within their communities.\n\nThe Rotaract Club of KSSEM takes pride in being part of this impactful initiative and remains committed to supporting causes that nurture a greener, sustainable future for all.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/tZN_2ZDnjn22w0hFEvD99.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/o9yAvOzhWaFGkV-7ulwjH.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/B-qWJp1gWaWpyHt44YgA8.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/VFVXNEnqThMvp3iV0UYJq.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/tSlY7-Q4aoDyRef4_-DnO.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/5PM3-oXMsIMZZa7l_ZfNG.jpg"
+        ]
+    },
+    {
+        "id": "2dd17cc9-eaba-4098-972c-72910c492d95",
+        "name": "Jamming with SwAROCK",
+        "type": "HOSTED_ACTIVITY",
+        "venue": "5C Pub & Kitchen, Rajajinagar",
+        "start_date": "11/10/2025",
+        "end_date": "11/10/2025",
+        "areas_of_focus": "",
+        "avenues_of_service": "Public Image, Club Service",
+        "description": "The Rotaract Club of KSSEM, in collaboration with Blue Bonfire Creations, successfully organized a lively musical event titled “Jamming with SwAROCK” on 11th October 2025 at 5C Pub & Kitchen, Rajajinagar. The event was held from 6:30 PM to 8:00 PM and witnessed an enthusiastic crowd of around 60 to 70 people. The evening was filled with rhythm, energy, and pure musical vibes as the talented band SwAROCK delivered an electrifying live performance that kept the audience completely engaged. Attendees enjoyed every beat, singing along, cheering, and immersing themselves in the musical atmosphere. The collaboration with Blue Bonfire Creations added a creative and professional touch, ensuring smooth coordination and vibrant event execution. The event not only entertained everyone but also created a wonderful space for music lovers to connect, unwind, and celebrate the spirit of art and togetherness. Overall, “Jamming with SwAROCK” was a grand success, leaving the audience with smiles, memories, and the hope for more such musical evenings by the Rotaract Club of KSSEM.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/ldaIcxjs9wmQVBUoe2tLf.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/uFvff4kEvCfz0tSTk5T5m.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/xOJz3ymrMLjAGNeyZiouk.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/nTl1BMSlFznPwl_wnLA3U.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/NjS39vtVapjA779kZC3NM.jpg"
+        ]
+    },
+    {
+        "id": "4aa360aa-03c4-4162-a046-5e3542766c1d",
+        "name": "Rendezvous 9.0",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "25/10/2025",
+        "end_date": "25/10/2025",
+        "areas_of_focus": "",
+        "avenues_of_service": "International Service",
+        "description": "The Rotaract Club of KSSEM proudly collaborated and actively participated in Rendezvous 9.0, organized by the Rotaract Club of Pune Mideast, RID 3131, on 25th October 2025 at 6:30 PM. The event brought together Rotaractors from various districts across India to celebrate the spirit of Diwali through culture, collaboration, and fellowship.\n\nThe session began with an engaging introduction, followed by participants from different clubs sharing how Diwali is celebrated in their respective regions — from traditional rituals and local delicacies to vibrant decorations and community gatherings. Each club’s sharing about their Diwali traditions beautifully reflected India’s cultural diversity and the essence of unity in celebration.\n\nAs part of the event, our club actively participated in the Letterhead Exchange Ceremony, symbolizing friendship and long-term partnership among Rotaract Clubs. The collaborative atmosphere encouraged cultural learning, inter-district bonding, and mutual appreciation.\n\nRendezvous 9.0 served as a meaningful platform to connect clubs across boundaries, exchange ideas, and celebrate India’s most cherished festival with joy and harmony. The event truly embodied the Rotaract spirit of togetherness and the Diwali message of spreading light, happiness, and hope. ✨🪔",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/V-C1lNWpA88Omt9sJE7Zv.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/cwgIkVpwvbv-Xx4NSBKGx.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Ly4bVR0WRP9pb22IdUjpS.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Glo8Yw837NR7uYwGttlSf.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/bZAoyLXKjlIXIG9x5IFlo.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/k8n-7AhhhZgCpkSUR7fsR.jpg"
+        ]
+    },
+    {
+        "id": "47975610-e6e8-44f2-b326-a79bf0f8e7f1",
+        "name": "Beyond Calories (Nutrition & Wellness)",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "26/10/2025",
+        "end_date": "26/10/2025",
+        "areas_of_focus": "Fighting Disease",
+        "avenues_of_service": "Club Service",
+        "description": "The International Professional Session titled “Beyond Calories (Nutrition & Wellness)” was successfully conducted on 26th October 2025 at 7:00 PM IST via Google Meet, under the International Service Avenue. The event was collaboratively organized by the Rotaract Club of SVVV, RID 3040 (India), and the Rotaract Club of San Juanico, RID 3860 (Philippines).\n\nThe session was graced by Ms. Dhwani Parekh, a Clinical Nutritionist with experience alongside prominent wellness experts. She delivered an insightful talk focusing on practical nutrition knowledge, wellness optimization, and sugar control. The session highlighted how mindful eating and balanced nutrition can significantly enhance one’s lifestyle and overall well-being.\n\nThe interactive webinar drew participation from several Rotaract clubs across different districts, encouraging cross-border learning and cultural exchange. Members actively engaged through Q&A sessions, gaining valuable insights into sustainable wellness practices.\n\nAll collaborating clubs fulfilling the participation criteria received E-certificates of collaboration, symbolizing their contribution to fostering international understanding and health awareness.\n\nThe initiative, coordinated by Rtr. Harsh Saxena (International Service Director, Rotaract Club of SVVV), was appreciated for promoting global fellowship and practical learning on health and nutrition — aligning perfectly with the Rotaract spirit of “Fellowship Through Service.”",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/1qzalnCwk3pjRKEG2GWzq.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/YTgajc1JPaHNODc2-0ULA.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/KMuf777IGnl747MUm1zdr.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/1FkzLYZFoMb1Yre8reM0t.jpg"
         ]
     },
     {
@@ -1778,6 +1968,57 @@ const projectsData = [
             "https://media.3191-2525.clubstack.tixora.space/uploads/7YWgP3rzXT7iFJQCI5EWv.jpg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/wfwxU90Hsl3gUQYvd9RBs.jpg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/RRQxv5Pc-vQj6WKeb3SF1.jpg"
+        ]
+    },
+    {
+        "id": "6509ddf0-e32f-496a-bd60-48ba15b701f0",
+        "name": "Animal Feeding Drive",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online",
+        "start_date": "29/10/2025",
+        "end_date": "29/10/2025",
+        "areas_of_focus": "Protecting The Environment, Providing Clean Water, Sanitation and Hygiene",
+        "avenues_of_service": "Community Service",
+        "description": "The Animal Feeding Drive, organized under the Flagship Project REVIVE by the Rotaract Club of Dyal Singh College, RID 3012, was a compassionate initiative aimed at promoting kindness, empathy, and love towards animals. Conducted with the belief that “kindness to animals is kindness to ourselves,” the drive encouraged Rotaractors to actively contribute to the welfare of stray animals and birds.\n\nParticipants from various clubs joined hands to feed stray dogs, cats, and birds, capturing photos and videos of their acts of care and sharing them through the designated drive link. The initiative emphasized that small gestures of compassion, such as providing food or water, can create a ripple effect of positivity and awareness within the community.\n\nThe collaboration criteria required each participating club to submit a minimum of four photos or videos, earning them a Certificate of Collaboration as recognition for their contribution. The drive witnessed enthusiastic participation across multiple clubs, reflecting unity in service and a collective commitment to animal welfare.\n\nThe event successfully concluded on 29th October 2025, under the leadership of Rtr. N V Aruna Devi (President) and Rtr. Anushka (Secretary), leaving a lasting message of empathy, compassion, and the importance of coexisting harmoniously with all living beings.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/D20H2yIkMz_3xn06iwI9A.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/FIuB2O6HIbv6MXLR6eYH3.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/WJoGbxl14ldYjFFBtZ2J3.jpg"
+        ]
+    },
+    {
+        "id": "aa3c0ab9-f88b-405b-9f72-f2fec2a6120c",
+        "name": "The Canvas Gallery",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online",
+        "start_date": "21/10/2025",
+        "end_date": "21/10/2025",
+        "areas_of_focus": "Supporting Education",
+        "avenues_of_service": "Editorial/Publication, Professional Development",
+        "description": "The Canvas Gallery, organized by the Rotaract Club of Jain Evening College, RID 3191, was a beautifully curated creative initiative that celebrated imagination, art, and expression. Conducted under the theme “Where creativity meets connection,” the event invited participants to showcase their talents through writing and visual art, fostering collaboration and artistic dialogue among Rotaractors.\n\nParticipants could select from three meaningful themes — Echoes of Youth, Chapters of Change, and The Art of Becoming — each encouraging reflection on personal growth, transformation, and self-discovery. They also chose one mode of expression per member, including short stories (150–200 words), poems, photographs, or posters.\n\nThe event followed a unique collaboration model where two members represented each club — one contributing a written piece and the other a visual — along with three additional participants from their or other clubs. The initiative successfully attracted enthusiastic participation, resulting in a rich blend of creativity and emotion across entries.\n\nAll submissions were compiled into a Digital Anthology & Gallery Showcase, giving participants recognition and a platform to share their art with a wider audience.\n\nSpearheaded by Rtr. Lavishka Jain (ISD), The Canvas Gallery stood out as an inspiring celebration of artistic expression, unity, and storytelling within the Rotaract community.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/NsF4jy1M5RUjU9KEgj34l.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/wil56wO-mBJmCuDfokxFQ.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/CDapDg6XDshVRB8qdK87A.jpg"
+        ]
+    },
+    {
+        "id": "43e12344-67a7-4aaf-8d30-b387bb51cdf5",
+        "name": "World’s Largest Lesson",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (G-Meet)",
+        "start_date": "22/10/2025",
+        "end_date": "22/10/2025",
+        "areas_of_focus": "Supporting Education",
+        "avenues_of_service": "Public Image, Professional Development",
+        "description": "The World’s Largest Lesson – Learning from Legacy, Leading with Purpose was an inspiring and impactful online session organized by the Rotaract Club of Rever on 22nd October 2025 from 7:00 PM to 8:00 PM via Google Meet. The event featured an esteemed keynote speaker, Mr. Sameep Shastri, Grandson of India’s 2nd Prime Minister, Shri Lal Bahadur Shastri Ji, Chairman of the Indian Institute of Governance & Leadership, President of CYL International, and Global Youth Leader at BRICS CCI.\n\nThe session offered participants a once-in-a-lifetime opportunity to learn from a leader carrying forward a remarkable legacy of integrity, leadership, and service. Mr. Shastri shared valuable insights on governance, youth empowerment, and the importance of purposeful leadership in today’s dynamic world. He emphasized the role of young minds in nation-building and encouraged Rotaractors to lead with values, vision, and responsibility.\n\nThe event witnessed active participation from multiple clubs across districts, fulfilling the collaboration criteria of a minimum of seven members per club. Attendees found the session deeply motivating, gaining perspectives on how legacy and leadership go hand in hand in creating lasting impact.\n\nUnder the leadership of Rtr. Vanshika Kapoor (President), Rtr. Kinjal Goyal (Secretary), Rtr. Christie Grover (Vice President), and Rtr. Bhumi Gulati (Vocational Services Director), the event concluded successfully, leaving participants inspired to lead with purpose and uphold the values of true leadership.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/TSgRCi2mf72dYacShR0Hx.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/o4z-8nJWkigByjKcxJAWs.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/4FiFxY401Re4xHt2JRKSg.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/7z55h9KtRwQBkmEnhtwrG.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/n-ABZnc0e2VlMfRONsyP6.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/AEZLSh4JrWjHRaKBmNLy3.jpg"
         ]
     },
     {
@@ -1815,25 +2056,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "c18865b1-0eac-4aa6-a988-1fed7110cd6d",
-        "name": "Samskruthi Sangama 2.0",
-        "type": "HOSTED_ACTIVITY",
-        "venue": "Online (G-Meet)",
-        "start_date": "15/10/2025",
-        "end_date": "15/10/2025",
-        "areas_of_focus": "Promoting Peace",
-        "avenues_of_service": "International Service, Club Service",
-        "description": "The Rotaract Club of KSSEM, in collaboration with the Rotaract Club of Mapusa, proudly hosted Samskruthi Sangama 2.0 on 15th October 2025 at 8:30 PM. This virtual cultural exchange program was a delightful celebration of India’s unity in diversity, bringing together Rotaractors from Karnataka and Goa to share, learn, and cherish each other’s rich cultural heritage.\n\nThe evening unfolded with vibrant presentations, where the Rotaract Club of KSSEM beautifully showcased the cultural grandeur of Karnataka—its historic architecture, royal dynasties, classical art forms, literature, cuisine, and colorful festivities that reflect the state’s timeless legacy. On the other hand, the Rotaract Club of Mapusa offered a captivating glimpse into the Goan culture, highlighting its spirited traditions, music, festivals, architecture, and unique blend of Indian and Portuguese influences that define its charm.\n\nConducted in an interactive and engaging online format, the session blended creativity, storytelling, and tradition, offering participants a memorable experience of cultural exchange and fellowship.\n\nSamskruthi Sangama 2.0 successfully built bridges of understanding, strengthened inter-club relations, and celebrated the essence of cultural unity—reminding everyone that beyond languages and borders, it is the shared spirit of respect, joy, and togetherness that truly defines India. 🇮🇳✨",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/BvZRRvj9zQuJqFQ5jQjwY.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/wiYRMkhuY1Xrj0i4lBscp.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/e2qQVmnZQ87U49lwBxpTD.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/50UilMCCDhHcztGF-ax6t.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Oyy404lHcrMsiik50sbxE.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/8tV-qOGyefOdleNvvyeO7.jpg"
-        ]
-    },
-    {
         "id": "3e998eff-cee6-4188-a9a7-1fcff2659a66",
         "name": "Mastering the Art of Public Speaking",
         "type": "JOINT_INITIATIVE",
@@ -1850,43 +2072,6 @@ const projectsData = [
             "https://media.3191-2525.clubstack.tixora.space/uploads/gGgsLLs5RZGXtSyPChzwx.jpg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/KydrhOSxia1ol4FxHDKw-.jpg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/ok6NhNuE6qDfOMVLc6v77.jpg"
-        ]
-    },
-    {
-        "id": "a6f8a7d9-9b19-4976-bca5-81c4816d345a",
-        "name": "Dandiya",
-        "type": "STANDALONE_ACTIVITY",
-        "venue": "KSSEM Badminton Court",
-        "start_date": "11/10/2025",
-        "end_date": "11/10/2025",
-        "areas_of_focus": "",
-        "avenues_of_service": "Public Image, Club Service, Public Relations",
-        "description": "Date: 11th October 2025\nTime: 1:00 PM – 4:00 PM\nVenue: KSSEM Badminton Court\nProject Chairs: Rtr. Sakthi V Maheswari & Rtr. G. Pavan Kumar\nFunds Utilized: ₹16,868\nGuest of Honour: Rtn. Srinivas Naidu R., President, Rotary Club of Bangalore Vidyapeeta\nDJ: DJ Madhan\n\nThe Rotaract Club of KSSEM lit up the campus with vibrant colours, rhythmic beats, and festive energy as it hosted the college’s first-ever Dandiya Celebration on 11th October 2025. The event marked a joyful fusion of culture, unity, and community spirit, bringing together students, faculty, and Rotaractors for an afternoon filled with music, dance, and laughter.\n\nThe badminton court was transformed into a dazzling dance floor, adorned with colourful decorations and traditional flair. With DJ Madhan setting the perfect beats, the crowd swayed to the rhythm of Dandiya, celebrating the festival of Navratri in true style. Energizing snacks and refreshments ensured that the enthusiasm never dipped throughout the event.\n\nA team of 14 dedicated volunteers worked tirelessly behind the scenes—handling decorations, logistics, and participant engagement—to ensure flawless execution. The presence of Rtn. Srinivas Naidu R., our esteemed guest and sponsor, added immense value to the occasion. His words of encouragement and generous support elevated the morale of every Rotaractor involved.\n\nFor the organizing team, the event was more than just a festivity; it was a dream realized. Witnessing the badminton court transform into a vibrant hub of joy and togetherness symbolized what Rotaract stands for — leadership through celebration and unity through service.\n\nThe Dandiya 2025 celebration will forever remain one of KSSEM’s most cherished and spirited moments!",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/9n1SWo22tSSUsQVNG_puc.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/w6ynWN2MLEipVJbqElInp.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/QDA5Ehyi2SQLSOUsexT7m.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/oaQtu-T4rfUlJN8VRAxxI.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/xf3K_vpAmc8v7NALXJXjP.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/kHiwmv3f-r_YoL25FK70b.jpg"
-        ]
-    },
-    {
-        "id": "2dd17cc9-eaba-4098-972c-72910c492d95",
-        "name": "Jamming with SwAROCK",
-        "type": "HOSTED_ACTIVITY",
-        "venue": "5C Pub & Kitchen, Rajajinagar",
-        "start_date": "11/10/2025",
-        "end_date": "11/10/2025",
-        "areas_of_focus": "",
-        "avenues_of_service": "Public Image, Club Service",
-        "description": "The Rotaract Club of KSSEM, in collaboration with Blue Bonfire Creations, successfully organized a lively musical event titled “Jamming with SwAROCK” on 11th October 2025 at 5C Pub & Kitchen, Rajajinagar. The event was held from 6:30 PM to 8:00 PM and witnessed an enthusiastic crowd of around 60 to 70 people. The evening was filled with rhythm, energy, and pure musical vibes as the talented band SwAROCK delivered an electrifying live performance that kept the audience completely engaged. Attendees enjoyed every beat, singing along, cheering, and immersing themselves in the musical atmosphere. The collaboration with Blue Bonfire Creations added a creative and professional touch, ensuring smooth coordination and vibrant event execution. The event not only entertained everyone but also created a wonderful space for music lovers to connect, unwind, and celebrate the spirit of art and togetherness. Overall, “Jamming with SwAROCK” was a grand success, leaving the audience with smiles, memories, and the hope for more such musical evenings by the Rotaract Club of KSSEM.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/ldaIcxjs9wmQVBUoe2tLf.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/uFvff4kEvCfz0tSTk5T5m.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/xOJz3ymrMLjAGNeyZiouk.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/nTl1BMSlFznPwl_wnLA3U.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/NjS39vtVapjA779kZC3NM.jpg"
         ]
     },
     {
@@ -1909,25 +2094,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "0d863985-7586-408d-87c9-222431180ea7",
-        "name": "Rotaractor’s Odyssey",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "05/10/2025",
-        "end_date": "05/10/2025",
-        "areas_of_focus": "Supporting Education",
-        "avenues_of_service": "Professional Development, Club Service",
-        "description": "The Rotaractor’s Odyssey was an enriching online session organized by the Rotaract Club of Bangalore Spandana in collaboration with the Rotaract Clubs of KLE Law College, KSSEM, Bishop Cotton Women’s Christian College, Vijayanagar, Bengaluru HSR, and Jain Evening College on 5th October 2025. The event aimed to help Rotaractors rediscover the deeper purpose of being part of the movement — the “why” behind Rotaract. Featuring Rtr. Syed Aejaz Ahamed, President of the Rotaract Club of Dubai Downtown, as the resource person, the session offered valuable insights into how Rotaract shapes individuals through leadership, service, and meaningful connections. Drawing from his own experiences, Rtr. Syed shared inspiring anecdotes and practical wisdom that highlighted the power of service and fellowship in personal and professional growth. The session’s interactive nature encouraged participants to reflect on their individual Rotaract journeys, understand their roles in creating impact, and find renewed motivation to contribute more meaningfully to their clubs and communities. Beyond learning, the event fostered inter-club bonding and strengthened ties among Rotaractors from different institutions, promoting collaboration and the exchange of ideas across the district. The Rotaractor’s Odyssey concluded on a highly positive note, leaving every attendee inspired to not just be a member of Rotaract, but to truly live its essence — “Fellowship Through Service.” The session successfully rekindled enthusiasm, reinforced purpose, and celebrated the unifying spirit that defines the Rotaract movement.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/9WnguG6jU58-eVbEwwsS7.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/KiAL_onVqi0c3biM7NWue.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Se0H89P8DGo16Y6TFDtnO.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/8vvSzq8UOMvRE3UE6B8Mi.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/mITQefDNlvOgtsmJ0k04K.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/vOQfzHkmMDNDjt9b4QrNZ.jpg"
-        ]
-    },
-    {
         "id": "2f38d861-ac75-421f-bab9-6dbb16d2baed",
         "name": "Online Canva Skills",
         "type": "JOINT_INITIATIVE",
@@ -1946,22 +2112,41 @@ const projectsData = [
         ]
     },
     {
-        "id": "b69f6765-a6f0-4f9d-a651-e17db59951b6",
-        "name": "71st Wildlife Week Walkathon for Conservation",
-        "type": "PARTICIPATORY_ACTIVITY",
-        "venue": "Vidhana Soudha",
-        "start_date": "02/10/2025",
-        "end_date": "02/10/2025",
-        "areas_of_focus": "Protecting The Environment, Promoting Peace",
-        "avenues_of_service": "Community Service, Club Service",
-        "description": "The Rotaract Club of KSSEM actively participated in the 71st Wildlife Conservation Walk organized by Rotaract District 3191 in collaboration with the Government of Karnataka, Karnataka Forest Department, Bannerghatta Biological Park, Rotary Bangalore Southend, and Mysore Sandal on 2nd October 2025.\n\nThe event commenced at Vidhana Soudha and concluded at Lalbagh, covering a symbolic route that emphasized the importance of Human–Wildlife Coexistence and environmental sustainability. Over 100 enthusiastic members from our club joined the walk, proudly representing KSSEM and contributing to this meaningful initiative.\n\nThe walkathon brought together Rotaractors, Rotarians, students, and citizens, creating a strong collective voice for wildlife protection and conservation. Participants carried banners and slogans promoting harmony between humans and nature, highlighting the urgent need to safeguard our forests and biodiversity.\n\nThis large-scale awareness event served as an inspiring platform for youth engagement, encouraging participants to adopt eco-friendly practices and spread the message of coexistence within their communities.\n\nThe Rotaract Club of KSSEM takes pride in being part of this impactful initiative and remains committed to supporting causes that nurture a greener, sustainable future for all.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/tZN_2ZDnjn22w0hFEvD99.jpg",
+        "id": "300358c9-fe99-43ae-9344-9b4fd2b283ca",
+        "name": "AVYANA - 11th Installation of Rotaract Club of KSSEM",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "Architecture Seminar Hall, KSSEM",
+        "start_date": "26/09/2025",
+        "end_date": "26/09/2025",
+        "areas_of_focus": "",
+        "avenues_of_service": "Club Service",
+        "description": "The Installation Ceremony of the Rotaract Club of KSSEM for the year 2025–26 was held with great enthusiasm and dignity, marking the beginning of another impactful Rotaract journey. The event witnessed the induction of 260 new members by our District Rotaract Representative (DRR) and the installation of 25 dedicated Board of Directors (BODs) who took charge of their respective roles for the upcoming term.\n\nThe grand event was graced by distinguished dignitaries including Rtn. Vinayananda, Assistant Governor of Rotary District 3191; Dr. Rukhmangada, Advisor for Basic Education & Literacy and founder of the club; our Parent Rotary President and Secretary; District Secretaries, ZRRs, DRCC, IPP, our Principal, HODs, and professors. A special video message was received from District Governor Rtn. Shridhar Sir, extending his heartfelt wishes to the club.\n\nThe installation preparations began a week prior, with planning and coordination carried out for over a month. Nearly 60 volunteers contributed tirelessly to ensure the success of the event. Creative content was designed and circulated across platforms to promote the ceremony.\n\nDelicious food was arranged for over 350 attendees, and as a noble gesture, the remaining food was donated to a nearby orphanage, reinforcing our Rotaract values of service and compassion.\n\nThe installation marked a new chapter of leadership, teamwork, and service for the Rotaract Club of KSSEM.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/nKZOC2yDEi2gPrp-pU_ua.png",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/o9yAvOzhWaFGkV-7ulwjH.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/B-qWJp1gWaWpyHt44YgA8.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/VFVXNEnqThMvp3iV0UYJq.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/tSlY7-Q4aoDyRef4_-DnO.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/5PM3-oXMsIMZZa7l_ZfNG.jpg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/8FnXXyxaRogC8lku6U4BK.webp",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/xfMqai15H12tsjNdc5AuO.webp",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/ZmJ-oY8aWU14wHKZ7hAZT.webp",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/KotuE6G_9ZKumvyvF-ckc.webp",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/SHzM3rTfuHRxh6kUAM1D3.webp"
+        ]
+    },
+    {
+        "id": "ad7db0e3-d150-4f8b-90a5-15790435a812",
+        "name": "Riding with a Purpose",
+        "type": "PARTICIPATORY_ACTIVITY",
+        "venue": "St. Benedicts Academy",
+        "start_date": "18/09/2025",
+        "end_date": "18/09/2025",
+        "areas_of_focus": "Supporting Education, Saving Mothers and Children",
+        "avenues_of_service": "Professional Development, Club Service",
+        "description": "The Rotary Club of Kengeri Upanagara organized an inspiring session titled “Riding with a Purpose” on 18th September 2025 at St. Benedicts Academy, featuring a motivational talk by Rtn. Biju BP from RC Trivandrum South. Around 50 to 60 students actively participated and gained valuable insights on essential life topics such as handling fear, having and pursuing ambitions or careers, the true meaning of empowerment, and nation-building activities through Rotary. The session was highly interactive, with students enthusiastically engaging and sharing their thoughts, making the event lively and impactful. It helped them reflect on personal growth and the importance of contributing positively to society. Representing our Rotaract Club of KSSEM, Rtr. Buvan Kumar BN also attended the event, strengthening the bond between Rotary and Rotaract. Overall, the talk was an enlightening and motivational experience that left a lasting impression on all participants.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/eZVOuUVwuKIq_PRQrMF22.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/DcnW3cx2do3iphz8PlY2Y.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/inyk897YVFOhTjTHqopkZ.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/FipsK6img8Z1BctiP2q-C.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/ti1jc0ticxJ_UTJ1dHHWJ.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/9XfjvouoPFPQeCuWtp5mR.jpg"
         ]
     },
     {
@@ -2021,25 +2206,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "300358c9-fe99-43ae-9344-9b4fd2b283ca",
-        "name": "AVYANA - 11th Installation of Rotaract Club of KSSEM",
-        "type": "STANDALONE_ACTIVITY",
-        "venue": "Architecture Seminar Hall, KSSEM",
-        "start_date": "26/09/2025",
-        "end_date": "26/09/2025",
-        "areas_of_focus": "",
-        "avenues_of_service": "Club Service",
-        "description": "The Installation Ceremony of the Rotaract Club of KSSEM for the year 2025–26 was held with great enthusiasm and dignity, marking the beginning of another impactful Rotaract journey. The event witnessed the induction of 260 new members by our District Rotaract Representative (DRR) and the installation of 25 dedicated Board of Directors (BODs) who took charge of their respective roles for the upcoming term.\n\nThe grand event was graced by distinguished dignitaries including Rtn. Vinayananda, Assistant Governor of Rotary District 3191; Dr. Rukhmangada, Advisor for Basic Education & Literacy and founder of the club; our Parent Rotary President and Secretary; District Secretaries, ZRRs, DRCC, IPP, our Principal, HODs, and professors. A special video message was received from District Governor Rtn. Shridhar Sir, extending his heartfelt wishes to the club.\n\nThe installation preparations began a week prior, with planning and coordination carried out for over a month. Nearly 60 volunteers contributed tirelessly to ensure the success of the event. Creative content was designed and circulated across platforms to promote the ceremony.\n\nDelicious food was arranged for over 350 attendees, and as a noble gesture, the remaining food was donated to a nearby orphanage, reinforcing our Rotaract values of service and compassion.\n\nThe installation marked a new chapter of leadership, teamwork, and service for the Rotaract Club of KSSEM.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/nKZOC2yDEi2gPrp-pU_ua.png",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/8FnXXyxaRogC8lku6U4BK.webp",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/xfMqai15H12tsjNdc5AuO.webp",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/ZmJ-oY8aWU14wHKZ7hAZT.webp",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/KotuE6G_9ZKumvyvF-ckc.webp",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/SHzM3rTfuHRxh6kUAM1D3.webp"
-        ]
-    },
-    {
         "id": "2218ae96-aecd-40e7-9507-1cde3d4d2078",
         "name": "Crack the Code Interview Edition",
         "type": "STANDALONE_ACTIVITY",
@@ -2059,22 +2225,21 @@ const projectsData = [
         ]
     },
     {
-        "id": "a999453e-0fb0-4792-ac27-1d0a22c5796d",
-        "name": "International Mega-Meeting – 2025 International Day of Peace",
+        "id": "6a5715fa-9e27-4da1-9bdf-7543908aef0e",
+        "name": "FinSmart – A Financial Literacy Awareness Session!",
         "type": "JOINT_INITIATIVE",
-        "venue": "Online (Zoom)",
-        "start_date": "20/09/2025",
-        "end_date": "20/09/2025",
-        "areas_of_focus": "Providing Clean Water, Sanitation and Hygiene, Promoting Peace",
-        "avenues_of_service": "International Service, Club Service",
-        "description": "International Mega-Meeting – 2025 International Day of Peace\n\nThe Rotaract Club of KSSEM proudly participated in the International Mega-Meeting commemorating the 2025 International Day of Peace. The event carried the theme “The World Needs More Rotaractors in Building Global Peace” and brought together Rotaractors, Rotarians, and global leaders with a shared vision of fostering harmony, cooperation, and sustainable development.\n\nThe keynote session was delivered by Steve Killelea AM, Founder and Executive Chairman of the Institute for Economics & Peace (IEP). His thought-provoking address highlighted peace as a measurable and achievable goal, emphasizing the role of evidence-based strategies and youth-driven initiatives. The event also featured the presence of distinguished leaders including Francesco Rattazzi, Prof. Stephanie Urchick, and Shekhar Mehta, who shared inspiring messages on bridging borders, building resilience, and empowering the next generation of changemakers.\n\nThe program was hosted and convened by Dr. Ozioma Eshiru, whose engaging moderation added depth to the discussions. With the Rotaract Club of Bengaluru BTM serving as the outreach partner, the session reinforced the importance of collective responsibility in peacebuilding. Our club’s participation in this global gathering underscored our commitment to advancing Rotary’s vision of peace and contributing meaningfully to a more united, resilient, and compassionate world.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/oRADLXZ5SadLtUtDEjOxO.jpg",
+        "venue": "Online (G-Meet)",
+        "start_date": "07/09/2025",
+        "end_date": "07/09/2025",
+        "areas_of_focus": "Growing Local Economies",
+        "avenues_of_service": "Finance and Foundation, Professional Development",
+        "description": "The Rotaract Club of SSMRV College, sponsored by the Rotary Club of Bangalore Cantonment, successfully organized a professional development session titled “Finsmart” on September 7th, 2025, at 6:00 PM onwards via Google Meet, in collaboration with various Rotaract Clubs, including the Rotaract Club of KSSEM.\n\nThe session aimed to promote financial literacy and provide young professionals and students with essential knowledge to manage their finances effectively. The guest speaker for the evening was Mr. Lohith Kumar, a well-known Consultant and Trainer, who shared his valuable insights on topics such as budgeting, savings, investment strategies, and financial planning for long-term stability.\n\nMr. Lohith’s engaging presentation style and real-life examples made the session both informative and interactive. Participants gained practical understanding of personal finance, the importance of early investments, and how to achieve financial independence through discipline and informed decision-making. The session concluded with an interactive Q&A segment, where Rotaractors actively participated and clarified their queries.\n\nThe event was well-coordinated under the leadership of Rtr. Pranav Y, President (2025–26), and Rtr. Sridhatri R, Secretary (2025–26). The project was chaired by Rtr. Nehan P and Rtr. Musarath Arfa, Professional Development Directors (2025–26), with Mr. Getendra Kumar as the Convenor and Dr. Vijayashree L as the Principal of SSMRV College.\n\nOverall, Finsmart was an impactful and insightful collaborative initiative that enhanced participants’ understanding of financial management. The Rotaract Club of KSSEM was proud to be part of this educational event that embodied the Rotaract spirit of learning, growth, and professional excellence.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/VJNozH0-IhXNklhrbPieb.jpg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/HG-9ZOTtKR-lbx09UonMr.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/vXW30JMylh5f-SoVI-5I4.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/EqDl7Jkxy7GJ719yCNkjY.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/ZidEne8yoVW63gdZU2jIi.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/9wXTgk5Nz1BXhM0MyFqTp.jpg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/yUehzMtBup4aJlwzY_4Vw.png",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/NiZitycvexBGjtag89ar8.png",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/NUreKUBkuFaP_Amg5O2kj.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/1WCv6W4nbJBc-f9O8CeuR.jpg"
         ]
     },
     {
@@ -2097,22 +2262,22 @@ const projectsData = [
         ]
     },
     {
-        "id": "ad7db0e3-d150-4f8b-90a5-15790435a812",
-        "name": "Riding with a Purpose",
-        "type": "PARTICIPATORY_ACTIVITY",
-        "venue": "St. Benedicts Academy",
-        "start_date": "18/09/2025",
-        "end_date": "18/09/2025",
-        "areas_of_focus": "Supporting Education, Saving Mothers and Children",
-        "avenues_of_service": "Professional Development, Club Service",
-        "description": "The Rotary Club of Kengeri Upanagara organized an inspiring session titled “Riding with a Purpose” on 18th September 2025 at St. Benedicts Academy, featuring a motivational talk by Rtn. Biju BP from RC Trivandrum South. Around 50 to 60 students actively participated and gained valuable insights on essential life topics such as handling fear, having and pursuing ambitions or careers, the true meaning of empowerment, and nation-building activities through Rotary. The session was highly interactive, with students enthusiastically engaging and sharing their thoughts, making the event lively and impactful. It helped them reflect on personal growth and the importance of contributing positively to society. Representing our Rotaract Club of KSSEM, Rtr. Buvan Kumar BN also attended the event, strengthening the bond between Rotary and Rotaract. Overall, the talk was an enlightening and motivational experience that left a lasting impression on all participants.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/eZVOuUVwuKIq_PRQrMF22.jpg",
+        "id": "a999453e-0fb0-4792-ac27-1d0a22c5796d",
+        "name": "International Mega-Meeting – 2025 International Day of Peace",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Online (Zoom)",
+        "start_date": "20/09/2025",
+        "end_date": "20/09/2025",
+        "areas_of_focus": "Providing Clean Water, Sanitation and Hygiene, Promoting Peace",
+        "avenues_of_service": "International Service, Club Service",
+        "description": "International Mega-Meeting – 2025 International Day of Peace\n\nThe Rotaract Club of KSSEM proudly participated in the International Mega-Meeting commemorating the 2025 International Day of Peace. The event carried the theme “The World Needs More Rotaractors in Building Global Peace” and brought together Rotaractors, Rotarians, and global leaders with a shared vision of fostering harmony, cooperation, and sustainable development.\n\nThe keynote session was delivered by Steve Killelea AM, Founder and Executive Chairman of the Institute for Economics & Peace (IEP). His thought-provoking address highlighted peace as a measurable and achievable goal, emphasizing the role of evidence-based strategies and youth-driven initiatives. The event also featured the presence of distinguished leaders including Francesco Rattazzi, Prof. Stephanie Urchick, and Shekhar Mehta, who shared inspiring messages on bridging borders, building resilience, and empowering the next generation of changemakers.\n\nThe program was hosted and convened by Dr. Ozioma Eshiru, whose engaging moderation added depth to the discussions. With the Rotaract Club of Bengaluru BTM serving as the outreach partner, the session reinforced the importance of collective responsibility in peacebuilding. Our club’s participation in this global gathering underscored our commitment to advancing Rotary’s vision of peace and contributing meaningfully to a more united, resilient, and compassionate world.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/oRADLXZ5SadLtUtDEjOxO.jpg",
         "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/DcnW3cx2do3iphz8PlY2Y.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/inyk897YVFOhTjTHqopkZ.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/FipsK6img8Z1BctiP2q-C.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/ti1jc0ticxJ_UTJ1dHHWJ.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/9XfjvouoPFPQeCuWtp5mR.jpg"
+            "https://media.3191-2525.clubstack.tixora.space/uploads/HG-9ZOTtKR-lbx09UonMr.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/vXW30JMylh5f-SoVI-5I4.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/EqDl7Jkxy7GJ719yCNkjY.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/ZidEne8yoVW63gdZU2jIi.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/9wXTgk5Nz1BXhM0MyFqTp.jpg"
         ]
     },
     {
@@ -2134,24 +2299,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "6a5715fa-9e27-4da1-9bdf-7543908aef0e",
-        "name": "FinSmart – A Financial Literacy Awareness Session!",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Online (G-Meet)",
-        "start_date": "07/09/2025",
-        "end_date": "07/09/2025",
-        "areas_of_focus": "Growing Local Economies",
-        "avenues_of_service": "Finance and Foundation, Professional Development",
-        "description": "The Rotaract Club of SSMRV College, sponsored by the Rotary Club of Bangalore Cantonment, successfully organized a professional development session titled “Finsmart” on September 7th, 2025, at 6:00 PM onwards via Google Meet, in collaboration with various Rotaract Clubs, including the Rotaract Club of KSSEM.\n\nThe session aimed to promote financial literacy and provide young professionals and students with essential knowledge to manage their finances effectively. The guest speaker for the evening was Mr. Lohith Kumar, a well-known Consultant and Trainer, who shared his valuable insights on topics such as budgeting, savings, investment strategies, and financial planning for long-term stability.\n\nMr. Lohith’s engaging presentation style and real-life examples made the session both informative and interactive. Participants gained practical understanding of personal finance, the importance of early investments, and how to achieve financial independence through discipline and informed decision-making. The session concluded with an interactive Q&A segment, where Rotaractors actively participated and clarified their queries.\n\nThe event was well-coordinated under the leadership of Rtr. Pranav Y, President (2025–26), and Rtr. Sridhatri R, Secretary (2025–26). The project was chaired by Rtr. Nehan P and Rtr. Musarath Arfa, Professional Development Directors (2025–26), with Mr. Getendra Kumar as the Convenor and Dr. Vijayashree L as the Principal of SSMRV College.\n\nOverall, Finsmart was an impactful and insightful collaborative initiative that enhanced participants’ understanding of financial management. The Rotaract Club of KSSEM was proud to be part of this educational event that embodied the Rotaract spirit of learning, growth, and professional excellence.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/VJNozH0-IhXNklhrbPieb.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/yUehzMtBup4aJlwzY_4Vw.png",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/NiZitycvexBGjtag89ar8.png",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/NUreKUBkuFaP_Amg5O2kj.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/1WCv6W4nbJBc-f9O8CeuR.jpg"
-        ]
-    },
-    {
         "id": "dc32b79b-4989-4490-b974-73c55789e607",
         "name": "Ganesha Utsav 5.0",
         "type": "JOINT_INITIATIVE",
@@ -2168,6 +2315,42 @@ const projectsData = [
             "https://media.3191-2525.clubstack.tixora.space/uploads/FuEPaCc_SLzJnbixoU2dI.jpg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/gql85YySRSJqlyhzGPHT2.jpg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/EfROGOEMxTozpayElpdPm.jpg"
+        ]
+    },
+    {
+        "id": "015d556b-1880-4c1f-a571-563d2645df69",
+        "name": "Bag It Forward – Bags for a Cause",
+        "type": "JOINT_INITIATIVE",
+        "venue": "Bengaluru",
+        "start_date": "10/08/2025",
+        "end_date": "30/09/2025",
+        "areas_of_focus": "Growing Local Economies",
+        "avenues_of_service": "Public Image, Community Service",
+        "description": "The Rotaract Club of KSSEM proudly collaborated with the Rotaract Club of KLE Law College for their meaningful community initiative, “Bag It Forward – Bags for a Cause.” 🌿\n\nThe project aimed to promote environmental sustainability by supporting local street vendors and encouraging the use of eco-friendly packaging. As part of the collaboration, our club actively participated by collecting clean and reusable paper bags from members. These bags, sourced from various household and delivery platforms such as Zepto, Blinkit, and Instamart, were gathered, sorted, and handed over to the organizing club for further distribution.\n\nThe initiative sought to replace single-use plastics with sustainable alternatives, thereby reducing environmental pollution while easing packaging expenses for small vendors. Through our collective efforts, we contributed to spreading awareness on responsible waste management and sustainable living.\n\nThis collaboration not only strengthened our bond with fellow Rotaract clubs but also reinforced our shared commitment to creating a greener, more compassionate community. 💚\n\nTogether, we proved that even small actions — like reusing a paper bag — can create lasting positive change.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/V7mnyQdAEvNMlYkfAJOt0.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/M1H8VLM-PMwnI2_gvSrvi.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Ipeocbv2Q1Gz7FZHHUtQM.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Tah2s6nvmqOoMUElHqcwq.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Ofzd7WupDvcpf7XrfZtah.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/kTvzaNdt3cIbu2AUrxJHX.jpg"
+        ]
+    },
+    {
+        "id": "af7c55dc-dae6-4175-b29d-a27bac4ce140",
+        "name": "Brunch with BODs",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "Tummy Town, Vajarahalli",
+        "start_date": "23/08/2025",
+        "end_date": "23/08/2025",
+        "areas_of_focus": "Growing Local Economies",
+        "avenues_of_service": "Club Service",
+        "description": "The Rotaract Club of KSSEM organized “Brunch with BODs”, a special club service breakfast outing exclusively for our Board of Directors at Tummy Town, Vajarahalli. The event was designed to give our BODs a refreshing break from routine meetings and provide a relaxed atmosphere to connect, bond, and celebrate teamwork. Over delicious food and cheerful conversations, members engaged in meaningful discussions about upcoming plans, shared personal insights, and reflected on the journey so far. The outing was more than just a meal—it was an opportunity to build stronger relationships, encourage open communication, and nurture the spirit of togetherness that drives our club. Such informal gatherings help foster friendship, boost motivation, and remind us that teamwork flourishes when bonds are strengthened outside the meeting room as well. The brunch turned out to be a memorable and joyful experience, setting the tone for a productive and united year ahead.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/KYLtgtKI28FwcUqBBDd1o.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/wxYKc3Vk6iKjoqT92Dz9M.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/6Hu75OELeFa321F4bgdnE.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/SavVDzIeljbIMvKXNKxra.jpg"
         ]
     },
     {
@@ -2225,42 +2408,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "af7c55dc-dae6-4175-b29d-a27bac4ce140",
-        "name": "Brunch with BODs",
-        "type": "STANDALONE_ACTIVITY",
-        "venue": "Tummy Town, Vajarahalli",
-        "start_date": "23/08/2025",
-        "end_date": "23/08/2025",
-        "areas_of_focus": "Growing Local Economies",
-        "avenues_of_service": "Club Service",
-        "description": "The Rotaract Club of KSSEM organized “Brunch with BODs”, a special club service breakfast outing exclusively for our Board of Directors at Tummy Town, Vajarahalli. The event was designed to give our BODs a refreshing break from routine meetings and provide a relaxed atmosphere to connect, bond, and celebrate teamwork. Over delicious food and cheerful conversations, members engaged in meaningful discussions about upcoming plans, shared personal insights, and reflected on the journey so far. The outing was more than just a meal—it was an opportunity to build stronger relationships, encourage open communication, and nurture the spirit of togetherness that drives our club. Such informal gatherings help foster friendship, boost motivation, and remind us that teamwork flourishes when bonds are strengthened outside the meeting room as well. The brunch turned out to be a memorable and joyful experience, setting the tone for a productive and united year ahead.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/KYLtgtKI28FwcUqBBDd1o.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/wxYKc3Vk6iKjoqT92Dz9M.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/6Hu75OELeFa321F4bgdnE.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/SavVDzIeljbIMvKXNKxra.jpg"
-        ]
-    },
-    {
-        "id": "d4705892-1d72-4178-85d7-a432cf08299c",
-        "name": "Paws In Light",
-        "type": "STANDALONE_ACTIVITY",
-        "venue": "Bengaluru",
-        "start_date": "20/08/2025",
-        "end_date": "24/08/2025",
-        "areas_of_focus": "Fighting Disease",
-        "avenues_of_service": "Community Service",
-        "description": "The event Paws in Light was a compassionate initiative carried out from 20th August to 24th August 2025 to ensure the safety of street dogs, particularly during the night. The central focus of the program was the distribution of reflector belts, a simple yet highly effective measure to reduce the risks faced by dogs on busy roads after dark.\n\nFor this activity, volunteers came forward to collect a number of reflector belts. These belts were then carefully fitted onto street dogs across different areas. Made of reflective material, the belts shine brightly when exposed to vehicle headlights, making the dogs easily visible to motorists. This thoughtful step aimed to prevent road accidents and give the dogs a greater chance of survival in urban environments.\n\nThe event was not only practical but also symbolic. It emphasized that even small actions, when done with empathy, can bring about a meaningful change in society. By focusing on animal safety, Paws in Light served as a reminder of the responsibility humans share in protecting the lives of animals that coexist with us.\n\nTo document the initiative, photographs were taken while the belts were being distributed and fitted onto the dogs. These pictures, later collected from the participants, captured touching moments of kindness and care. They also served as an important medium to spread awareness, inspiring others to adopt similar practices in their own communities.\n\nUltimately, Paws in Light was more than just a distribution drive—it was a movement of compassion. Conducted between 20th and 24th August 2025, the event highlighted how thoughtful, collective efforts can help build a safer environment for animals. The glowing belts around the dogs symbolized not only safety but also the light of empathy, reminding everyone that kindness, no matter how small, always shines the brightest.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/u8Tvm6dbYy5_ITSTCgYl3.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Zee99lTrGyh__kNI2fidh.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/NH2xdZR8Zng3oiCd2iF1g.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/cXn9dXV-Kbt-S1x0Z6Yq7.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/vJMz26oQEQkd_GLDRh4i8.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/_L0QBzC7faiKolJwLA63c.jpg"
-        ]
-    },
-    {
         "id": "4d81ec45-5962-4d4a-bdc4-1b042bdb4dfc",
         "name": "Independence Day Celebration at KSSEM",
         "type": "STANDALONE_ACTIVITY",
@@ -2299,25 +2446,6 @@ const projectsData = [
         ]
     },
     {
-        "id": "015d556b-1880-4c1f-a571-563d2645df69",
-        "name": "Bag It Forward – Bags for a Cause",
-        "type": "JOINT_INITIATIVE",
-        "venue": "Bengaluru",
-        "start_date": "10/08/2025",
-        "end_date": "30/09/2025",
-        "areas_of_focus": "Growing Local Economies",
-        "avenues_of_service": "Public Image, Community Service",
-        "description": "The Rotaract Club of KSSEM proudly collaborated with the Rotaract Club of KLE Law College for their meaningful community initiative, “Bag It Forward – Bags for a Cause.” 🌿\n\nThe project aimed to promote environmental sustainability by supporting local street vendors and encouraging the use of eco-friendly packaging. As part of the collaboration, our club actively participated by collecting clean and reusable paper bags from members. These bags, sourced from various household and delivery platforms such as Zepto, Blinkit, and Instamart, were gathered, sorted, and handed over to the organizing club for further distribution.\n\nThe initiative sought to replace single-use plastics with sustainable alternatives, thereby reducing environmental pollution while easing packaging expenses for small vendors. Through our collective efforts, we contributed to spreading awareness on responsible waste management and sustainable living.\n\nThis collaboration not only strengthened our bond with fellow Rotaract clubs but also reinforced our shared commitment to creating a greener, more compassionate community. 💚\n\nTogether, we proved that even small actions — like reusing a paper bag — can create lasting positive change.",
-        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/V7mnyQdAEvNMlYkfAJOt0.jpg",
-        "photos": [
-            "https://media.3191-2525.clubstack.tixora.space/uploads/M1H8VLM-PMwnI2_gvSrvi.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Ipeocbv2Q1Gz7FZHHUtQM.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Tah2s6nvmqOoMUElHqcwq.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/Ofzd7WupDvcpf7XrfZtah.jpg",
-            "https://media.3191-2525.clubstack.tixora.space/uploads/kTvzaNdt3cIbu2AUrxJHX.jpg"
-        ]
-    },
-    {
         "id": "15c5337a-4e91-4757-932d-63846b25aef4",
         "name": "Prathiba Parva",
         "type": "PARTICIPATORY_ACTIVITY",
@@ -2333,6 +2461,25 @@ const projectsData = [
             "https://media.3191-2525.clubstack.tixora.space/uploads/LUIDRiE-b1wwTSbErCNTE.jpg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/peFu-6z71fiXj__fqJBGX.jpg",
             "https://media.3191-2525.clubstack.tixora.space/uploads/nlUCZSO7jV6uYeCEZK8Nk.jpg"
+        ]
+    },
+    {
+        "id": "d4705892-1d72-4178-85d7-a432cf08299c",
+        "name": "Paws In Light",
+        "type": "STANDALONE_ACTIVITY",
+        "venue": "Bengaluru",
+        "start_date": "20/08/2025",
+        "end_date": "24/08/2025",
+        "areas_of_focus": "Fighting Disease",
+        "avenues_of_service": "Community Service",
+        "description": "The event Paws in Light was a compassionate initiative carried out from 20th August to 24th August 2025 to ensure the safety of street dogs, particularly during the night. The central focus of the program was the distribution of reflector belts, a simple yet highly effective measure to reduce the risks faced by dogs on busy roads after dark.\n\nFor this activity, volunteers came forward to collect a number of reflector belts. These belts were then carefully fitted onto street dogs across different areas. Made of reflective material, the belts shine brightly when exposed to vehicle headlights, making the dogs easily visible to motorists. This thoughtful step aimed to prevent road accidents and give the dogs a greater chance of survival in urban environments.\n\nThe event was not only practical but also symbolic. It emphasized that even small actions, when done with empathy, can bring about a meaningful change in society. By focusing on animal safety, Paws in Light served as a reminder of the responsibility humans share in protecting the lives of animals that coexist with us.\n\nTo document the initiative, photographs were taken while the belts were being distributed and fitted onto the dogs. These pictures, later collected from the participants, captured touching moments of kindness and care. They also served as an important medium to spread awareness, inspiring others to adopt similar practices in their own communities.\n\nUltimately, Paws in Light was more than just a distribution drive—it was a movement of compassion. Conducted between 20th and 24th August 2025, the event highlighted how thoughtful, collective efforts can help build a safer environment for animals. The glowing belts around the dogs symbolized not only safety but also the light of empathy, reminding everyone that kindness, no matter how small, always shines the brightest.",
+        "cover_photo": "https://media.3191-2525.clubstack.tixora.space/uploads/u8Tvm6dbYy5_ITSTCgYl3.jpg",
+        "photos": [
+            "https://media.3191-2525.clubstack.tixora.space/uploads/Zee99lTrGyh__kNI2fidh.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/NH2xdZR8Zng3oiCd2iF1g.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/cXn9dXV-Kbt-S1x0Z6Yq7.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/vJMz26oQEQkd_GLDRh4i8.jpg",
+            "https://media.3191-2525.clubstack.tixora.space/uploads/_L0QBzC7faiKolJwLA63c.jpg"
         ]
     },
     {
